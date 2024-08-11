@@ -1,0 +1,1469 @@
+CỘI NGUỒN TRUYỀN THỪA & PHƯƠNG PHÁP TU TRÌ CỦA THIỀN TÔMG
+Tác giả: Nguyệt Khê Thiền Sư - Dịch Giả: Thích Duy Lực
+
+coi_nguon_truyen_thuaMục Lục
+Lời dịch giả
+Lời luận tổng quát
+Chương I: Cội Nguồn Tryền Thừa
+Chương II: Yếu chỉ Thiền Tông
+Chương III: Thỉnh Ích (Hỏi Đạo)
+Phụ Lục:
+1) Nguyệt Khê Pháp Sư Cao Ngọa Xứ Bi Văn
+2) Tiểu truyện của Nguyệt Khê Pháp Sư
+
+LỜI DỊCH GIẢ
+
+
+
+Quyển sách này rất có giá trị đối với người tham thiền, nhưng rất tiếc vì có ý kiến của người biên soạn (Người biên soạn đây chỉ là người sưu tập để xuất bản) xen vào nên làm giảm giá trị quyển sách. Người biên soạn hình như không có tham thiền, đối với Phật pháp cũng chưa được thông thạo, chỉ đem những tác phẩm như THAM THIỀN TU PHÁP, NGUYỆT KHÊ NGỮ LỤC, PHẬT PHÁP VẤN ĐÁP LỤC, ĐẠI THỪA BÁT TÔNG TU PHÁP của Ngài Nguyệt Khê gom lại thành quyển sách này, trong đó lại thêm vào những lời của người giáo môn và ý kiến của tự mình, nghịch với ý chí của Ngài NGUYỆT KHÊ mà chẳng tự biết, mà người biên soạn chỉ biết giữ bản quyền - không cho người khác in lại, đối với văn tự trong sách, do người sắp chữ sắp lộn, có rất nhiều chỗ lời sai chữ trật cũng vẫn để y nguyên mà không dò lại và sử cho kỹ. 
+
+Chúng tôi vì muốn giữ đúng ý chí của Ngài NGUYỆT KHÊ mà chẳng di hại cho người đọc nên lược bỏ phần nghịch với ý chí của tác giả và giảm bớt những lời trùng nhau.
+
+NGUYỆT KHÊ Thiền sư đã tịch năm 1965, sách này được in vào năm 1971.
+
+Cuối quyển sách này có một bài đề mục là NGUYỆT KHÊ Pháp Sư Cao Ngọa Xứ Bi Văn (tiểu sử), soạn năm 1971, trong đó không đề cập đến sự viên tịch của Ngài Nguyệt Khê, nên chúng tôi dịch thêm tiểu sử của Ngài do Mục sư Vương Cảnh Khánh soạn. Dù chúng tôi giữ thái độ thận trọng trong việc phiên dịch quyển sách này, nhưng vẫn có thể còn nhiều chỗ sơ sót, xin độc giả hoan hỷ chỉ giáo cho.
+
+ 
+
+LỜI LUẬN TỔNG QUÁT
+
+Thế nào gọi là THIỀN?
+
+I.- ĐỊNH NGHĨA CỦA THIỀN.
+
+THIỀN NA là tiếng Ấn Độ, xưa dịch TƯ DUY TU, sau dịch TỊNH LỰ, gọi tắt là THIỀN.
+
+Trước đời Phật Thích Ca, có ông PHẤT ĐANG LA (Nirgranto Jnati Putra) đã sáng lập giáo pháp Thiền Na, dùng khổ hạnh để tu luyện. Sau này Phật Thích Ca lập ra sáu thứ Ba La Mật, cái thứ năm cũng gọi là Thiền na. Kỳ thực hai chữ THIỀN NA chỉ là một tên gọi thông thường về phương pháp tu luyện.
+
+Ngôn giáo của Phật Thích Ca bất cứ Đại Thừa, Tiểu Thừa đều lấy TU THIỀN làm chủ yếu. Các phái ngoại đạo mỗi mỗi đều tự lập pháp Thiền của họ. Tên gọi dù đồng nhau, nhưng tính chất nội dung mỗi mỗi chẳng đồng, như MƯỜI HAI TỊNH PHÁP THIỀN của Phất Đang La, Phi Tưởng Phi phi Tưởng Thiền của Bà La Môn đều khác; nói về THIỀN của Phật Giáo như Lục Đồ Thiền của Đại Thừa, Tứ Đế và Thập nhị Nhân Duyên Thiền của Tiểu Thừa đều khác nhau, còn Bất Lập Văn Tự Thiền của Tối thượng thừa, gọi là “Giáo ngoại biệt truyền”, là do Phật Thích Ca đích thân truyền cho Ma Ha Ca Diếp, sau đó Bồ Đề Đạt Ma truyền vào Trung Quốc. Phái Thiền này chỉ chú trọng phương pháp thực hành, chẳng lập văn tự lý luận, nên gọi là Thiền Tông, khác hẳn với các phái Thiền kia.
+
+THIỀN TÔNG ở Trung Quốc từ đời Đường đến đời Tống rất là thịnh vượng, truyền đến ngày nay vẫn còn phổ biến khắp nơi. Cho nên người ta nói đến hai chữ “Tham Thiền" đều chỉ pháp Thiền của Thiền Tông này. Kỳ thật ở trong Phật Giáo, từ Tiểu Thừa cho đến Đại Thừa, các tông các phái mỗi mỗi đều có pháp Thiền riêng biệt, lý lẽ và phương pháp, trực tiếp hay gián tiếp, tích cực hay tiêu cực mỗi phái mỗi khác. Xét theo lịch sử kể trên, chúng ta muốn lập ra một định nghĩa chính xác của chữ Thiền thật là rất khó, nhưng quyển sách này chỉ sáng tỏ về pháp Thiền của Tổ Đạt Ma truyền vào Trung Quốc. Do đó chúng ta chỉ có thể dựa theo Tông chỉ của Thiền Tông, giả thiết một định nghĩa cho chữ Thiền.
+
+Theo pháp tu thông thường, đối với khái niệm của chữ Thiền là từ nhân đến quả, tức là từ nhân vị theo thứ lớp tu tập cho đến chứng quả thành Phật, đều là những phương pháp Tiệm tu, nhưng theo khái niệm của Thiền Tông thì chẳng phải vậy, vì đường lối thực hành của Thiền Tông là pháp trực tiếp, ngay đó hiển thị quả Phật. Chư Tổ nói: “Thấy phải thấy ngay, suy nghĩ là sai”. Kỳ thật quả đã được rồi thì nhân cũng đồng thời giải quyết xong, cho nên gọi là Thiền đốn ngộ. Định nghĩa của Thiền Đốn Ngộ là “Chẳng lập văn tự, chỉ thẳng tâm người, thấy tánh thành Phật".
+
+Tại sao phải chỉ thẳng tâm người, chẳng lập văn tự? Vì văn tự là một tên gọi giả danh, phải qua suy nghĩ rồi mới có thể biểu hiện ra, nên chỉ là một việc gián tiếp, còn bản thể của chơn tâm (cũng gọi là tự tánh) là một sự thực tế rốt ráo, cảnh giới ấy chẳng thể dùng kinh nghiệm suy nghĩ mà đến được, vậy cách gián tiếp của ngôn ngữ văn tự, tự nhiên chẳng có cách để diễn tả. Nên Phật Thích Ca nói: “Ta thuyết pháp 49 năm, chưa từng thuyết một chữ”, lại nói: “Kinh giáo liễu nghĩa như ngón tay chỉ mặt trăng, nếu thấy được mặt trăng thì biết ngón tay chẳng phải mặt trang”. Thế thì ngôn ngữ văn tự là ngón tay để chỉ mặt trăng, nhưng ngón tay chẳng phải mặt trăng, chỉ là một việc gián tiếp, sự chỉ thị gián tiếp dù cũng là một phương pháp để đạt đến bản thể chơn tâm, nhưng chẳng bằng sự rốt ráo giản dị của chỉ thị trực tiếp, lại sự chỉ thị của ngón tay (ngôn ngữ văn tự) truyền đến đời sau, có người lại nhận lầm cho ngón tay tức là mặt trăng. Do đó pháp Thiền trực tiếp Đốn ngộ của Thiền Tông bèn tùy nhu cầu khắp mọi nơi. Dù nói chẳng lập văn tự, nhưng chẳng phải phế bỏ văn tự, giá trị của văn tự được chư Tổ Thiền Tông chú trọng, cũng như Tổ Đạt Ma dùng kinh Lăng Già đế ấn chứng hậu học.
+
+Thế Tôn ở nơi pháp hội Linh Sơn, đưa lên cành hoa, tất cả đại chúng đều ngơ ngác, chỉ có Ngài Ca Diếp mỉm cười. Thế Tôn nói: “Ta có Chánh Pháp nhãn tạng, Niết Bàn diệu tâm, Thật tướng Vô tướng, Pháp môn vi diệu. Chẳng lập văn tự, Giáo ngoại biệt truyền, nay phó chúc cho Ma Ha Ca Diếp”. Từ đó pháp Thiền trực tiếp của Thiền Tông, căn cứ theo việc này lấy Tâm truyền Tâm.
+
+Phương pháp trực tiếp biểu thị Phật tánh này, Phật Thích Ca đã dùng qua nhiều lần, cnũg như Thế Tôn đem hạt châu Ma Ni Tùy Sắc hỏi Ngũ Phương Thiên Vương rằng: “Hạt châu này màu gì?. Khi ấy ngũ Phương Thiên Vương tùy sự thấy của mình đều trả lời màu sắc khác nhau. Thế Tôn dấu hạt châu rồi lại đưa tay hỏi tiếp: “Hạt châu này màu gì?”. Các Thiên Vương nói: “Trong tay Phật chẳng có hạt châu thì đâu còn màu gì!”. Thế Tôn nói: “Các ngươi sao mê muội điên đảo quá? Ta đem hạt châu thế gian cho xem thì nói có xanh, vàng, đỏ, trắng, Ta thị hiện hạt châu chơn thật thì chẳng biết gì cả!”. Khi ấy Ngũ Phương Thiên Vương đều tự ngộ đạo.
+
+Lại một hôm khác, ngoại đạo hỏi Thế Tôn: “Không hỏi một lời, không hỏi chẳng lời”. Thế Tôn im lặng giây lâu, ngoại đạo tán thán rằng: “Thế Tôn đại từ đại bi, khai phá đám mây mê muội cho con, khiến con được ngộ nhập”, xong đảnh lễ rồi ra đi. Ngài A Nan hỏi Phật: “Ngoại đạo được lý lẽ gì mà tán thán?”.
+
+Thế Tôn nói: “Như con ngựa hay của thế gian, thấy bóng roi liền chạy nhanh”.
+
+Việc dấu hạt châu rồi đưa tay và sự im lặng giây lâu đều là phương pháp trực tiếp chỉ thị bản thể của Chơn tâm chẳng phải chỉ có một việc “Niêm hoa thị chúng” mà thôi!
+
+“Chẳng lập văn tự" chẳng phải tuyệt đối phế bỏ văn tự, nếu Phật Thích Ca phế bỏ văn tự thì Tam tạng kinh điển từ đâu mà ra? Nếu Tổ Đạt Ma tuyệt đối phế bỏ văn tự thì chẳng nên dùng kinh Lăng Già để ấn chứng hậu học. Thiền Tông nói chẳng lập văn tự, bất quá dùng để sáng tỏ phương pháp trực tiếp và phương pháp gián tiếp vốn là khác nhau mà thôi.
+
+II.- PHÁP THIỀN RA ĐỜI LÀ DO NHU CẦU TỰ NHIÊN CỦA LOÀI NGƯỜI.
+
+Loài người đời Thượng Cổ ngu mê ngoan cố, trí tuệ bị vô minh che khuất, linh tánh bị ngũ uẩn tam độc chi phối, sống trong cuộc sống dã man, nhưng Phật tánh vốn viên mãn, giống như quặng thất bửu ẩn giấu dưới đất, chỉ đợi người khai phá ra. Sau này trí thức mở mang, trước tiên đối với hiện tượng thế giới cảm thấy đủ thứ kỳ lạ và nghi hoặc, rồi sanh tâm tìm cầu bí mật của vũ trụ, hy vọng được giải thích cho rõ ràng, kế đó trở lại tìm hiểu tự tâm, muốn truy cứu nguồn gốc của sự biến hóa chẳng ngừng, sau cùng mới được nhờ sức Trí tuệ Bát Nhã, mong chứng nhập cùng tột rốt ráo của Bản thể tự tánh để vượt ra ngoài sanh tử luân hồi, ấy tức gọi là việc minh tâm kiến tánh thành Phật vậy.
+
+Ý nghĩa của hai chữ NHƯ LAI là bổn lai như thế, vì Phật tánh và pháp Thiền vốn sẵn đầy đủ, khắp không gian và thời gian, diệu dụng vô biên, nên Phật Thích Ca thường dùng hai chữ NHƯ LAI để đại diện cho bản thể Phật tánh và diệu dụng, nhưng chỉ có người đích thân chứng nhập mơi được triệt để thấu rõ ý nghĩa của hai chữ NHƯ LAI và giá trị chơn chánh của pháp thiền.
+
+III.- SỰ KHÁC BIỆT CỦA THIỀN HỌC VỚI HÌNH NHI THƯỢNG HỌC.
+
+Người ta thường hay nhận lầm Thiền học tức là Hình nhi thượng học của Triết học Tây phương, thật ra thì chẳng đúng. Bởi Hình nhi thưọng học là một môn học để giải thích bản thể của vạn hữu, mà pháp Thiền là phương pháp dùng để chứng nhập bản thể của vạn hữu. Hình nhi thượng học dù muốn giải thích bản thể của vạn hữu, nhưng vì bản thân của người nghiên cứu chưa chứng nhập bản thể cho nên chẳng có cách nào chơn chánh để nhận biết bản thể và giải đáp một cách đầy đủ triệt để. Thật bản thể này chẳng phải dùng kinh nghiệm suy tư có thể đạt đến, như kinh Viên Giác nói: “Dùng tâm suy tư để đo lường cảnh giới của Như Lai, như lấy lửa đom đóm để đốt núi Tu Di thì làm sao cháy được!”.
+
+Học giả Tây phương đối với vấn đề chơn thật siêu việt kinh nghiệm xưa nay chẳng có cách nào để giải quyết, như các nhà triết học Emmanuel KANT (1724-1804) bèn cho trí thức năng lực của con người chỉ có thể nhận biết thế giới tương đối trong phạm vi cảm giác suy tư, đối với cái bản thể thế giới tuyệt đối siêu việt kinh nghiệm suy tư thì chẳng có cách nào để nhận biết được, lại có người cho rằng việc này chẳng cần nghiên cứu nữa, rồi chuyển hướng hết lòng để nghiên cứu khoa học, nhưng đại đa số học giả vẫn cho là trong thế hệ Triết học chẳng thể thiếu sự nghiên cứu Hình nhi thượng học, bất quá chẳng lấy bản thể tuyệt đối làm đối tượng nghiên cứu, chỉ lấy lý luận căn bản của sự vật để làm vấn đề nghiên cứu mà thôi. Cho nên trong Triết học Tây phương chỉ có bản thể luận tương đối, chẳng có bản thể luận tuyệt đối.
+
+Từ xưa nay trải qua mấy ngàn năm, học giả Tây phương đều hướng vào kinh nghiệm suy tư để làm công phu, chẳng những không được chứng nhập bản thể siêu việt kinh nghiệm suy tư, lại nghiên cứu sâu chừng nào thì xa lìa bản thể nhiều chừng nấy, cái nguyên do là thiếu một phương pháp để chứng nhập bản thể.
+
+Sự Tham Thiền chẳng phải trực giác, trực giác là do tác dụng của bộ não thần kinh, bộ não thần kinh chẳng thể biết được Phật tánh. Các học giả Tây phương chỉ tùy theo kinh nghiệm trong vật chất, chọn cái nào là căn bản nhất để làm cái nguồn gốc của vạn vật mà thôi.
+
+Trong lúc nhà triết học Hy Lạp đang dùng kinh nghiệm suy tư để truy cứu nguồn gốc của vạn vật, thì Phật Thích Ca phát minh được phương pháp để trực tiếp chứng nhập bản thể, siêu việt kinh nghiệm suy tư đã mấy ngàn năm. Cho nên pháp Thiền của Phật Thích Ca thật là một phát minh lớn nhất của loài người, giá trị ấy thật chẳng thể đo lường.
+
+Từ khi Phật Thích Ca phát minh pháp Thiền trực tiếp chứng nhập, người tu theo pháp này được kiến tánh thành Phật (chứng nhập bản thể) đã vô số kể, chỉ nói về Trung Quốc, người được kiến tánh, được ghi trong các Truyền Đăng Lục, đã hơn bảy ngàn người, còn những người đã kiến tánh mà chưa được ghi vào thì chẳng biết là bao.
+
+IV.- MUỐN GIẢI QUYẾT VẤN ĐỀ BẢN THỂ CHỈ CÓ CÁCH THAM THIỀN.
+
+Bản thể tức là việc rất thực tế rốt ráo, nhà Phật gọi là thật tướng, cũng gọi là Chơn như Phật tánh, tên gọi rất nhiều, đều tùy dụng đặt danh, cái ý nghĩa của bản thể này với bản thể của nhà Triết học Tây phương khác nhau, muốn chứng nhập bản thể, ngoài Tham Thiền chẳng cách nào khác.
+
+Nhà Triết học Tây phương đối với vấn đề bản thể chỉ có một thái độ nghiên cứu để nhận biết, nhà Phật đối với Chơn như Phật tánh thì tỏ ra một thái độ thọ dụng thực tế, vì người Tham Thiền một khi được chứng nhập bản thể tức là kiến tánh thành Phật, ra khỏi sanh tử luân hồi, được sự thọ dụng lớn (tự do, tự tại vĩnh viễn), mục đích của người học Phật là vậy. Nên bất cứ tông phái nào trong Phật Giáo đều lấy pháp Thiền làm căn bản, đồng thời căn cứ theo pháp Thiền đó có thể khiến người kiến tánh hay không mà phân biệt cao thấp. Như Tiểu Thừa dứt lục căn, phá ngã chấp mà lọt vào pháp chấp, Trung Thừa phá pháp chấp mà lọt vào không chấp, ấy đều chưa thể chứng nhập bản thể, chẳng được kiến tánh thành Phật. Đại Thừa Bồ Tát phá không chấp (vô thỉ vô minh) rồi đạt đến cảnh giới tuyệt đối của thật tướng, phương pháp của Thiền Tông là chẳng nhờ tất cả kinh nghiệm lý luận để đạt đến, mà chỉ là một phương pháp trực tiếp chứng nhập, gọi là Đốn ngộ thành Phật.
+
+ 
+
+CHƯƠNG I
+
+CỘI NGUỒN TRUYỀN THỪA
+ 
+
+1.- NGUỒN GỐC CỦA PHÁP THIỀN.
+
+Loài người từ nguyên thỉ ngu dại ngoan cố, Phật tánh Bát Nhã bị vô thỉ vô minh che khuất nên thân tâm hoạt động đều bị ngũ uẩn, tam độc chi phối, sống trong cuộc sống dã man, nhưng Phật tánh vốn sẵn viên mãn chẳng có thiếu sót, như ngọc quí ẩn trong phiến đá chỉ đợi người khai thác ra mà thôi. Sau này trí thức mở mang mới cảm thấy hiện tượng vũ trụ kỳ lạ, lại tôn sùng cho là thần linh, kế đó phát tâm truy cứu cái bí mật của vũ trụ. Ban đầu thì muốn nhờ não bộ lý giải để xác định qui tắc, sau này trở về tìm nội tâm muốn truy cứu chỗ nguồn gốc biến hóa. Những người trí tuệ cao siêu thì muốn nhờ sức Bát Nhã để cầu chứng nhập chỗ cùng tột của bản thể, vượt ra ngoài sanh tử luân hồi, do đó pháp Thiền liền đáp ứng sự nhu cầu mà ra đời.
+
+Cứu xét lịch sử tiến hóa của loài người, các dân tộc phương Đông và phương Tây, tổ tiên của họ đều có sự nhu cầu như thế, đồng thời mỗi mỗi đều có sự phát hiện quí báu, chỉ vì hoàn cảnh trí huệ khác biệt, đường lối thực hành chẳng đồng, nên được kết quả sai biệt cách xa như trời với đất. Các nhà tôn giáo Tây phương thì chú trọng linh cảm, nhà Triết học thì tôn sùng khái niệm và trực giác, các phái đạo gia của Trung Quốc thì tọa vong, nhà nho thì Duy Tinh Duy Nhất, thảy đều có mùi vị Thiền.
+
+Thiền pháp của Bà La Môn Ấn Độ, sáng lập trước hơn các nước khác, nhưng tất cả đều chưa lìa được tác dụng KIẾN, VĂN, GIÁC, TRI, nên chẳng có cách nào để chứng nhập chỗ cùng tột của bản thể, từ xưa nay vẫn phải chịu sự luân hồi trong tam giới. Chỉ có Phật Thích Ca mâu Ni phát minh được Thiền pháp Bát Nhã và dùng nó để phá tan hầm sâu vô minh, triệt để chứng ngộ vào Vô Dư Niết Bàn, nên gọi là kiến tánh thành Phật. Phật Thích Ca đặt tên pháp này gọi là Pháp Bản Trụ, ý là tự nhiên bản trụ, chẳng do tạo tác mà có, và phủ nhận chẳng do tự mình phát minh.
+
+Kinh Lăng Già nói: “Ví như người đang đi ngoài đồng, thấy có đường đi bằng phẳng liền theo đó vào thành, thọ dụng sự an lạc như ý. Xưa kia tất cả Phật đều đi đường này thì nay ta cũng đi theo mà thôi”. Do đó mà xét thì biết pháp Thiền ra đời là do nhu cầu tự nhiên của loài người, trước khi chưa có loài người, Phật tánh đã sẵn sàng và pháp Thiền cũng đã là bản trụ. Bao nhiêu Cổ Phật trước đời Phật Thích Ca đều nương theo đường này mà đạt đến chỗ chơn như rốt ráo, vô lượng chư Phật – sau đời Phật Thích Ca cũng sẽ nương theo đường này để đạt đến giác ngộ cuối cùng. Ngoài pháp này ra chẳng có pháp nào khác, nên đường lối này dù là sẵn có, nếu chẳng có Phật Thích Ca chỉ thị thì chúng sanh ắt phải quanh quẩn trong ngã rẽ mà quên việc trở nhà.
+
+2.- PHÁP THIỀN CỦA PHẬT THÍCH CA.
+
+Trước đời Phật Thích Ca, các Tông phái Bà La Môn Ấn Độ đều có pháp Thiền tu hành của họ, pháp danh tiếng nhất như: Mười hai Tịnh Pháp Thiền, Phi Tưởng Phi Phi Tưởng Thiền, đều là ngoại đạo dùng đó để tu được sanh cõi trời. Khi Phật Thích Ca mới xuất gia, từng tham học các Thiện tri thức của Bà La Môn, đối với pháp Thiền của họ đều chưa hài lòng, cho nên vào Tuyết Sơn tự tu. Ban sơ vẫn dùng Phi Tưởng Phi Phi Tưởng Thiền đoạn niệm dứt dục trải qua sáu năm chẳng kết quả gì, biết Pháp Thiền của Bà La Môn là sai, nên tắm gội, ăn uống lại rồi đến ngồi gốc cây Bồ đề, dùng pháp Thiền Bát Nhã Tam muội phản quang quán chiếu soi, trải qua 49 ngày liền chứng quả Phật, than rằng: “Lạ thay! Lạ thay! Tất cả chúng sanh đều sẵn đủ đức tướng trí huệ của Như Lai, nhưng chỉ vì vọng tưởng chấp trước mà chẳng thể chứng đắc”. Thích Ca sau khi thành Phật, muốn dùng sở chứng của Ngài khai thị cho chúng sanh khiến ngộ, nhập Tri Kiến Phật, vì căn cơ chúng sanh muôn ngàn sai biệt, nên pháp của Như Lai thuyết cũng muôn ngàn sai khác, nói đại khác có thể chia làm bốn thừa: Tiểu thừa, Trung thừa, Đại thừa và Tối thượng thừa. Tiểu thừa tu Thiền Tứ Đế, gọi là Thanh Văn thừa, Trung thừa tu Thiền Thập Nhị Nhân Duyên gọi là Duyên Giác thừa, Đại thừa tu Thiền Lục Độ gọi là Bồ Tát thừa, Tối thượng thừa là trực tiếp chỉ thị Chơn như Phật tánh, chỉ có người chứng nói với người chứng mới biết được, gọi là Nhất Phật thừa, tức là pháp Thiền “Niêm hoa thị chúng”, cũng gọi là Giáo ngoại biệt truyền vậy.
+
+Kinh Hoa Nghiêm nói: “Nếu có chúng sanh căn cơ thấp kém thì thuyết hạnh Thanh Văn cho họ, nếu căn cơ lanh lợi, ham Độc Giác thì thuyết đạo Duyên Giác cho họ, nếu có người từ bi, ham lợi ích chúng sanh thì thuyết hạnh Bồ Tát cho họ, nếu có người tâm trí huệ thù thắng thì chỉ thị ngay pháp Vô thượng của Như Lai”.
+
+Phật Thích Ca dù giả thiết đủ phương tiện để dẫn dắt chúng sanh, nhưng tông chỉ duy nhất chẳng ngoài một việc kiến tánh thành Phật mà thôi, nói vì một nhân duyên đại sự ra đời là vậy. Nên duy có pháp Thiền được khiến chúng sanh đạt đến kiến tánh thành Phật, mới là sự phó chúc huệ mạng của chư Phật, chư Tổ.
+
+Kinh Pháp Hoa nói: “Trong mười phương quốc độ, duy có pháp Nhất Thừa, chẳng hai cũng chẳng ba, ngoài Phật thuyết phương tiện, chỉ dùng giả danh văn tự, dẫn dắt cho chúng sanh, nên nói trí huệ Phật, chỉ một sự thật này, ngoài ra đều chẳng chơn”.
+
+Khi Phật Thích Ca còn tại thế, các đệ tử đều lấy tu Thiền làm cơ bản, sau khi Phật Thích Ca nhập diệt, do pháp Thiền cao thấp có bốn thừa, nhưng đồng thời được các tông chú trọng. Thiền Tông độc lập thành một Tông phái là bắt đầu từ Trung Quốc.
+
+3.- THIỀN TÔNG TRUYỀN TỪ SƠ TỔ CA DIẾP.
+
+Các pháp môn truyền dạy từ Phật Thích Ca đã có bốn thừa sai biệt, thì pháp Thiền của họ tu bèn có trực tiếp và gián tiếp khác nhau như: Thế gian Thiền, Xuất thế gian Thiền, Xuất thế gian Thượng thượng Thiền, cho đến Ngũ chủng Thiền, Lục chủng đại Thiền v.v... danh hiệu rất nhiều, có cách tu được kiến tánh, cũng có cách tu chỉ được sanh cõi Trời mà chẳng thể kiến tánh, nhưng đều chẳng xuất phát từ Thiền Tông Trung Quốc.
+
+Dù nói Thiền Tông Trung Quốc, nhưng bắt đầu từ Sơ Tổ Ma Ha Ca Diếp, truyền đến Tổ thứ 28 là Bồ Đề Đạt Ma, truyền vào Trung Quốc làm Sơ Tổ, ấy là sự y cứ để kiến lập Thiền Tông. Sự tích của chư Tổ từ đời, từ đời truyền xuống đều có ghi rõ trong Truyền Đăng Lục, độc giả muốn biết rõ thì hãy tự xem lấy, ở đây chẳng thể kể xiết.
+
+4.- PHÁP THIỀN TẠI TRUNG QUỐC, KHI TỔ ĐẠT MA CHƯA ĐẾN.
+
+Trước khi Tổ Đạt Ma chưa đến, các kinh Thiền đã truyền vào Trung Quốc rất nhiều. Hằng Đế đời Hậu Hán có Sa Môn An Thế Cao thông suốt Kinh luận, lại giỏi về pháp Thiền, đến thành phố Lạc Dương, dịch kinh hơn trăm bộ, trong đó có các Kinh nói về pháp Thiền gồm: Đại An Ban Thủ Ý Kinh hai quyển, Thiền Hạnh Pháp Tưởng Kinh một quyển, Đại Thập Nhị Môn Kinh một quyển, Tiểu Thập Nhị Môn Kinh một quyển, Thiền Hạnh Ba Mươi Bảy Phẩm Kinh một quyển, Thiền Định Phương Tiện thứ đệ Pháp Kinh một quyển, Thiền Pháp Kinh một quyển.
+
+Cuối đời nhà Hán, có Cư sĩ Chí Khiêm người nước Nhục Chi đến Lạc Dương, dịch Tu Hành Phương Tiện Kinh hai quyển, Thiền Bí Yếu Kinh bốn quyển. Đời Tam Quốc có Khương Tăng Hội đến Dương Đô, dịch Tọa Thiền Kinh một quyển: đời Tây Tấn có Sa Môn Trúc Pháp Hộ dịch Hữu Pháp Quán Kinh một quyển, Tu Hành Đạo Địa Kinh bảy quyển; đời Đông Tấn có Trúc Đàm Vô Lan dịch Hữu Trị Thiền Pháp Kinh một quyển; lại có Phật Đà Bạt Đà đến Trường An chuyên hoằng pháp Thiền, sau ứng lời mời của Huệ Viễn Pháp Sư ở Lư Sơn, dịch Đạt Ma Đa La Thiền Kinh hai quyển, Ngài Cưu Ma La Thập có dịch Thiền Bí Yếu Pháp Kinh ba quyển, Tọa Thiền Tam Muội Kinh hai quyển, Thiền Pháp Yếu Giải hai quyển, Tư Duy Lược Yếu Pháp một quyển v.v... Ngoài ra còn nhiều lắm chẳng thể kể xiết.
+
+Các Kinh kể trên phần nhiều thuộc pháp Thiền Tiểu thừa, Trung thừa, các sư như An Thế Cao và Giác Hiền chuyên hoằng về pháp Thiền Tiểu thừa, Cưu Ma La Thập là người Đại thừa mà dịch những Thiền Kinh chẳng giống Đại thừa, cho đến Đạt Ma Đa La Thiền Kinh và Tọa Thiền Tam Muội Kinh xưa kia được xem là Đại thừa Thiền, nhưng ở trong đó cũng xen vào Thiền Trung thừa và Tiểu thừa. Đủ thứ pháp Thiền kể trên gọi là Thiền Số Chi Học, khác hẳn với pháp Thiền “chẳng lập văn tự" của Thiền Tông.
+
+Thiền Số Chi Học là Thiền tu tập theo thứ lớp, từ nhân đến quả, mà pháp Thiền của Tổ Đạt Ma là chỉ thẳng bản tâm, Đốn ngộ thành Phật, chẳng có giai cấp và thứ lớp. Người ta thấy đệ tử Ngài La Thập là Đạo Sanh có cái thuyết “Đốn ngộ thành Phật", bèn cho Thiền Tông xuất phát từ Cưu Ma La Thập, ấy là sai lầm.
+
+Cùng thời với Tổ Đạt Ma có Bửu Chí Hòa Thượng, Bố Đại Sĩ, Hàn Sơn, Thập Đắc, Bố Đại Hòa Thượng, đều là người minh tâm kiến tánh, nhưng thừa kế thầy nào thì chẳng rõ, cơ duyên ngộ đạo cũng chẳng thể khảo sát.
+
+5.- THIỀN TÔNG TRUYỀN TỪ TỔ ĐẠT MA.
+
+Trước khi Tổ Đạt Ma chưa đến, Thiền pháp Trung Quốc phần nhiều thuộc Trung, Tiểu nhị thừa, kẻ nghiên cứu giáo tướng về lối tu ngày càng phức tạp và chi ly, học giả ít được chứng ngộ. Khi Tổ Đạt Ma đến, chuyên truyền pháp môn Tâm địa của Như Lai, pháp ấy giản dị trực tiếp, thấu thoát ra ngoài cương yếu của giáo môn, chỉ thẳng tâm người, thấy tánh thành Phật. Từ đó pháp Thiền riêng mở một trạng thái mới lạ. Lúc ban sơ vì phương pháp cao siêu, ít người được khế hội, nên ngồi im lặng chín năm để đợi người đặng truyền thừa, về sau người tin ngày càng đông thêm, sự ảnh hưởng mà cho pháp Thiền và giáo lý đã truyền từ xưa kia bị lay động, nên đã sáu lần bị đầu độc, nhưng pháp môn trực chỉ của Thiền Tông đã thay thế cho địa vị của pháp Thiền cũ mà thịnh hành khắp Trung Quốc.
+
+Xem qua lời vấn đáp của Tổ Đạt Ma đều là pháp trực tiếp chỉ thị Phật tánh, thẳng vào cội nguồn Bản thể. Trong Truyền Đăng Lục có ghi: “Nhập Đạo Tứ Hạnh” của Tổ dạy, cứu xét kỹ mới biết do người khác giả mạo, so với ý nghĩa lời nói của Ngài hoàn toàn khác hẳn, như trong bài nói “Bỏ vọng về chơn”, “Im lặng ngó hẳn vách tường”, “Dứt tưởng chẳng cầu, có cầu đều khổ, chẳng cầu mới vui”, “Chẳng có bỏn xẻn đối với thân mạng tiền tài, theo hạnh xã bỏ bố thí, tâm chẳng hối tiếc” v.v... Những lời này toàn là lời dạy của Trung, Tiểu nhị thừa, so với lời “Quách nhiên vô thánh”, “Vô hữu công đức” của Tổ Đạt Ma thì ý chỉ tuyệt nhiên xa cách, Trí thông với nghẽn đã phân biệt rõ ràng.
+
+Thiền Tông sau khi ngộ đạo chẳng nhờ tu tập, nếu còn có tu thì chẳng phải triệt ngộ, Tổ Đạt Ma là bậc thánh đã ngộ, đầu cần hướng vách tu thiền! Lại từ xưa nay chư Tổ của Thiền Tông đều phản đối sự lắng tâm tĩnh tọa, Lục Tổ nói: “Kẻ mê lắng tâm tĩnh tọa, trăm điều chẳng nghĩ, tự xưng là đại, bọn này chẳng thể dạy bảo, vì tà kiến đã sẵn”. Lại nói: “Trụ tâm quán tịnh là bệnh chẳng phải Thiền, ngồi lâu trói chân, có ích lợi gì!”.
+
+Pháp Thiền của Tổ Đạt Ma phế bỏ hư văn, chỉ ngay thực tế, khiến người đốn ngộ cội nguồn, thẳng chứng quả Phật, nên được quét sạch những tệ đoan phức tạp và chi ly, khiến Thiền học từ suy sụp trở thành thịnh vượng, thành một Tông phái lớn. Ngài truyền Kinh Lăng Già để ấn tâm, và chư Tổ đời sau dùng hét, dùng gậy, dùng phẫn nộ chửi mắng, cho đến dùng nhướng mày chớp mắt để tiếp dẫn hậu học, với Tông chỉ Lăng Già, niêm hoa thị chúng đều chẳng khác biệt.
+
+Tổ Đạt Ma được tôn làm Sơ Tổ của Thiền Tông, truyền cho Nhị Tổ Huệ Khả, Tam Tổ Tăng Xán, Tứ Tổ Đạo Tín, Ngũ Tổ Hoằng Nhẫn, đến Lục Tổ Huệ Năng, môn đồ của Lục Tổ ngộ đạo rất nhiều, Thiền phong đại thịnh Tứ Tổ có chi nhánh là Pháp Dung Thiền Sư ở núi Ngưu Đầu, cũng rất thịnh vượng, người đời xưng là Ngưu Đầu Thiền, Hành trạng và lời khai thị của chư Tổ đều có ghi trong Truyền Đăng Lục.
+
+6.- LỤC TỔ HUỆ NĂNG VỚI KINH PHÁP BẢO ĐÀN.
+
+Tổ Đạt Ma truyền pháp Thiền trực chỉ của Phật Thích Ca, đến Lục Tổ Huệ Năng được phát huy cùng tột, từ đó Thiền Tông được đại thành tựu. Lục Tổ vốn là một Sa Môn không biết chữ, nhưng trí huệ tuyệt đỉnh, phàm sở phát huy đều xuất phát từ biển giác của Như Lai, trực tiếp rốt ráo, cắt đứt tất cả dây dưa, trừ bỏ tất cả sai lầm, rất là thân thiết, rất là thấu triệt.
+
+Trước kia trong Phật Giáo đối với lý đốn tiệm của Pháp thân tự tánh, phần nhiều kẹt nơi văn tự. Lục Tổ trực tiếp chỉ ra, như thổi tan mây mù mà bỗng hiện trong sáng, chẳng còn một hạt bụi để ngăn cách, do đó Thiền Tông truyền bá rất rộng, người được lợi ích rất nhiều, cho đến kẻ cu ly hạ tiện, bà già tay bưng vai gánh rêu rao mua bán ngoài đường đều biết Tham Thiền, đều đều được ngộ đạo. Từ lúc ấy, người minh tâm kiến tánh chẳng thể kể xiết, thật là việc hưng thịnh từ xưa nay chưa từng có.
+
+Bản sắc “chẳng lập văn tự” của Thiền Tông, từ Sơ Tổ cho đến Ngũ Tổ Hoằng Nhẫn, những lời dạy bảo truyền thừa rất ít, đến Lục Tổ Huệ Năng mới có Kinh Pháp Bảo Đàn ra đời, pháp Thiền của Tổ Đạt Ma tới đây mới được trọn vẹn hiển bày. Lý đạo phát huy trong Kinh Pháp Bảo Đàn hoàn toàn xuất phát từ tự tánh, mỗi lời mỗi chữ đều chẳng lìa tự tánh, bởi vì sau khi chứng ngộ thì trong tâm thất thông bát đạt, tùy tiện đem ra đều là tự tánh.
+
+Pháp của Lục Tổ nói là: Trì tự tánh giới, phát Tự tánh nguyện, nhờ tự tánh lực, độ tự tánh chúng sanh, quy y tự tánh Phật. Lục Tổ nói: “Thiện tri thức, nơi niệm niệm tự thấy bản tánh trong sạch, tự tu, tự hành, tự thành Phật đạo”. Lại nói: “Pháp sở thuyết của ta chẳng lìa tự tánh, nếu lìa bản thể thuyết pháp gọi là tướng thuyết, làm cho tự tánh thường mê. Phải biết tất cả vạn pháp đều tự tánh khởi dụng, ấy là Giới, Định, Huệ chơn thật”.
+
+Thiền Tông lấy Niết Bàn diệu tâm làm bản thể. Niết Bàn diệu tâm tức là Lục Tổ nói: “Bản nguyên Tự tánh”, vậy Kinh Pháp Bảo Đàn nói: “Nếu khởi quán chiếu chơn chánh Bát Nhã, trong một sát na vọng niệm đều diệt, nếu biết tự tánh, hễ ngộ liền đến địa vị Phật. Thiện tri thức, trí huệ quán chiếu, trong ngoài sáng tỏ, nhận tự bản tâm, nếu nhận được bản tâm, tức vốn giải thoát; nếu được giải thoát tức là Bát Nhã tam muội”.
+
+Thế nào là Bát Nhã tam muội? Người tham thiền cần phải biết rõ, nay đặc biệt giảng rõ như sau:
+
+Bát Nhã có 3 thứ:
+
+1/ Thật tướng Bát Nhã (thể);
+
+2/ Quán chiếu Bát Nhã (trí);
+
+3/ Phương tiện Bát Nhã (dụng).
+
+Nói một cách khác: Thật tướng Bát Nhã tức là Phật tánh, quán chiếu Bát Nhã tức là kiến, văn, giác, tri, phương tiện Bát Nhã tức là lục căn. Lúc đang tu hành, dùng quán chiếu Bát Nhã làm chủ, sai khiến phương tiện Bát Nhã để đập tan vô thỉ vô minh thì chứng Thực tướng Bát Nhã. Sau khi chứng ngộ, Thật tướng tức là Bản thể Phật tánh, quán chiếu phương tiện là diệu dụng Phật tánh. Thật tướng là Định, quán chiếu phương tiện là Huệ; thật tướng (Phật tánh) là Pháp thân, quán chiếu (kiến văn giác tri) là Báo thân, phương tiện (lục căn) là Ứng thân, ba tức một, một tức ba, gọi là Nhất thể tam thân, thể dụng như một, Định, Huệ bình đẳng, diệu dụng hằng sa.
+
+Kinh Pháp Bảo Đàn nói: “Tâm lượng rộng lớn, cùng khắc pháp giới, dụng tức liễu liễu rõ ràng, ứng dụng liền biết tất cả. Tất cả là một, một là tất cả, khứ lai tự do, tâm thể vô ngại, tức là Bát Nhã". Lại nói: “Tất cả Trí Bát Nhã đều từ tánh mà ra, chẳng từ ngoài vào, chớ nhận lầm tự tâm, gọi là Chơn tánh tự dụng”.
+
+Về việc phá tan vô thỉ vô minh, kinh Pháp Bảo Đàn nói: “nên dùng đại trí huệ (quán chiếu Bát Nhã) phá tan ngũ uẩn phiền não trần lao (vô thỉ vô minh), tu hành như thế nhất định thành Phật". Lúc dụng công phu tham thiền, dùng Trí huệ Bát Nhã hướng ngay chỗ hầm sâu vô minh chiếu soi, chiếu đến khi sơn cùng thủy tận, cơ duyên thuần thục, “Ồ” lên một tiếng thì hầm sâu vô minh bị phá tan, trong một sát na Phật tánh được hiện tiền, Kinh Duy Ma Cật nói: “ngay đó hoát nhiên, liền đắc bản tâm” là vậy. lúc ấy Tam thân, Tứ trí, Ngũ nhãn, Lục thông, viên mãn cụ túc, chẳng thiếu chẳng dư, gọi là Bát Nhã Tam Muội, cũng gọi là minh tâm kiến tánh.
+
+7.- HÀ TRẠCH THẦN HỘI ĐỊNH TÔNG CHỈ NAM TÔNG.
+
+Lục Tổ Huệ Năng và Thần Tú Đại Sư đều là đệ tử của Ngũ Tổ, Thần Tú chủ trương, Tiệm tu, chưa minh tâm kiến tánh, nên bài kệ ‘Thân như cây Bồ đề" là phát huy nơi Nhân địa. Lục Tổ đã minh tâm kiến tánh nên bài kệ “Bồ đề vốn chẳng cây” là phát huy nơi Quả điạ, ngay đó đem Niết Bàn Diệu Tâm trọn vẹn trình ra được Ngũ Tổ ấn khả, truyền cho y pháp.
+
+Lúc Lục Tổ đang hoằng tông chỉ Đạt Ma ở Tào Khê, Thần Tú Đại Sư thì đề xướng pháp Thiền tiệm tu ở Nam Kinh, gọi là Bắc Tông. Sau khi Lục Tổ viên tịch, pháp tiệm tu của Bắc Tông ngày càng hưng thịnh, môn đồ của Thần Tú có ba vị Quốc Sư, trong đó Phổ Tịch Thiền Sư danh giá cao nhất, từng làm Quốc Sư trải qua ba đời vua Tắc Thiên, Trung Tông và Duệ Tông. Phổ Tịch tôn Thần Tú làm Lục Tổ, tự xưng là Thất Tổ, tông chỉ của Tào Khê ngày càng chìm lặng, do đó đệ tử Lục Tổ là Thần Hội Thiền Sư, phấn chấn đứng ra chỉ trích môn tiệm tu của Bắc Tông chẳng phải chánh thống của Tổ Đạt Ma, chỉ có Tông chỉ Tào Khê mới là đích truyền. Ngày 15 tháng Giêng năm thứ 20 niên hiệu Khai Nguyên, Ngài ở Hoạt Đài (hiện là Hoạt Huyện tỉnh Hà Nam) Đại Vân Tự thiết lập vô giá đại hội, xác định pháp thống Thiền Tông do Tổ Đạt Ma truyền. Năm thứ 8 niên hiệu Thiên Hữu, một lần nữa xác định Tông chỉ Nam Tông tại Lạc Dương, từ đó chánh thống Thiền Tông là Lục Tổ Tào Khê mới được xác định.
+
+Ngài Thần Hội xác định Tông chỉ, là công thần của Thiền Tông mà lịch sử ít ghi chuyện này, nơi thạch động Đôn Hoàng có ghi bài “Bồ Đề Đạt Ma Nam Tông Thị Phi Luận do Độc Cô phái soạn” hiện nay lưu tại viện bảo tàng Ba Lê, trong bài này là ghi việc định Tông chỉ của Ngài Thần Hội ở Đại Vân Tự Hoạt Đài.
+
+Thần Hội còn có bài Hiển Tông Ký để hiển bày Tông chỉ của Tào Khê, ngoài ra tác phẩm Chứng Đạo Ca cũng làm cùng lúc xác định Tông chỉ. Nay Chứng Đạo Ca đổi tên là Vĩnh Gia Chứng Đạo Ca, nhưng tôi đã từng thấy một bản đời nhà Tống ghi rõ tác giả là Thần Hội, nay trích ra mấy đoạn trong Chứng Đạo Ca để chứng tỏ:
+
+Dựng pháp tràng, lập tông chỉ,
+
+Rõ ràng Tào Khê là kế thừa,
+
+Bắt đầu truyền đăng từ Ca Diếp,
+
+Hai mươi tám đời truyền từ Ấn.
+
+Pháp lưu Đông, vào đất này,
+
+Bồ Đề Đạt Ma làm Sơ Tổ,
+
+Sáu đời truyền y thiên hạ hay,
+
+Đời sau đắc đạo vô số kể.
+
+Khi xác định Tông chỉ giành chánh thống ở Hoạt Đài, bằng chứng hiệu lực nhất là việc truyền y pháp, trong Hiển Tông Ký có nói: “Sau khi Thế Tôn nhập diệt, hai mươi tám vị Tổ ở Ấn Độ cùng nhau truyền tâm vô trụ, đồng thuyết tri kiến của Như Lai, cho tới Tổ Đạt Ma đến Trung Quốc làm Sơ Tổ, truyền Y để làm tin cho Pháp, Pháp là chỗ nương của Y, Thiền Tông lấy Y, Pháp tương truyền, ngoài ra chẳng có pháp khác. Trong truyền Tâm ấn để ấn chứng Bản tâm, ngoài truyền Cà Sa để đại biểu Tông chỉ”.
+
+Trong Nam Tông xác định Thị Phi Luận có nói: “Nay Thần Hội thiết lập vô giá đại hội và trang nghiêm đạo tràng, chẳng vì công đức, chỉ muốn xác định Tông chỉ cho người học đạo khắp thiên hạ, vì tất cả người học đạo phân rõ thị phi”.
+
+- Than mạt pháp, thời ác thế,
+
+Chúng sanh phưóc kém khó dạy dỗ,
+
+Cách xa bậc Thánh tà kiến sâu,
+
+Ma mạnh pháp yếu nhiều oán ghét.
+
+Vừa nghe đốn giáo của Như Lai,
+
+Liền muốn diệt cho tan rã hết.
+
+- Pháp viên đốn, chẳng nhơn tình,
+
+Nghi chẳng giải quyết cần phải giành,
+
+Chẳng phải Sơn Tăng chấp nhơn ngã,
+
+Tu hành sợ đọa hầm đoạn thường.
+
+Theo việc tranh luận của Ngài Thần Hội là muốn phá cửa Tiệm tu của Thanh tịnh Thiền mà kiến lập cửa Đốn ngộ của tổ Sư Thiền vậy.
+
+- Mặc người phỉ, mặc người báng,
+
+Lấy lửa đốt trời tự lao nhọc,
+
+Ta nghe đồng như uống cam lồ.
+
+Tiêu tan bỗng vào bất tư nghì.
+
+Quán ác ngôn, là công đức,
+
+Phỉ báng ta là Thiện tri thức,
+
+Chẳng vì phỉ báng nói yêu ghét,
+
+Sao tỏ vô sanh từ nhẫn lực.
+
+Khi Ngài Thần Hội định Tông chỉ, bị người Bắc Tông vu khống mà bị vua đày, nên mới có lời nói trên. Trong Nam Tông Định Thị Phi Luận nói: “Nay ta hoằng dương Đại thừa, kiến lập Chánh pháp, khiến tất cả chúng sanh đều hay biết, đâu tiếc thân mạng!”.
+
+- Mặt trời lạnh, mặt trăng nóng,
+
+Bọn ma chẳng thể hoại chánh thống.
+
+Xe voi trên đường đang tiến tới,
+
+Bọ ngựa đâu thể chận lại được!
+
+Voi lớn chẳng dạo đường con thỏ,
+
+Đại ngộ chẳng kẹt nơi việc nhỏ,
+
+Chớ nhìn ống hẹp bóng hư không,
+
+Nay ta vì ông giải quyết xong.
+
+Ngoài ra như:
+
+“Gọi người gỗ máy lên để hỏi,
+
+Dụng công cầu Phật lúc nào thành”.
+
+Và
+
+“Yêu quái trăm năm uổng mở miệng”,
+
+v.v... đều là lời chỉ trích môn tiệm tu Thanh tịnh Thiền. Xét kỹ toàn bộ Chứng Đạo Ca đều là Ngài Thần Hội vì xác định Tông chỉ mà nói ra, so với ý chỉ trong Vĩnh Gia Tập hiển nhiên chẳng đồng. Ngài Vĩnh Gia trước học Thiên Thai, lời nói trong tập còn nhiều giọng nói giống Tông Thiên Thai, nên biết Chứng Đạo Ca là tác phẩm của Ngài Thần Hội, có thể vì người đời sau muốn tránh sự ác cảm của Bắc Tông, nên gán tên cho Ngài Vĩnh Gia mà thôi. Thiền Tông ở ngày nay gai góc khắp đường, lý Đốn, Tiệm hỗn độn chẳng thể phân biệt, có ai kế tiếp theo Ngài Thần Hội, phấn chấn khởi lên tái định Tông chỉ của Tào Khê chăng?
+
+8.- GIA PHONG CỦA NĂM PHÁI THIỀN.
+
+Dưới cửa Lục Tổ có bốn mươi ba người đắc pháp, mỗi mỗi hóa độ một phương đều là chánh thống, trong đó Nam Nhạc Hoài nhượng, Thanh Nguyên Hành Tư và Hà Trạch Thần Hội nổi bật nhất. Phái Nam Nhạc sau này sanh ra Lâm Tế và Qui Ngưỡng hai Tông, phái Thanh Nguyên sau này sanh ra Vân Môn, Pháp Nhãn, Tào Động ba Tông. mỗi Tông đều có phương pháp riêng để tiếp dẫn hậu học, gọi chung là Ngũ gia gia phong. Phái Hà Trạch truyền đến Khuê Phong Tông Mật, vốn là người Tông Hoa Nghiêm, thuộc về giáo môn, chưa thể gánh vác Tông chỉ Tào Khê mà mong điều hòa Thiền Tông với các Tông giáo môn, lọt vào ngôn thuyết kiến giải, làm cho phái Hà Trạch Thần Hội tuyệt truyền, chỉ còn phái Nam Nhạc Thanh Nguyên được người đời sau công nhận là phái Đích truyền của Tào Khê.
+
+Nam Nhạc có Mã Tổ cũng như Thanh Nguyên có Thạch Đầu, Mã Tổ được sự thọ ký “Dưới chân chà đạp khắp người thiên hạ”, còn Thạch Đầu thì có tiếng tăm “Thạch Đầu đường trơn”. Mã Tổ chủ hóa Giang Tây, Thạch Đầu chủ hóa Hồ Nam, người tham học từ bốn phương đều tìm đến cửa hai phái, rất là thịnh vượng. Dưới cửa Mã Tổ có đệ tử một trăm ba mươi chín người ngộ đạo, trong đó Bá Trượng Hoài Hải nổi bật nhất, Ngài Bá Trượng là người bắt đầu sáng lập Thiền Viện, soạn Thanh qui của Tòng lâm, đệ tử bậc thượng thủ là Huỳnh Bá Hy Vận, Qui Sơn Linh Hựu. Dưới Huỳnh Bá có Lâm Tế Nghĩa Huyền, là Tổ của Lâm Tế Tông.
+
+Qui Sơn của Qui Ngưỡng Tông, dưới Qui Sơn có Ngưỡng Sơn Huệ Tịch, do thầy trò Qui Sơn Ngưỡng Sơn xướng họa với nhau cùng phát dương mà thành gia phong của bản Tông.
+
+Dưới Thạch Đầu người đắc đạo cũng nhiều, trong đó Thiên Hoàng Đạo Ngộ, Dược Sơn Duy Nghiễm hai nhánh là chủ lưu, dưới Đạo Ngộ truyền qua Long Đàm Sùng Tín, Đức Sơn Tuyên Giám, đến Tuyết Phong Nghĩa Tồn, Thiền phong chấn hưng, Tứ chúng nhiễu quanh thường hơn một ngàn năm trăm người, đệ tử nối pháp có Vân Môn Văn Yểm, Huyền Sa Sư Bị tất cả năm mươi sáu người, Văn Yểm là Tổ của Vân Môn Tông.
+
+Dưới Huyền Sa truyền qua La Hán Quế Sâm, đến Pháp Nhãn Văn Ích là Tổ của Pháp Nhãn Tông.
+
+Dưới Dược Sơn Duy Nghiễm truyền qua Vân Nham Đàm Thạnh, đến Động Sơn Lương Giới với đệ tử Tào Sơn Bổn Tịch cùng nhau sáng lập Tào Động Tông. Ấy là cội nguồn thành lập của năm phái Thiền.
+
+Nói gia phong là tác phong riêng biệt của mỗi Tổ dùng để phát dương Tông chỉ biệt truyền của Thiền Tông. Chư Tổ minh tâm kiến tánh dù đồng nhau, nhưng cá tánh mỗi mỗi chẳng đồng, nên phương pháp tiếp dẫn hậu học mới có sự khoan hồng, oai mãnh, ôn hòa, gấp bách mỗi mỗi khác nhau. Nói tóm lại, gia phong của các phái trong Thiền Tông đều lấy “Niêm hoa thị chúng” của Phật Thích Ca làm mô phạm.
+
+Phương pháp phổ biến nhất của chư tổ Trung Quốc là dùng gậy, dùng hét để tiếp dẫn hậu học. “Gậy” bắt đầu từ Lục Tổ đánh Thần Hội, “hét” bắt đầu từ Mã Tổ tiếp Bá Trượng, tác dụng với niêm hoa chẳng khác. Cho đến Ca Diếp giơ tay, A Nan hiệp chưởng, Nhị Tổ Huệ Khả lễ bái xong về đứng chỗ cũ, Mã Tổ dựng phất trần, quăng phất trần, Bí Ma giơ chỉa, Hoa Sơn đánh trống, Thạch Củng giương cung, Tuyết phong đá cầu, Quốc Sư để chén nước, Qui Tông kéo đá, La Hán vẽ chữ, Đại Tùy hầm khoai, Đức Sơn vào cửa liền đập, Lâm Tế vào cửa liền hét, “Là cái gì?” của Bá Trượng, “Chớ vọng tưởng” của Vô Nghiệp, Triệu Châu uống trà, Vân Môn ăn bánh, tất cả đều chẳng khác với sự niêm hoa thị chúng của Phật Thích Ca. Ấy đều là chư Tổ tùy cơ phát huy dùng để tiếp dẫn hậu học, vốn chẳng qui tắc nhất định. Như Lâm Tế Nghĩa Huyền thiết lập các quan ải Tam Huyền Tam Yếu và Tứ Liệu Giản để khám xét đồ chúng, tiếp dẫn hậu học, con cháu truyền thừa nhau tỏ ra thành gia phong.
+
+GIA PHONG LÂM TẾ TÔNG:
+
+Truyện Lâm Tế trong Truyền Đăng Lục rằng: Tăng hỏi thế nào là câu thứ nhất?
+
+Sư nói: “Ấn khai tam yếu điểm son hẹp, chưa cho suy nghĩ chủ khách phân”.
+
+Hỏi thế nào là câu thứ nhì?
+
+Sư nói: “Diệu giải chẳng cho vấn vô trước (chấp trước), phương tiện đâu phụ (cô phụ) triệt lưu cơ”. Hỏi thế nào là câu thứ ba?
+
+Sư nói: “Hãy xem trên đài hát múa rối, kéo dây đều do người bên trong”.
+
+Lại nói: “Một cú ngữ phải đủ tam huyền môn, một huyền môn phải đủ tam yếu, có quyền có thực, các ngươi làm sao lãnh hội!”.
+
+Thủ Sơn Tĩnh Niệm Thiền Sư (đời thứ năm phái Lâm Tế) trong Cổ Tôn Túc Ngữ Lục rằng: “Ngộ được câu thứ nhất làm thầy của Tổ và Phật, ngộ được câu thứ nhì làm thầy của người và trời, ngộ được câu thứ ba tự cứu chẳng xong!”.
+
+Còn Từ Minh Sở Viên Thiền Sư (đời thứ bảy phái Lâm Tế) vì Tăng hỏi Tam huyền tam yếu mà thuyết tụng rằng:
+
+Đệ nhất huyền:
+
+Tam thế chư Phật tính nói chi?
+
+Dạy bảo trong mộng sanh khinh rẻ,
+
+Ngồi không lại thành đọa đoạn kiến.
+
+Đệ nhị huyền:
+
+Lanh lợi nạp Tăng mắt chưa sáng,
+
+Lửa đá điện chớp là chậm trễ,
+
+Nhướng mày nháy mắt càng cách xa.
+
+Đệ tam huyền:
+
+Vạn tượng sum la vũ trụ rộng.
+
+Mây tan hang trống núi non lặng,
+
+Nước chảy đất bằng đầy sông ngòi.
+
+Đệ nhất yếu:
+
+Thánh phàm nói chi diệu,
+
+Suy nghĩ đường càng xa,
+
+Mở mắt điên đảo nhiều.
+
+Đệ nhị yếu:
+
+Đánh kiểng gọi đỉnh núi,
+
+Thần thông đến tự tại.
+
+Đa văn kêu ngoài cửa.
+
+Đệ tam yếu:
+
+Ngồi nằm khiến người chê.
+
+Bàn tay nắm thiên địa.
+
+Chiếu soi đủ ngàn sai.
+
+Về Tứ Liệu Giản, trong Lâm Tế Lục ghi rằng: “Như kiến giải Thiền Tông, tử hoạt dĩ nhiên, người tham học cần nên chú ý, cũng như chủ khách gặp nhau thì có ngôn luận qua lại, hoặc tùy vật hiện hình, hoặc toàn thể tác dụng, hoặc nắm cơ tùy phương tiện mà vui giận, hoặc hiện bán thân, hoặc cỡi sư tử, hoặc cỡi tượng vương. Như tiếng hét của người học chơn chánh là đưa ra cái thau bằng keo, Thiện tri thức chẳng biết là cảnh, bèn dính mắc cảnh họ mà làm dáng làm điệu, liền bị người học hét thêm thêm tiếng nữa, Thiện tri thức chẳng chịu buông xuống, ấy là bệnh tuyệt vọng, chẳng thể trị, gọi là “khách nhìn chủ”.
+
+Hoặc là Thiện tri thức chẳng đưa ra vật gì, tùy chỗ hỏi của người học liền đoạt, người học bị đoạt thà chết chẳng chịu buông, ấy gọi là “chủ nhìn khách”.
+
+Hoặc có người học tỏ một cái trong sạch ra trước mắt Thiện tri thức, Thiện tri thức biết là cảnh, liền quăng vào hầm sâu, người học nói: “Tốt lắm Thiện tri thức”. Thiện tri thức liền nói: “Ngốc thay chẳng biết tốt xấu”. Người học liền lễ bái, đây gọi là “Chủ nhìn chủ”.
+
+Hoặc có người học còng tay còng cổ ra trước mắt Thiện tri thức, Thiện tri thức lại cho còng thêm một lớp, người học hoan hỷ, hai bên đều chẳng biết, ấy gọi là “Khách nhìn khách”.
+
+Các Đại đức! Sơn Tăng kể chuyện như thế đều là phân biệt ma quái để biết rõ chánh tà vậy.
+
+Lại nói:
+
+“Có khi đoạt nhơn chẳng đoạt cảnh,
+
+Có khi đoạt cảnh chẳng đoạt nhơn,
+
+Có khi nhơn cảnh đều đoạt,
+
+Có khi nhơn cảnh đều chẳng đoạt”.
+
+Tăng hỏi thế nào là đoạt nhơn chẳng đoạt cảnh?
+
+Sư đáp: “Mặt trời phát sinh lụa trải khắp, hài nhiều tóc dài trắng như tơ”.
+
+Hỏi thế nào là đoạt cảnh chẳng đoạt nhơn?
+
+Sư đáp: “Lệnh vua đã ban khắp thiên hạ, tướng quân biên thùy chẳng thấy nghe”.
+
+Hỏi thế nào là cả nhơn cảnh đều đoạt?
+
+Sư đáp: “Biên giới cách tuyệt tin tức, tự cô độc ở một nơi”.
+
+Hỏi thế nào là nhơn cảnh đều chẳng đoạt?
+
+Sư đáp: “Vua lên ngôi bửu điện, lão ẩn dật ca ngợi”.
+
+Lại nói:
+
+“Người học từ bốn phương đến, Sơn Tăng ở đây phân làm ba thứ căn cơ: Như người trung hạ căn đến thì ta đoạt cảnh mà họ mà chẳng trừ pháp họ; như người trung thượng căn đến thì ta cảnh pháp đều đoạt; như người thượng thượng căn đến thì ta cảnh pháp, nhơn đều chẳng đoạt; như có kẻ kiến giải xuất cách (siêu việt ba thứ căn cơ) đến thì Sơn Tăng ở đây bèn toàn thể tác dụng, chẳng tùy căn cơ”.
+
+Ngài Lâm Tế ứng cơ thường hay dùng hét, người ta gọi là “Vào cửa liền hét”. Bởi trong một tiếng hét sẵn đủ tam huyền tam yếu và tác dụng chủ khách. Sư từng nói: “Có khi một tiếng hét như bửu kiếm Kim Cang Vương, có khi một tiếng hét như Kim Ma sư tử cự địa (thế sắp chụp người), có khi một tiếng hét như cây trúc dọ thám hình bóng trong đám cỏ, có khi một tiếng hét chẳng cho là tác dụng một tiếng hét, các người làm sao lãnh hội!”.
+
+Lúc bấy giờ, môn đồ tham học trong hội cũng bắt chước Sư hét, Sư nói: “Các người cứ bắt chước Ta hét, nay Ta hỏi các ngươi: Có một người từ bên Đông ra, một người từ bên Tây ra, hai người cùng hét một lượt, ở đây phân được chủ khách chăng? Mà các ngươi làm sao phân? Nếu phân chẳng được, về sau chẳng nên bắt chước lão Tăng hét?”.
+
+Đối với gia phong Lâm Tế, Thủ Sơn Tĩnh Niệm Thiền Sư từng nói: “Các Thượng Tọa! Chẳng nên hét mù hét bậy, ở đây bình thường nói với các ông, khách thì rốt cuộc là khách, chủ thì rốt cuộc là chủ; khách chẳng hai khách, chủ chẳng hai chủ. Nếu có hai khách, hai chủ tức là hai thằng mù, cho nên nếu ta đứng thì ngươi phải ngồi, nếu Ta ngồi thì ngươi phải đứng. Ngồi thì cùng ngươi ngồi , đứng thì cùng ngươi đứng, mặc dù như thế, đến đây con mắt phải nhìn nhanh cho rõ mới được, nếu con mắt do dự thì cách xa muôn ngàn dặm. Tại sao như thế? Giống như cách cửa sổ xem cỡi ngựa, suy nghĩ tức chẳng dính dáng. Các Thượng Tọa đã lưu tâm việc này, cần phải chú y, tốt nhất đừng bám vào chỗ giả dối, hôm nọ ngày sau ngươi sẽ bị gạt”.
+
+Đây là gia phong đại khái của Lâm Tế Tông.
+
+GIA PHONG QUI NGƯỠNG TÔNG:
+
+Qui Ngưỡng Tông cho chín mươi sáu tướng tròn, gia phong tương đối ôn hòa, chẳng giống sự mãnh liệt của Lâm Tế Tông. Trong Nhơn Thiên Nhãn Mục nói về gia phong Qui Ngưỡng Tông là “Cha từ con hiếu, lệnh trên thì dưới tùng, ngươi muốn ăn cơm ta liền bưng canh; ngươi muốn qua sông ta liền chèo thuyền, cách núi thấy khói liền biết là lửa; cách tường thấy sừng liền biết là trâu”.
+
+Còn Pháp Nhãn Thiền Sư Thập Qui Luận rằng: “Qui Ngưỡng thì vuông tròn mặc khế, như tiếng dội trong hang, như phù hợp luật lệ thông qua quan ải”.
+
+Truyền Đăng Lục Qui Sơn truyện rằng:
+
+Phổ thỉnh hái trà, Sư (Qui Sơn) nói với Ngưỡng Sơn rằng: “Suốt ngày hái trà, chỉ nghe tiếng ngươi, chẳng thấy hình ngươi, xin hiện bổn hình ra xem!”.
+
+Ngưỡng Sơn lắc cây trà, Sư nói: “Ngươi chỉ được cái dụng, chẳng được cái thể”.
+
+Ngưỡng Sơn nói: “Chưa rõ Hòa Thượng thế nào?”.
+
+Sư im lặng giây lâu, Ngưỡng Sơn nói: “Hòa Thượng chỉ được cái thể, chẳng được cái dụng”.
+
+Sư nói: “Cho ngươi hai mươi gậy”.
+
+Ngưỡng Sơn nói:”Gậy Hòa Thượng con ăn, gậy con bảo ai ăn?”.
+
+Sư nói: “Cho ngươi ba mươi gậy”.
+
+Ngữ Lục của Chơn Tịnh Thiền Sư khi trụ trì Đông Sơn có ghi: “Thượng đường kể: Thuở xưa Diêm Quan thường dạy Tăng về pháp môn kiến tánh nghe nói Qui Sơn cũng vậy, liền sai hai vị Tăng đi dọ thám, đến nơi tọa hạ, nghe trăm điều đề xướng đều chăng hiểu, lại sanh tâm khinh mạn. Một hôm gặp Tiểu Thích Ca (Ngưỡng Sơn) nói: “Ngươi chớ tâm thô”. Tiểu Thích Ca bèn làm một tướng tròn, hai tay đưa ra, hai Tăng cũng chẳng hiểu, Tiểu Thích Ca nói: “Ngươi chớ tâm thô” liền bỏ đi.
+
+Sư Chơn Tịnh nói: “Tiểu Thích Ca tam muội, hai vị Tăng chẳng biết, dưới cửa Động Sơn có kẻ nào biết ta chăng? Là tam muội gì?”. Giây lâu Ngài nói tiếp: “Làm mì cần xứ trồng lúa mạch, ca nhạc nên tôn người Đế Hương” (Nhạc thần của Đế Thích).
+
+GIA PHONG VÂN MÔN TÔNG:
+
+Vân Môn Tông người sáng lập là Tổ Văn Yểm, ban sơ tham vấn Ngài Mục Châu phát minh Tâm địa sau tham Ngài Tuyết Phong. Gia Phong của Tuyết Phong thấu được áo chỉ, bèn nối pháp Tuyết Phong thì ôn hòa, huyền ảo Văn Yểm kế thừa sở trường của hai nhà, phát huy chỉ vi diệu đặc biệt, trụ núi Vân Môn Thiều Châu, đồ chúng thường hơn ngàn người, kẻ nối pháp sáu mươi mốt người.
+
+Gia Phong của Vân Môn thẳng tắt, thường dùng ba chữ Cố (nhìn), Giám (xem), Ỷ (chê) để khám xét người học; còn có Vân Môn Bát Yểu: một Huyền, hai Tùng, ba Chơn Yếu, bốn Đoạt, năm Hoặc, sáu Quá, bảy Tán, tám Xuất, Pháp Nhãn Thiền Sư Thập Qui Luận xưng Ngài Vân Môn là “Hàm cái triệt lưu”, nói gia phong nhà họ giống như nước sông đang chảy gấp mà đột nhiên dừng lại.
+
+Văn Yểm có tự làm bài kệ rằng:
+
+Vân Môn chót vót trên đám mây,
+
+Cá chẳng dám trụ nước chảy bay,
+
+Vào cửa đã biết ôm kiến giải
+
+Đâu phiền kể lại sình bánh xe.
+
+Đệ tử Ngài Vân Môn là Viên Minh Thiền Sư có bài tụng ba câu của Vân Môn rằng:
+
+1/ Hàm cái càn khôn:
+
+Càn khôn và vạn tượng,
+
+Địa ngục với thiên đường,
+
+Vật vật đều trực hiện,
+
+Mỗi mỗi chẳng đúng sai.
+
+2/ Triệt đoạn chúng lưu:
+
+Đầy núi đầy biển lại,
+
+Mỗi mỗi đều trần ai,
+
+Lại muốn lập huyền diệu,
+
+Ngói bể băng tiêu ngay.
+
+3/ Tùy ba trục lãng:
+
+Cách hỏi đủ biện tài,
+
+Cao thấp đáp chẳng sai,
+
+Cũng như thuốc đúng bệnh.
+
+Chẩn hỏi lúc lâm thời.
+
+Riêng hỏi ngoài ba câu:
+
+Đương nhơn nếu đề xướng,
+
+Ba câu đâu thể gồm,
+
+Có hỏi việc thế nào,
+
+Nam Nhạc và Thiên Thai.
+
+Ngài Trí Môn làm bài tụng “Rút chữ Cố” rằng:
+
+Vân Môn rút cố cười hi hi,
+
+Suy nghĩ bị nó cố giám ỷ,
+
+Dầu cho Trương Lương nhiều kế sách,
+
+Cuối cùng ở đây cũng khó thi (hành).
+
+GIA PHONG PHÁP NHÃN TÔNG:
+
+Người sáng lập là Thanh Lương Văn Ích Thiền Sư, Trụ trì Kim Lăng Thanh Lương Tự, học giả bốn phương tấp nập tìm đến tham học, hình thành một Tông phái trong Thiền Tông.
+
+Gia phong của Pháp Nhãn Tông có Lục tướng và Tứ Liệu Giản dùng để tiếp dẫn hậu học. Tứ Liệu Giản tức là Văn văn (phóng), Văn bất văn (thu), Bất văn văn (minh), Bất văn bất văn (ám).
+
+GIA PHONG TÀO ĐỘNG TÔNG:
+
+Tào Động Tông đúng ra phải xưng là Động Tào Tông, do Động Sơn Lương Giới Thiền Sư với đệ tử là Tào Sơn Bổn Tịch Thiền Sư sáng lập. Ngai Lương Giới thọ tâm yếu nơi Vân Nham Thiền Sư, sau trụ trì Động Sơn Phổ Lợi Viện ở Dự Chương, đề xướng Ngũ Vị để tiếp dẫn học giả. Ngũ vị là: Chánh trung thiên, Thiên trung chánh, Chánh trung lai, Thiên trung chí, Kiêm trung đáo. Còn có bài Bửu Cảnh Tam Muội ca.
+
+Động Sơn gia phong miên mật, trong số đệ tử thượng thủ, Ngài Tào Sơn Bổn Tịch đắc tâm truyền, Trụ trì Tào Sơn Sùng Thọ Viện ở Võ Châu, xướng dương yếu khuyết Ngũ Vị, người học đến tấp nập, người đời xưng là Tào Động Tông.
+
+Pháp Nhãn Thiền Sư Thập Qui Tụng rằng: “Tào Động là xướng họa làm dụng”, bởi gia phong một vấn một đáp, qua lại miên mật, so với cơ phong thẳng tắp của Lâm Tế ý thú khác xa. Nên người xưa có lời nói “Lâm Tế tướng quân, Tào Động nông dân”. Vì gia phong Lâm Tế như tướng chỉ huy binh lính trăm vạn, mà gia phong Tào Động thì như kẻ nông phu canh tác ruộng đất rất chu đáo vậy.
+
+Có Tăng hỏi Phần Dương Thiệu Chiêu Thiền Sư thế nào là Chánh trung lai?
+
+Đáp: “Bông sen nở đầy trên đất khô”.
+
+Hỏi: “Sau khi sen nở thế nào?”.
+
+Đáp: “Nhụy bông Kim Liên hứng sương ngọc, cao Tăng chẳng tọa đài Phượng Hoàng”.
+
+Hỏi: “Thế nào là Chánh trung thiên?”.
+
+Đáp: “Mặt trăng chiếu sáng đầu đêm rồi, gà gáy phải báo trước canh năm”.
+
+Hỏi thế nào là Thiên trung chánh?
+
+Đáp: “Mầm nhỏ thành cây to, giọt nước làm sông ngòi”.
+
+Hỏi thế nào là Thiên trung chí?
+
+Đáp: “Ý khí chẳng đắc từ thiên địa, anh hùng đâu nương thời thế thành”.
+
+Hỏi thế nào là Kiêm trung đáo?
+
+Đáp: “Ngọc nữ dệt vải thuyền ọt ẹt, người đá đánh trống tiếng đùng đùng”.
+
+Sư vì Tăng xin hỏi Ngũ vị, bèn tụng ra từng vị rằng:
+
+Chánh trung lai:
+
+Bửu kiếm Kim Cang vạch trời ra,
+
+Một tia thần quang khắp thế giới.
+
+Phẩm tánh sáng tỏ tuyệt trần ai.
+
+Chánh trung thiên:
+
+Cơ phong sấm sét nháy mắt nhìn,
+
+Lửa đá điện chớp chậm trễ thay!
+
+Suy nghĩ đo lường xa ngàn dặm.
+
+Thiên trung chánh:
+
+Hãy xem Luân Vương ban chánh lệnh,
+
+Bảy ngàn Thái Tử đều theo hầu,
+
+Giữa đường một mình tìm gương vàng.
+
+Thiên trung chí:
+
+Sư tử tuổi oai thế sẵn,
+
+Thiên tà bá quái ló đầu ra,
+
+Rống lên một tiếng đều hàng phục.
+
+Kiêm trung đáo:
+
+Hiển bày vô công chớ tạo tác,
+
+Trâu gỗ bước đi trong lửa hồng,
+
+Thật là Pháp Vương diệu trung diệu.
+
+Còn Ngũ Vị của Từ Minh Sở Viên Thiền Sư rằng:
+
+Chánh trung thiên:
+
+Gà đen nửa đêm gáy trong phòng,
+
+Đáy biến đốt đèn thế giới sáng.
+
+Tảng đá trồng bông mọc cây linh.
+
+Thiên trung chánh:
+
+Mặt trời lặn xuống hiện bóng lạ,
+
+Ảnh tượng rõ ràng hiển Tông thừa,
+
+Lông mày chớ nhìn trăng trong giếng.
+
+Chánh trung lai:
+
+Ngựa gỗ sanh con khắp thiên hạ,
+
+Mặc tình dẫn dắt đi đường chim,
+
+Há chẳng người nương ổ chim ở.
+
+Chánh trung lai:
+
+Mỗi mỗi trượng phu có ý khí,
+
+Mâu thuẫn chống nhau chẳng vết thương,
+
+Tung hoành khai triển chẳng lìa nhau.
+
+Kiêm trung đáo:
+
+Trắng đen chưa rõ chớ tạo tác,
+
+Phải biết trụ cột chưa sanh con.
+
+Chớ nhận lời cuồng ngưng nửa đường.
+
+Trên đây là gia phong đại khái của Tào Động Tông.
+
+Người xưa có bình luận Ngũ gia gia phong rằng:
+
+Tào Động đinh ninh, Lâm Tế thế thắng, Vân Môn thẳng tắt, Pháp Nhãn linh xảo, Qui Ngưỡng trao nhau.
+
+Còn Bạch Vân Pháp Diễn Thiền Sư trong Ngữ Lục có luận về Ngũ gia gia phong rằng:
+
+Tăng hỏi thế nào là việc Lâm Tế?
+
+Đáp: “Ngũ nghịch nghe sấm sét”.
+
+Hỏi thế nào là việc Vân Môn?
+
+Đáp: “Cờ đỏ lấp lánh”.
+
+Hỏi thế nào là việc Tào Động?
+
+Đáp: “Gởi thơ chẳng đến nhà”.
+
+Hỏi thế nào là việc Qui Ngưỡng?
+
+Đáp: “Bia gãy nằm đường xưa”.
+
+Tăng lễ bái.
+
+Sư nói: “Sao chẳng hỏi việc Pháp Nhãn?”
+
+Tăng nói: “Để giành cho Hòa Thượng”.
+
+Sư nói: “Người tuần phạm luật giới nghiêm”.
+
+Sư nói tiếp: “Ngộ thì việc đồng một nhà, chẳng ngộ thì muôn ngàn sai biệt, một nửa ăn bùn ăn đất, một nửa ăn mạch ăn mè, hoặc là hàng long phục hổ, hoặc là lượm sò với tôm. Hòa Sơn chỉ biết đánh trống, Bí Ma luôn luôn giơ chỉa. Nói chung một tuồng hát cười, đều do mỉm cười niêm hoa, đồ bỏ trong đám Bạch Vân, gió xuôi xả đất, xả cát, nếu chẳng tâm can thế này, sao được áo gấm vinh qui! Vậy một tiếng “Vinh qui” nên nói thế nào? Vinh hoa hôm nay người chẳng biết mười năm trước là một thư sinh”.
+
+Còn thượng đườngnói: “Đạt Ma từ bên Tây đến, việc lâu nhiều biến đổi, con cháu đời sau gia phong vô hạn, nhiễu loạn thân tâm, một đống chỉ mành. Bạch Vân hôm nay thảy đều cắt đứt.
+
+Đại chúng! Một trăm lẻ năm ngày thanh minh, Thượng nguyên nhất định là rằm tháng giêng.
+
+Nên biết, nói gia phong chỉ là phương tiện tùy nghi của chư Tổ dùng để tiếp dẫn hậu học. Gia phong dù theo người mà khác, nhưng Phật tánh thì ngàn xưa chẳng đổi, kẻ ngộ thì thấu qua như một, chẳng ngộ thì lại thêm rắm rối.
+
+Pháp Nhãn Tông truyền sang Cao Ly, Vân Môn Tông thất truyền đã lâu, nay chỉ còn ba Tông là Qui Ngưỡng, Tào Động, Lâm Tế, nhưng con cháu của các Tông, chỉ lấy cội nguồn gia phổ để truyền thừa với nhau, ghi tên trên pháp quyển là Thiền Sư đời thứ mấy mà thôi, nếu hỏi về gia phong Tông chỉ thì ngơ ngác chẳng thể trả lời. Nên khuyên người học đời nay, hễ được minh tâm kiến tánh liền được liễu thoát sanh tữ, nối tiếp Huệ mạng của chư Phật chư Tổ với chư Phật chư Tổ nắm tay cùng đi, đâu cần phân chia Tông phái chi nữa!
+
+ 
+
+CHƯƠNG II
+
+YẾU CHỈ THIỀN TÔNG
+
+ 
+
+1.- Ý NGHĨA “GIÁO NGOẠI BIỆT TRUYỀN, CHẲNG LẬP VĂN TỰ”.
+
+Bích Nham Tập có bài bình xướng rằng: “Đạt Ma từ xa quán đất này có căn khí Đại Thừa, bèn vượt biển đến Trung Quốc, chuyên truyền Tâm ấn, khai thị cho kẻ mê, chẳng lập văn tự, trực chỉ nhơn tâm, kiến tánh thành Phật”.
+
+Nói “Chẳng lập văn tự”, vì văn tự phải nương bộ não suy nghĩ, suy nghĩ thì nương nơi nhất niệm vô minh; nhất niệm vô minh hư huyễn chẳng thật, nên suy nghĩ văn tự cũng hư huyễn chẳng thật. Do hư huyễn chẳng thật gọi là tương đối, tương đối thì có sanh có diệt, chẳng thể hiển bày tuyệt đối chẳng sanh diệt của bản thể, vì văn tự chẳng thể hiển thị Phật tánh, nên nói chẳng lập văn tự. Phật Thích Ca dùng lời nói văn tự để hoằng giáo pháp là do sự bất đắc dĩ, nên thí dụ như ngón tay chỉ mặt trăng, vừa thuyết liền phá, Kinh Niết Bàn nói: “Bắt đầu từ Lộc Uyển, cuối đến sông Bạt Đề, khoảng giữa 50 năm, chưa từng thuyết một chữ” là vậy.
+
+Kinh Kim Cang: “Nếu nói Như Lai có thuyết pháp tức là phỉ báng Phật, người ấy chẳng hiểu nghĩa sở thuyết của ta”. Ý cho rằng phàm thuộc về lời nói văn tự đều chẳng có nghĩa thật, tương đối chẳng thể diễn tả tuyệt đối. Phật Thích Ca vì từ bi độ chúng sanh, dù tạm mượn lời nói văn tự để thuyết pháp, chỉ gọi là phương tiện, nên khi đang thuyết pháp, thường cảnh cáo đại chúng chớ chấp lời nói là thật, để khỏi tự kẹt chẳng thông, đọa vào trong hầm sâu tương đối mà chẳng thể tự cứu.
+
+Phật đối với lời nói và nghĩa thật phân ra rõ ràng, chẳng cho lẫn lộn, thật rất khổ tâm.
+
+Kinh Lăng Già nói: “Đại Huệ! Những kẻ si mê nói rằng: “Nghĩa như ngôn thuyết, nghĩa với thuyết chẳng khác”. Tại sao? Vì nghĩa tự chẳng thân (không bản thể), ngoài ngôn thuyết chẳng còn nghĩa nào, nên nói nghĩa đúng như ngôn thuyết. Đại Huệ! Họ nói vậy là trí huệ bị cháy khét, chẳng biết Tự tánh ngôn thuyết, chẳng biết ngôn thuyết sanh diệt (pháp tương đối), nghĩa thì chẳng sanh diệt (pháp tuyệt đối). Đại Huệ! Tất cả ngôn thuyết đều đọa nơi văn tự, nghĩa thì chẳng đọa, lìa tánh và phi tánh, cũng chẳng thân chẳng thọ. Đại Huệ! Như Lai chẳng thuyết những pháp đọa văn tự, vì văn tự có với không đều bất khả đắc, nên nói chẳng đọa văn tự. Đại Huệ! Nếu nói Như Lai thuyết những pháp đọa văn tự, ấy là hư vọng, vì pháp lìa văn tự, cho nên chư Phật chúng ta và chư Bồ Tát chẳng thuyết một chữ, chẳng đáp một chữ. Tại sao? Vì pháp lìa văn tự (bản thể tuyệt đối chẳng dính dáng với văn tự). Dù ngôn thuyết là vọng tưởng của chúng sanh, nhưng cũng chẳng thể phế bỏ ngôn thuyết, nếu chẳng thuyết tất cả pháp thì giáo pháp sẽ bị hoại, nếu giáo pháp hoại thì chẳng còn chư Phật, Bồ Tát, Duyên Giác, Thanh Văn, vậy ai thuyết cho ai? Đại Huệ! Bồ Tát chớ nên chấp trước ngôn thuyết, chỉ dùng phương tiện tùy nghi rộng thuyết kinh pháp, vì phiền não và hy vọng của chúng sanh chẳng đồng, nên chư Phật vì sự hiểu biết mỗi mỗi khác nhau của chúng sanh mà thuyết pháp, khiến lìa tâm (thức thứ tám), ý (thức thứ bảy), và ý thức (thức thứ sáu), vì tâm, ý, ý thức chẳng thể đạt đến chỗ tự giác Thánh trí vậy”.
+
+Lời nói văn tự đối với bản thể của Phật tánh dù chẳng có giá trị để nói, nhưng đối với sự thuyết pháp độ sanh thì vẫn phải nhờ ngôn thuyết để làm công cụ chủ yếu, đến khi hôi Linh Sơn Phật niêm hoa thị chúng, Ca Diếp tỏ ngộ, mới tuyên bố có pháp môn “Giáo ngoại biệt truyền chẳng lập văn tự" để truyền cho Ca Diếp, pháp môn này là trực tiếp hiển bày thể dụng của Phật tánh, khiến chúng sanh chẳng nhờ văn tự mà trực tiếp ngộ nhập Bản thể của Chơn như. Các đại đệ tử được Thế Tôn dạy dỗ và huân tập đã lâu, Thế Tôn biết họ căn cơ đã thuần thục, nên đặc biệt truyền thị pháp môn vi diệu này, khiến đốn ngộ pháp Vô sanh, thẳng siêu Phật địa.
+
+Suy nghĩ, lời nói, văn tự cùng xuất phát từ nhất niệm vô minh. Khi một niệm chưa động, tịch nhiên trống rỗng, chẳng có tư tưởng cảm giác, dĩ nhiên cũng chẳng nói lời nói văn tự, đây gọi là vô thỉ vô minh. Khi vô thỉ vô minh bị kích thích, một niệm đã động, suy nghĩ liền sanh. Do suy nghĩ có lời nói, do lời nói mà lập văn tự, suy nghĩ là lời nói chẳng có tiếng, lời nói là suy nghĩ có tiếng, văn tự là lời nói có hình, lời nói là văn tự vô hình, cả ba đều gom trong chữ “tên gọi”. Nhiếp Đại Thừa Luận nói: “Tên gọi” có hai thứ, một là tên gọi ngôn thuyết, hai là tên gọi suy tư. Nhà triết học Rousseau cũng nói “Tư tưởng là lời nói bên trong”, Lâm Tế Thiền Sư nói: “Tên gọi chẳng tự là tên gọi, chỉ do trước mắt ngươi cho là cái linh thiêng của kiến văn giác tri chiếu soi ấy gắn cho tất cả tên gọi”. Nhưng cả ba đều khởi từ nhất niệm vô minh, nhất nhiệm vô minh có sanh có diệt, biến đổi vô thường, tên gọi văn tự cũng theo đó biến đổi vô thường. Vô thường thuộc tương đối, Phật tánh thuộc tuyệt đối, tương đối chẳng thể hiển bày tuyệt đối, nên tuyệt đối của Phật tánh chỉ có thể tự tu chứng mới có thể nhận biết được, chẳng thể dùng văn tự diễn tả, cũng chẳng thể dùng bộ não suy lường. Kinh Lăng Già nói: “Đệ nhất nghĩa (Phật tánh tuyệt đối) là sở đắc của Thánh trí tự giác, chẳng phải cảnh giới cảm giác của vọng tưởng ngôn thuyết cho nên vọng tưởng chẳng thể hiển bày Đệ nhất nghĩa. Ngôn thuyết sanh diệt lay động do nhân duyên tương sanh với nhau, vì do nhân duyên tương sanh với nhau nên chẳng thể hiển bày Đệ nhất nghĩa”.
+
+Kinh Giải Thâm Mật nói: “Ta nói thắng nghĩa (Phật tánh) là sở chứng bên trong của bậc Thánh, việc làm suy tư (suy nghĩ đo lường) là sở chứng của chúng sanh". Lại nói: “Sở hành của thắng nghĩa vô tướng, suy tư là hành theo cảnh giới có tướng. Thắng nghĩa chẳng thể ngôn thuyết, suy tư là hành theo cảnh giới ngôn thuyết, thắng nghĩa vốn tuyệt biểu thị, suy tư là hành theo cảnh giới biểu thị, thắng nghĩa tuyệt cả tranh luận, suy tư là hành theo cảnh giới tranh luận”.
+
+Theo các kinh kể trên, nên biết suy nghĩ văn tự với Chơn như Phật tánh chẳng thể tiếp xúc nhau. Người ta thường nói: “Chỉ có thể ý hội chẳng thể ngôn truyền”. Kỳ thật tuyệt đối của Phật tánh dù muốn ý hội cũng chẳng thể được, huống là ngôn truyền ư! Chẵng những Phật tánh như thế, cho đến một kỹ thuật tinh xảo của thế gian chỗ huyền diệu của họ cũng chẳng thể ngôn truyền vậy. Như Trang Tử nói: “Hoàn Công đọc sách ở nhà trên, người thợ mộc đẽo bánh xe ở nhà dưới, buông chàng đục đi lên hỏi Hoàn Công rằng: “Xin hỏi sách Ngài đọc đó là lời nói gì?”. Hoàn Công trả lời: “Lời nói của bậc Thánh”. “Bậc Thánh đâu?”. “Chết rồi”. Người đẽo bánh xe liền nói: “Thế thì sách Ngài đọc đó chỉ là cặn bã của bậc Thánh mà thôi!”. Hoàn Công nói: “Quả nhân đọc sách , người thợ đẽo bánh xe sao được bàn luận? Nếu nói có lý thì tha tội, nếu nói không được thì chém đầu”. Người đẽo bánh xe thưa: “Hạ thần đem việc của hạ thần ra mà xem, nếu hạ thần đẽo bánh xe hơi lỏng một chút thì xe chạy được nhưng không an toàn vì dễ sút ra, nếu đẽo hơi chặt thì bánh xe khít mà quay không được, so sự tự ngộ của hạ thần, tâm khiến tay, tay cầm búa đẽo vào bánh xe, chẳng lỏng chẳng chặt, dùng miệng chẳng thể nói, nhưng có sự tự động ở trong đó. Dù con của hạ thần cũng là một thợ mộc danh tiếng, nhưng hạ thần chẳng thể đem sự ngộ ấy để truyền dạy cho con. Nay hạ thần còn sống, có bánh xe, có búa, có tay mà còn truyền thọ chẳng được, huống là bậc Thánh đã chết, chỉ để lại lời nói không còn gì cả!”. Do đó chứng tỏ lời nói văn tự là việc gián tiếp trong gián tiếp, sức diễn tả rất hạn chế, huống là muốn truyền đạt bản thể của tuyệt đối ư! Nên Phật nói: “Bất khả thuyết! Bất khả thuyết”, còn Văn Thù Bồ Tát tán thán Duy Ma Cật rằng: “Cho đến chẳng có ngôn thuyết ấy là chơn nhập pháp môn bất nhị”. Lão Tử nói: “Cho nên bậc Thánh ở nơi việc vô vi hành giáo pháp vô ngôn”. Khổng Tử nói: “Ta muốn vô ngôn”. Tử Tư nói: “Văn chương qua Khổng Phu Tử có thể nghe mà tánh với thiên đạo thì chẳng thể nghe”. Liệt Tử nói: “Vì ngộ bản tánh nên chẳng thể bảo cho biết”. Các nhà Nho và Đạo giáo đều cùng một ý kiến này.
+
+Thế Tôn vì cứu sự hạn chế hạn hòi của lời nói văn tự, nên ở ngoài ngôn giáo biệt truyền phương pháp trực tiếp, tức là việc niêm hoa thị chúng vậy. Chẳng những niêm hoa mà thôi, phàm nhướng mày nháy mắt, tằng hắng, ngó nhìn đều là phương pháp tiếp dẫn hậu học, khiến cho ngộ nhập bản thể tuyệt đối.
+
+Kinh Lăng Già nói: “Đại Huệ! Chẳng phải tất cả thế giới đều có ngôn thuyết, ngôn thuyết chỉ dùng để giả lập mà thôi. Hoặc có thế giới dùng ngó nhìn để thuyết pháp, hoặc dùng hình tướng, hoặc dùng nhướng mày, nháy mắt, hoặc cười hoặc ngáp, hoặc tằng hắng hoặc lay động, hoặc ghi nhớ cõi Phật. Đại Huệ! Những tác dụng kể trên đều khiến chư Bồ Tát đắc Vô sanh Pháp nhẫn và Tam muội thù thắng, cho nên chẳng phải ngôn thuyết gồm có tất cả tánh. Đại Huệ! Giống như những ruồi, muỗi, con kiến, côn trùng trong thế giới này, đều chẳng có ngôn thuyết mà mỗi mỗi làm xong việc hằng ngày”. Hét, gậy, chửi, mắng, dựng phất trần, giơ ngón tay của Tổ Sư Trung Quốc đều từ đây mà ra, chẳng phải khi không bày đặt, hoặc có người nói Thiền Tông là sáng lập từ Trung Quốc, ấy là do người chưa hiểu thấu vậy.
+
+Mặc dù sự diễn tả của ngôn thuyết văn tự có nhiều hạn chế, nhưng chẳng thể phế bỏ. Kinh Viên Giác nói: “Kinh Giáo liễu nghĩa như ngón tay chỉ mặt trăng, nếu thấy được mặt trăng, thì biết ngón tay chẳng phải mặt trăng, tất cả ngôn thuyết của Như Lai khai thị cho Bồ Tát đều cũng như thế". Nên biết giáo pháp văn tự của Như Lai đều từ biển tánh chảy ra, muốn khiến chúng sanh theo đó tu hành để đạt đến bản thể tuyệt đối, lìa nhị biên Có và Không, chẳng phải lời nói văn tự của thế gian có thể so bằng.
+
+Kinh Giải Thâm Mật nói: “Dù pháp tánh lìa ngôn, vì muốn khiến chúng sanh tự hiện Đẳng Giác, nên giả lập danh tướng”. Còn nói: “Dù Tự tánh chẳng tánh, pháp sở chứng lìa những văn tự, nhưng chẳng thể bỏ ngôn thuyết văn tự mà được diễn thuyết”. Kinh nói: “Biết pháp chẳng do ngôn, người khéo diễn tả ở nơi vô ngôn, mà hiển bày ngôn thuyết, như tiếng vang khắp nơi”. Kinh Hoa Nghiêm nói: “Tất cả chư Phật ra diệu âm thanh, vì chúng sanh làm Phật sự; tất cả chư Phật tịch lặng vô ngôn cũng vì chúng sanh làm Phật sự”. Nên biết một nói, một nín, một động, một tịnh của Phật đều là dẫn dắt chúng sanh đạt đến chỗ giải thoát, như thầy thuốc tùy bệnh cho thuốc, chỉ cần hết bệnh tức là toa thuốc hay, đâu cần phân biệt là lộc nhung hay cứt bò!.
+
+Xưa nay các Tổ Sư Thiền Tông như Ngài Đạo Tín, Huệ Năng, Đạo Nhất, Bá Trượng, Đại Châu, Lâm Tế, Tuyết Phong, Tuyết Đậu v.v... dù gắn cái bản hiệu ‘Chẳng lập văn tự", nhưng đều có pháp ngữ và tác phẩm lưu hành trên đời, chẳng phải hoàn toàn phế bỏ văn tự. Nên biết nói “Chẳng lập văn tự" là muốn chỉ rõ tìm Phật tánh trong văn tự bất khả đắc, người tu hành chớ nên đọa vào vọng tưởng văn tự mà bị văn tự trói buộc, nếu cứ chấp thật sự chẳng lập văn tự thì nghịch với bản ý của Phật với Tổ vậy.
+
+Kinh Pháp Bảo Đàn nói: “Kẻ chấp Không lại báng kinh rằng, trực ngôn chẳng dùng văn tự; đã nói chẳng dùng văn tự thì con người cũng chẳng nên ngôn ngữ, vì ngôn ngữ tức là tướng của văn tự”. Lại nói: “Trực đạo chẳng lập văn tự, đâu dè hai chữ CHẲNG LẬP cũng là văn tự, thấy người có lời nói, liền báng họ là dính mắc văn tự. Các người nên biết, tự mê còn đỡ, lại báng kinh Phật, chớ nên báng kinh, tội chướng vô số kể”.
+
+Tổ Đình Sư Uyển có nói: “Chư Tổ truyền Pháp, ban sơ tu hành gồm tam tạng giáo thừa, sau Tổ Đạt Ma chuyên truyền Tâm ấn, phá chấp giáo để hiển Tông (Thiền), gọi là giáo ngoại biệt truyền, chẳng lập văn tự, chỉ thẳng tâm người, thấy tánh thành Phật, nhưng đối với sự chẳng lập văn tự, người hiểu lầm rất nhiều, thường cho là bỏ cả văn tự, lấy im lặng tĩnh tọa làm Thiền, ấy thật là con dê câm của Thiền môn. Vả lại muôn pháp lăng xăng, đâu chỉ là văn tự chẳng lập thôi. Họ chẳng biết đạo tức phải thông, sao lại cố chấp nơi một góc!”.
+
+Nên người thông thạo ngay nơi văn tự mà văn tự bất khả đắc, đối với văn tự như thế, đối với các pháp khác cũng vậy, hễ kiến tánh thành Phật là xong, đâu đợi bỏ văn tự mới xong!
+
+Cho nên văn tự dù thuộc về tương đối, nếu được nương ngón tay mà thấy mặt trăng thì văn tự chưa từng chẳng có công dụng, nếu được minh tâm kiến tánh, chứng nhập Nhất hạnh, Nhất tướng Tam muội thì ngay nơi văn tự tức là Thật tướng, tương đối biến thành tuyệt đối; nếu chấp ngón tay là mặt trăng thì văn tự chưa từng là chẳng hại.
+
+Tam tạng mười hai bộ kinh là do Phật Thích Ca giả lập, cũng do Phật phủ định; giả lập là vì độ chúng sanh, phủ định là vì khỏi làm hại cho chúng sanh. Nếu giả lập mà chẳng thể phủ định thì chẳng phải là Phật; nếu phủ định mà chẳng thể giả lập cũng chẳng phải là Phật. Vì hay giả lập cũng hay phủ định. Cho nên Phật Pháp mới được viên dung vô ngại, thuần túy trọn vẹn mà chẳng có chỗ khuyết điểm.
+
+Phật từng thuyết “Vô thường, Khổ, Không, Vô ngã” rồi ngay đó phủ định liền; Phật từng thuyết “Tứ đế, Thập nhị nhân duyên” rồi cũng ngay đó phủ định liền; Phật từng thuyết “Vô thượng Chánh đẳng Chánh giác” rồi cũng ngay đó phủ định liền, nói giả, chẳng thật, bất khả đắc. Phật thuyết Pháp như thế mới chẳng bị kẹt nơi danh tướng, dẫn dắt vào nơi tuyệt đối mà chẳng có gì cả. Hoặc có người muốn dựa theo kinh điển pháp môn để vấn nạn Phật, mà chẳng biết những kinh điển những pháp môn đó Phật đã mỗi mỗi tự phủ định rồi! Phật vừa nói liền phá, cho đến chẳng lưu lại một chữ, chẳng còn dấu tích để tìm thì đâu còn gì để cho họ chỉ trích ư! Nên người vấn nạn Phật muốn báng Phật, cũng như dùng nắm tay đánh hư không, như ngước mặt phun nước miếng lên trời, mong chẳng tự làm nhơ cho mình cũng chẳng được. Được hiểu như thế rồi mới có thể học Phật tham thiền.
+
+2.- SỰ KHÁC BIỆT CỦA TÔNG MÔN VÀ GIÁO MÔN.
+
+Tông môn, giáo môn phân ra riêng biệt bắt đầu từ Trung Quốc mà căn cứ nơi kinh Lăng Già. Phật bảo: “Đại Huệ! Tất cả Thanh Văn, Duyên Giác Bồ Tát, có hai thứ tướng thông: gọi là Tông thông với Thuyết thông, Nói Tông thông là do tự mình chứng đắc tướng thắng tiến, xa lìa ngôn thuyết văn tự vọng tưởng, rồi ngộ nhập Tự Tướng Tự Giác Địa nơi giới vô lậu, xa lìa tất cả giác tưởng hư vọng, hàng phục tất cả bọn ma ngoại đạo, do tự giác phát huy ánh sáng, ấy là tướng Tông thông. Thế nào là tướng Thuyết thông? Nói thuyết đủ thứ giáo pháp nơi chín bộ Kinh, lìa các tướng đồng, dị, và có, không, dùng phương tiện tinh xảo, để tùy thuận chúng sanh, ứng cơ thuyết pháp khiến được độ thoát, ấy gọi là tướng Thuyết thông. Đại Huệ! Ngươi và các Bồ Tát nên tu học. 
+
+Phật nói ‘Tông thông” là pháp Thiền thực tiễn do mình tự tham tự chứng; nói “Thuyết thông” là pháp sư giảng giáo lý, thuyết pháp tự tại, chẳng lìa tự tánh, chẳng đọa nhị biên. Một là trực tiếp, một là gián tiếp; do tâm hành, một do khẩu thuyết, đức Phật hoằng pháp lợi sanh, đại khái chẳng ra ngoài hai lối này. Hai thứ phương pháp dù chẳng đồng, nhưng mục đích cuối cùng chỉ là một, nếu xét kỹ lại thì tông chẳng lìa giáo, giáo chẳng lìa tông, xưa nay Tông môn dù nói chẳng lập văn tự, chẳng trọng Kinh điển, nhưng Thế Tôn sau khi niêm hoa thị chúng rồi liền nói: “Ta có Chánh pháp nhãn tạng, Niết Bàn diệu tâm, Thật tướng vô tướng, Vi diệu pháp môn, Chẳng lập văn tự, Giáo ngoại biệt truyền, Chỉ thẳng tâm người, Thấy tánh thành Phật”. Tám câu này tức là ngôn ngữ, tức là giáo lý, cho đến Tổ Đạt Ma lấy Kinh Lăng Già truyền cho Ngài Huệ Khả, Ngũ Tổ Hoằng Nhẫn lấy Kinh Kim Cang truyền thọ Ngài Huệ Năng, Tứ Tổ có Pháp Ngữ, Lục Tổ có Pháp Bảo Đàn, ấy đều chứng tỏ Tông chẳng lìa giáo vậy.
+
+Lại như trong giáo điển Hoa Nghiêm, Niết Bàn, Viên Giác, Lăng Nghiêm, Kim Cang, Lăng Già đều trực thị Tông chỉ thẳng lìa Pháp thân, ấy đều chứng tỏ Giáo chẳng lìa Tông vậy. Nên Chứng Đạo Ca nói: “Tông cũng thông, Thuyết cũng thông, Định, Huệ sáng tròn chẳng kẹt không", chúng sanh đời mạt pháp chẳng rõ ý chỉ này, vì tiên nhập làm chủ, nên ít người thông suốt, lại mỗi mỗi tự lập cửa ải, bài xích lẫn nhau, kẻ học Thiền thì chấp Tông mà đè giáo, kẻ học giáo môn thì chấp giáo mà khinh tông. Thật ra Tông lìa Giáo thì đọa nơi rỗng không, giáo lìa tông thì thành ra tạp loạn, Tông với Giáo như hai bánh của xe, chẳng thể phế bỏ bánh xe nào.
+
+Hành giả Tông môn dụng công tham thiền, ngoài việc thân cận Thiện tri thức, hiểu rõ phương pháp dụng đứng đắn, vẫn cần biết rõ cảnh giới chẳng đồng của bốn thừa và sự khác nhau của phương pháp dụng công, mới chẳng lầm nhận cho Tiểu Thừa là Đại Thừa, lạc vào lối tẻ, chẳng thể đạt đến minh tâm kiến tánh.
+
+Muốn rõ bốn thừa cũng nên xem kinh điển giáo lý; người học giáo lý đã rõ bốn thừa rồi, cần phải chơn tham thật chứng mới được minh tâm kiến tánh. Nếu chẳng minh tâm kiến tánh, dù kinh điển văn tự chứa đầy bụng, biện tài như suối chảy, ngòi bút viết ra muôn ngàn văn chương, với bản thể của Phật tánh đều chẳng dính dáng, thậm chí hiểu lầm ý Phật, tự ý phát huy để di lại cho kẻ hậu học.
+
+3.- ĐẠI Ý CỦA BỐN THỪA.
+
+Chữ Phật còn thuộc giả danh, huống là bốn Thừa ư! Nhưng đức Phật đại bi cứu thế, phương tiện độ sanh, vì tùy căn cơ sâu cạn của chúng sanh nên giả thiết đủ thứ ngôn giáo pháp môn dùng để tu tập, theo thời ứng cơ, tùy nghi lập giáo, như lương y trị bệnh, tùy bệnh cho thuốc, nên có những thí dụ như xe dê, xe trâu (tam thừa) và Hóa Thành (nửa đường), Bửu Sở (quả Phật) v.v... Khổ tâm ấy thật là chiếu sáng muôn đời.
+
+Tất cả pháp có thể nói ra đều thuộc về tương đối; pháp tương đối phải tùy theo không gian và thời gian mà biến đổi, vốn chẳng thật thể. Nên đức Phật thuyết Pháp vừa thuyết liền phá, ban sơ Phật đã từng vì chúng sanh thuyết diệu lý của Chơn như Pháp thân, ý chỉ huyền ảo vi diệu, chúng đều bỏ đi, rồi trở lại thuyết Pháp môn Tiểu Thừa, người nghe mới tin được. Đến khi đồ chúng tu Tiểu Thừa đã quen thuộc, ham thích Thiền vị, chỉ tự độ thân mình, Phật lại quở rằng: “Đây chẳng phải cứu cánh, chưa lìa hẳn sanh tử, nên tu Trung thừa”. Đồ chúng mới chuyển tu Trung thừa, đạt nơi ngã, pháp đều Không. Phật lại quở rằng: “Đây vẫn chưa cứu cánh, tập khí từ vô thỉ chưa sạch, cũng còn biến dịch sanh tử, nên tu Đại Thừa". Từ đó chúng mới chuyên tu pháp Đại Thừa, đến khi căn cơ thuần thục, Phật mới trực thị pháp Tối thượng thừa, kẻ tu hoát nhiên đại ngộ, thấu triệt bản tâm chẳng sanh chẳng diệt, chẳng biến chẳng khác, sẵn sàng viên mãn, chẳng do tạo tác, mới biết phi tâm, phi Phật, cuối cùng chẳng có pháp nào khác để đắc, nói ‘Pháp môn” chỉ là nói suông, nói “bốn thừa” đều là hí luận, khi ấy mới tin Phật nói “Chẳng thuyết một chữ, chẳng đáp một chữ” là chẳng phải cố ý bày đặt sự huyền bí.
+
+Nay lược thuật cảnh giới bốn thừa như sau:
+
+TIỂU THỪA: Cũng gọi là Thanh Văn thừa, do nghe thanh giáo của Phật mà ngộ lý Tứ Đế, đoạn dứt Kiến hoặc, Tư hoặc, chứng nhập Niết Bàn Tiểu thừa, ấy là lối tu hạ căn trong đạo Phật. Kinh Thắng Man Bửu Quật rằng: “Hai chữ Thanh Văn là kẻ hạ căn theo giáo lập tên, THANH tức là Giáo vậy.
+
+Pháp môn Tứ Đế của thừa Thanh Văn sở tu tức là KHỔ, TẬP, DIỆT, ĐẠO. KHỔ là cái quả thọ báo, TẬP là cái nhân chiêu quả, DIỆT là đắc quả tịch diệt, ĐẠO là lối tu để đoạn trừ cái nhân chiêu quả. Nói một cách khác, tu theo TỨ ĐẾ tức là biết Khổ đoạn Tập, mộ Diệt tu Đạo, Đế là ý nghĩa xác thật. Cách tu của họ là đoạn dứt công dụng của lục căn, lắng tâm tĩnh lự, cho đến chỉ còn một chút niệm trong sạch, ấy là cảnh giới của Tiểu thừa đạt đến, quả cùng tột gọi là A La Hán.
+
+Động cơ của người tu Tiểu thừa là nhàm chán sanh tử mà cầu thanh tịnh Tịch diệt, cho rằng trong linh tánh vốn chẳng phiền não, tất cả khổ đều do lục căn chiêu tập mới có, nên muốn được sự vui của thanh tịnh tịch diệt chỉ có tu đạo làm cho công dụng của lục căn dừng lại, chẳng sanh tác dụng chiêu tập, mắt chẳng thấy, tai chẳng nghe, mũi chẳng ngửi, lưỡi chẳng nếm, thân chẳng xúc, ý chẳng tưởng, công dụng của lục căn đã dứt sạch, sáu cửa đã đóng kín, trong linh tánh chỉ còn một niệm thanh tịnh, tịch tịnh an lạc, ấy là đạo quả sở chứng của Tiểu thừa, nhưng lục căn dù tạm dứt, mà một niệm thanh tịnh chưa được buông bỏ, ắt chẳng phải cứu cánh.
+
+TRUNG THỪA: Cũng gọi Duyên Giác thừa, do quán Nhân Duyên mà ngộ đạo. Xưa nay xưng Bích Chi Phật, dịch nghĩa là Độc Giác. Pháp môn của Trung thừa là Thập Nhị nhân duyên, tức VÔ MINH duyên HÀNH, HÀNH duyên THỨC, THỨC duyên DANH SẮC, DANH SẮC duyên LỤC NHẬP, LỤC NHẬP duyên XÚC, XÚC duyên THỌ, THỌ duyên ÁI, ÁI duyên THỦ, THỦ duyên HỮU, HỮU duyên SANH, SANH duyên LÃO TỬ. Thập nhị chi (mười hai nhánh) này bao gồm quá khứ, hiện tại, vị lai, tam thế nhân quả tuần hoàn chẳng dừng. Ở đây VÔ MINH là nhất niệm vô minh, cũng gọi là tánh nhất niệm vọng động, chẳng phải vô thỉ vô minh, vì bất giác khởi niệm, bèn sanh ra đủ thứ phiền não, tạo đủ thứ thiện ác nghiệp, gọi là HÀNH, hai chi này là nhân đời trước. THỨC là nghiệp thức, như thân trung ấm bị nghiệp lôi kéo mà đến đầu thai; DANH SẮC là lúc ở trong thai sắc thân chưa thành, tứ ấm THỌ, TƯỞNG, HÀNH, THỨC chỉ có tên gọi, chưa có thật chất; LỤC NHẬP là nói ở trong thai lục căn đã hoàn thành, là chỗ sở nhập của lục trần, XÚC là sau khi sanh ra, lục căn tiếp xúc lục trần, THỌ là lãnh thọ các cảnh giới thuận nghịch, năm chi này là quả đang thọ ở đời này. Ái là đối với cảnh trần có sở ái, THỦ là chấp thủ việc mình ham muốn, HỮU là có quyền sở hữu, cho mình được tùy ý chi phối, ba chi này là nhân sở đắc của đời này, đời này tạo nghiệp nhân thì đời sau báo ứng nghiệp quả. SANH là tùy theo sự gieo nghiệp nhân thành chủng tử để thọ sanh nơi kiếp sau. LÃO TỬ là kiếp sau đã có sanh, ắt phải có lão tử, hai chi này là quả báo phải thọ ở đời sau. Ấy là đại khái của Thập nhị nhân duyên.
+
+Kẻ tu pháp Trung thừa quán xét chúng sanh trong tam thế đều bị Thập nhị nhân duyên chi phối, mà Thập nhị nhân duỳen thì nương nhất niệm vô minh sanh khởi, cho rằng Tiểu thừa chưa thể phá nhất niệm này, nên chưa đạt cứu cánh, nếu được đoạn dứt nhất niệm này, thì được vượt ra ngoài tam thế, liễu thoát sanh tử.
+
+Nên cách dụng công của họ là muốn quét sạch nhất niệm vô minh, đạt đến cảnh giới mênh mông trống rỗng chẳng có gì cả, tự cho đã chứng Niết Bàn, chẳng biết đã lọt vào vô thỉ vô minh. Cái cảnh giới trống rỗng chẳng có chi cả, cũng gọi là “Không chấp”, linh tánh ám muội, chẳng khác gì gỗ đá! Huống chi nhất niệm dù tạm dừng, nếu bị kích thích vẫn có thể nổi lại, nên sở chứng của Trung thừa cũng chưa cứu cánh.
+
+ĐẠI THỪA: Cũng gọi là Bồ Tát thừa, pháp sở tu là sáu Ba La Mật, cũng gọi là Lục độ. Sáu Ba La Mật là: Bố thí, Trì giới, Nhẫn nhục, Tinh tấn, Thiền na, Bát nhã. Người tu Đại thừa gọi là Bồ Đề Tát Đỏa, Bồ Đề dịch là Giác, Tát Đỏa dịch là Hữu tình. Ý là giác ngộ chúng sanh hữu tình, gọi tắt là Bồ Tát, tức là chúng sanh phát đại tâm Bồ Đề, lấy tâm Bồ Đề làm thể để tự độ; lấy tâm Đại bi làm dụng để độ thành, tự tha kiêm lợi, nên xưng Đại thừa. Phẩm THÍ DỤ trong kinh Pháp Hoa rằng: “Nếu có chúng sanh nơi Phật Thế Tôn nghe pháp tín thọ, tinh tấn tu hành, cầu Nhất thiết trí, Phật trí, Tự nhiên trí, Vô sư trí, Vô sở uý, dùng sức tri kiến của Như Lai thương xót vô lượng chúng sanh, độ thoát tất cả trời, người đều được lợi ích an lạc, ấy gọi là Đại Thừa.”.
+
+Lục độ bao gồm tam học Giới, Định, Huệ, mà lấy pháp Thiền na làm chủ yếu để dụng công, người tu Đại thừa biết nhất niệm vô minh chẳng thể phá, nên lợi dụng nhất nhiệm vô minh để phá tan vô thỉ vô minh mà được kiến tánh, ấy là phương pháp dùng tướng cướp (nhất niệm vô minh) để bắt vua cướp (vô thỉ vô minh) vậy.
+
+TỐI THƯỢNG THỪA: Cũng gọi là Phật thừa, khi đã minh tâm kiến tánh, hiển hiện Phật tánh chơn như, phát huy diệu lý tuyệt đối, chỉ có kẻ chứng với kẻ chứng mới biết nhau được. Nên THẾ TÔN niêm hoa, CA DIẾP mỉm cười; CA DIẾP giơ tay; A NAN hiệp chưởng, dùng Tâm ấn Tâm, khế hợp ăn khớp, trình bày trước mắt, chẳng nhờ ngôn thuyết, là pháp tối cao cùng tột, chẳng còn gì hơn nữa, ấy là Tối thượng thừa Thiền.
+
+Tiểu thừa đoạn lục căn, Trung thừa đoạn nhất niệm vô minh, Đại thừa đoạn vô thỉ vô minh, tối thượng thừa trực chỉ chơn như Phật tánh, đây là đại ý của bốn thừa. Kinh Pháp Bảo Đàn nói: “Pháp chẳng bốn thừa, do tâm người tự có sai biệt mà hình thành, thấy, nghe, đọc, tụng là Tiểu thừa, hiểu nghĩa ngộ pháp là Trung thừa, y pháp tu hành là Đại thừa, vạn pháp đều thông, vạn pháp sẵn sàng, tất cả chẳng nhiễm, lìa chư pháp tướng, trọn vô sở đắc, gọi là Tối thượng thừa”. Thế thì đại ý của bốn thừa đã rõ ràng.
+
+Triệu Châu Hòa Thượng nói: “Ta chẳng thích nghe một chữ PHẬT”, còn nói: “Hễ lão Tăng niệm PHẬT một tiếng thì phải súc miệng ba ngày”. Nếu thấu rõ lời này thì chẳng bị bốn thừa trói buộc.
+
+4.- MỤC ĐÍCH CỦA THAM THIỀN.
+
+Mục đích của Tham thiền là gì? Là muốn minh tâm kiến tánh. Cái quả minh tâm kiến tánh như thế nào? Là thâu triệt bổn nguyên, vượt ngoài tam giới, liễu thoát sanh tử, chẳng thọ hậu hữu, độ mình độ người, phổ lợi chúng sanh. Ấy là mục đích cuối cùng của loài người.
+
+Nhưng muốn minh tâm kiến tánh, trước tiên phải rõ thế nào là tâm tánh. Tâm tánh là bổn nguyên tự tánh của chúng sanh, cũng gọi là Phật tánh, học gọi CHƠN NHƯ, NHƯ LAI. Thiền Tông gọi là Bổn lai diện mục, Thanh tịnh Pháp thân; Duy Thức Tông gọi là Tự thân tịnh độ, Thường tịch quang tịnh độ; Tam Luận Tông gọi là Thật tướng Bát Nhã, Luật Tông gọi là Bổn nguyên tự tánh, Kim Cang bửu giới. Thiên thai tông gọi là Tự tánh thật tướng, Hoa Nghiêm Tông gọi là Nhất chơn pháp giới; Mật Tông gọi là Tịnh Bồ đề tâm ... danh hiệu dù nhiều, bản thể chỉ một. Duy Thứ Luận nói: “Chơn là chơn thật, tỏ chẳng hư vọng. Như là như thường, tỏ chẳng biến đổi. Nghĩa là cái chơn thật này, nơi tất cả pháp thường như bản tánh, nên gọi Chơn Như”. Kinh Duy Ma Cật nói “Như là chẳng hai chẳng khác”. Kinh Kim Cang nói “Như Lai là chẳng từ đâu đến, chẳng đi về đâu”.
+
+Theo những kinh luận kể trên, nói “Tâm tánh” là chỉ ngay Chơn tâm tự tánh, chẳng phải tâm tánh của người đời. Người đời nói “tâm” ấy là vọng tâm, tức là vô minh, nay muốn minh tâm cái tâm chơn thật cùng tột, nên gọi là CHƠN NHƯ.
+
+Kinh Hoa Nghiêm phát huy cái lý của Chơn như Phật tánh rất tường tận, trong phẩm Thập Hồi Hướng nói: “Siêng tu tất cả pháp xuất thế gian, đối với thế gian vô thủ vô y, đối với diệu đạo chánh kiến kiên cố, thấu pháp chơn thật, lìa chư vọng kiến, ví như chơn như, khắp tất cả nơi, chẳng có ngằn mé; ví như chơn như, chơn thật làm tánh, ví như chơn như, thường giữ bản tánh, chẳng có biến đổi, ví như chơn như, nơi tất cả pháp, vô tánh làm tánh ... (còn rất nhiều, nay lược bỏ chẳng kể xiết).
+
+Đây là cảnh giới chơn như Phật tánh do Phật với Tổ đích thân chứng nhập, rồi dùng ngôn ngữ phương tiện để khai thị cho chúng sanh, chúng sanh nghe rồi, hoặc ngơ ngác chẳng hiểu nói gì, hoặc biết được đại ý nhưng chẳng thể cho là minh tâm kiến tánh; nghe rồi được hiểu gọi là giải ngộ, cần phải tự tham tự chứng, đích thân thấy rõ, mới có thể gọi là chứng ngộ, sở chứng với Phật chẳng khác, nên gọi kiến tánh thành Phật.
+
+Thường có kẻ thông minh lanh lợi, xem nhiều kinh điển mà được giải ngộ, giảng giải cho người khác nghe, biện tài như suối chảy mà thật thì chẳng biết chơn như Phật tánh là vật gì. Cũng như người chưa từng đến thắng cảnh Tây Hồ, chỉ xem du ký của người khác, lại diễn tả cho người khác nghe giống như đã từng đi qua, thật thì chưa từng đích thân thấy thắng cảnh ấy, nếu gặp người đã từng du lịch Tây Hồ, hỏi về chơn cảnh ấy thì ngơ ngác chẳng thể trả lời, vì thế nên Thiền Tông chủ trương chỉ thẳng tâm người, chẳng lập văn tự là vậy.
+
+Nên biết, muốn minh tâm kiến tánh toàn nhờ chơn thực tham chứng, người khác chẳng thể thay thế được, chẳng quí đa văn, chỉ quí thấy ngay, từ ngoài cửa vào chẳng phải gia bửu, lời nói của người khác nói chẳng dính dáng với mình.
+
+Xưa kia Hương Nghiêm Hòa Thượng ở trong hội Bá Trượng, thông minh lanh lợi, hỏi một đáp mười, bị Qui Sơn hỏi: “Khi cha mẹ chưa sanh nói thử một câu xem!”, liền ngơ ngác chẳng đáp được. Về liêu phòng tìm ra hết thảy văn tự xem qua, muốn tìm một câu để trả lời trọn chẳng thể được, than rằng: “Bánh vẽ chẳng thể cứu đói”, cứ xin Qui Sơn nói trắng ra, Qui Sơn nói: “Ta nói cho ngươi thì ngươi về sau sẽ mắng ta; ta nói là việc của ta, chẳng dính đáng với ngươi!”. Hương Nghiêm bèn lấy tất cả ngôn giáo đốt bỏ, thẳng qua Nam Dương, nghỉ tại di tích của Huệ Trung Quốc Sư, tham cứu lâu ngày, một hôm nhổ cỏ, ngẫu nhiên quăng miểng trúng nhằm cây tre phát ra tiếng, hoát nhiên tỉnh ngộ, liền về tắm gội đốt nhang, hướng về phía Qui Sơn lễ bái rằng: “Hòa Thượng đại từ, ân hơn cha mẹ, nếu lúc đó vì con nói trắng ra thì đâu có việc kiến tánh hôm nay”.
+
+Do đó mà xem, Thiền Tông chẳng lập văn tự, chỉ chú trọng tham chứng, mà được tôn là phương thuốc hay của minh tâm kiến tánh, pháp Thiền của Thiền Tông được phổ biến khắc Trung Quốc, đâu phải việc ngẫu nhiên.
+
+5.- CÁC LOẠI THIỀN.
+
+THIỀN là phương pháp tu hành chủ yếu của nhà Phật, các Tông Đại, Tiểu thừa đều có pháp Thiền chuyên môn, ngoại đạo tà sư cũng mỗi mỗi kiến lập pháp thiền của họ, tà chánh lẫn lộn, tên gọi rất nhiều, cho nên người tu tập pháp Thiền của Tông môn, trước tiên phải hiểu rõ pháp Thiền của các Tông và phân biệt Tà, Chánh, Chơn, Ngụy, rồi mới chẳng bị lầm vào lối tẻ, chẳng phân biệt được trắng đen. Người xưa vì đáp sai một chuyển ngữ, đọa thân chồn năm trăm đời, hành giả nên cẩn thận! Phàm phá ngã chấp là chánh, chấp ngã là tà, lối tu theo ngã chấp là ngoại đạo; tu đúng theo Tông chỉ là chơn, không đúng Tông chỉ là ngụy, nay đại khái đưa ra các loại Thiền như sau:
+
+1).- TỐI THƯỢNG THỪA THIỀN:
+
+Hành giả sau khi chứng ngộ, trong tâm thất thông bát đạt, tùy tiện đề ra một pháp đều là Phật pháp, nói nghịch nói xuôi chẳng lìa chơn như, tất cả từ chơn tâm mình chảy ra, che thiên ngập địa, từ Thế Tôn niêm hoa thị chúng, cho đến Tổ Sư hét, gậy, chửi mắng, đều là trực chỉ chơn như, trọn mâm đem ra, kẻ hoát nhiên kiến tánh thì chẳng cách tơ hào, nếu còn do dự bèn cách xa muôn dặm, ấy là Tối thượng thừa Thiền.
+
+2).- NHƯ LAI THIỀN VỚI TỔ SƯ THIỀN:
+
+Như Lai Thiền là Thiền giáo môn, chứng nhập từng bực như: Thập tín, Thập trụ, cho đến Thập địa, Đẳng giác, còn có thể giải thích: Tổ Sư Thiền thì không có thứ bậc, thẳng vào bản thể Phật tánh chẳng thể giải thích. Người xưa có một việc chứng tỏ:
+
+Hương Nghiêm Hòa Thượng sau khi chứng ngộ, thuyết bài kệ trình Ngài Qui Sơn rằng:
+
+“Tiếng trúc quên sở tri.
+
+Chẳng cần nhờ tu trì.
+
+Động dung hiển lối xưa.
+
+Chẳng đọa nới vắng lặng.
+
+Mỗi mỗi chẳng dấu tích.
+
+Thanh sắc ngoài oai nghi.
+
+Người đạt đạo bốn phương.
+
+Đều xưng thượng thượng cơ”.
+
+Qui Sơn nghe rồi bảo Ngưỡng Sơn rằng:
+
+“Ông này đã triệt ngộ”. Sau Ngưỡng Sơn soát xét lại, Hương Nghiêm thuyết kệ rằng:
+
+“Năm xưa nghèo chưa phải nghèo.
+
+Năm nay nghèo mới thật nghèo.
+
+Năm xưa nghèo còn có đất cắm dùi.
+
+Năm nay nghèo dùi cũng không".
+
+Ngưỡng Sơn nói: “Như Lai Thiền thì cho sư đệ ngộ, Tổ Sư Thiền thì chưa”.
+
+Hương Nghiêm lại nói bài kệ khác:
+
+“Ta có một cơ.
+
+Nháy mắt nhìn y.
+
+Nếu còn chẳng ngộ.
+
+Chớ gọi Sa di”.
+
+Ngưỡng Sơn bảo với Qui Sơn rằng: “Mừng cho Nhàn sư đệ đã ngộ Tổ Sư Thiền".
+
+3).- THIỀN NA VÀ BÁT NHÃ THIỀN:
+
+Thiền Na Thiền là pháp Thiền thứ năm trong sáu Ba La Mật, Bát Nhã Thiền là sau khi đã minh tâm kiến tánh, phát huy đại dụng để độ người như việc niêm hoa thị chúng.
+
+4).- NHẤT VỊ THIỀN VÀ NGŨ VỊ THIỀN:
+
+Phá tan hầm sâu vô minh, minh tâm kiến tánh, đốn siêu Phật địa, vào cảnh bất nhị, gọi là Nhất Vị Thiền. Ngoại đạo thiền, phàm phu thiền, Tiểu thừa thiền, Đại thừa thiền, Tối thượng thừa thiền gọi chung là Ngũ vị thiền.
+
+5).- BA THỨ TỊNH QUÁN THIỀN:
+
+Tức Sa Ma Tha, Tam Ma Bát Đề và Thiền Na, như kinh Viên Giác đã có giải thích kỹ càng về ba thứ Thiền quán này.
+
+6).- KHÔ MỘC THIỀN (THIỀN CÂY KHÔ):
+
+Những pháp Thiền chấp ngồi suốt ngày đêm chẳng nhúc nhích như dựng cây khô, cho ngồi lâu là cao, gọi là khô mộc Thiền.
+
+7).- THAM THIỀN LẦM DỤNG CÔNG RẤT DỄ PHẠM NHỮNG BỆNH SAU ĐÂY:
+
+A.- CHỈ bệnh: Đè nén tất cả tư tưởng miễn cưỡng dừng lại, như nước biển chẳng nổi sóng, chẳng nổi một bọt nhỏ. Tiểu thừa đoạn dứt lục căn, đạo giáo thanh tịnh quả dục, tuyệt Thánh bỏ trí đều thuộc bệnh này, Phật tánh thì chẳng hợp với CHỈ.
+
+B).- TÁC bệnh: Bỏ vọng lấy chơn, lấy niệm xấu đổi niệm lành, nghịch trần hợp giác, nghịch giác hợp trần; phá một phần vô minh, chứng một phần pháp thân, Lão Tử: “Thường vô dục để quán diệu, thường hữu dục để quán sai”; Khổng Tử: “Chánh tâm thành ý”, nhà Nho: “Trừ bỏ ích kỷ của dục vọng, tồn tại chánh tâm của thiên lý” ấy đều thuộc về bệnh này, Phật tánh chẳng do TÁC mà đắc.
+
+C).- NHẬM bệnh: Tư tưởng khởi cũng mặc kệ, diệt cũng mặc kệ, chẳng dứt sanh tử, chẳng cầu Niết Bàn, chẳng trụ, và chấp trước tất cả tướng, chiếu mà thường tịch, tịch mà thường chiếu, đối cảnh vô tâm, nhà Nho: “Lạc thiên tri mệnh”, Đạo giáo: “Trở về tự nhiên”, “Trở về hài nhi" đều thuộc bệnh này, Phật tánh chẳng do Nhậm mà có.
+
+D).- DIỆT bệnh: Tất cả tư tưởng dứt sạch, mênh mông trống rỗng như gỗ đá, Trung thừa phá nhất niệm vô minh, Trang Tử: “Tọa vong”, nhà Nho: “Ngã tâm vũ trụ" và chơn lý của sáu thứ ngoại đạo ở Ấn Độ đều thuộc bệnh này, Phật tánh chẳng do DIỆT mà có.
+
+Tham thiền lầm dụng công phu nếu phạm bốn bệnh kể trên thì sẽ lầm nhận Tứ tướng, nay lược giải như sau:
+
+i)- NGÃ TƯỚNG: Tức ngã chấp; Tiểu thừa khi dã dứt lục căn, tiểu ngã đã diệt, lại vào cảnh giới đại ngã, tiểu ngã dã diệt, lại vào cảnh giới đại ngã, lúc ấy tâm lượng rộng lớn, thanh tịnh tịch diệt, hình như đầy khắp vũ trụ. Nhà triết học Hy Lạp nói “Đại ngã”, “Thượng đế”, Lão Tử: “Nhấp nhoáng trong đó có tượng, nhấp nhoáng trong đó có vật; sâu xa mịt mù, trong đó có tinh” đều thuộc cảnh giới NGÃ TƯỚNG.
+
+ii)- NHƠN TƯỚNG: Tức pháp chấp, khởi niệm sau để phá niệm trước, ví như niệm trước có ngã, niệm sau chẳng nhận ngã, rồi lại khởi một niệm nữa để phá cái niệm “chẳng nhận là ngã”, nối liền như thế cho đến vô ngã, nhưng kiến giải “phá” vẫn còn, ấy là nhơn tướng. Trang Tử nói: “Ta nay mất ngã” tức là NHƠN TƯỚNG.
+
+iii)- CHÚNG SANH TƯỚNG: Cũng là pháp chấp, cảnh giới này ngã tướng, nhơn tướng chẳng thể đến, tức là chúng sanh tướng. Nhà nho nói: “Mừng, giận, buồn, vui khi chưa phát gọi là Trung”. Thư Kinh nói: “Duy tinh duy nhất, nên chấp nơi Trung, chữ TRUNG này tức chúng sanh tướng.
+
+iv)- THỌ GIẢ TƯỚNG: Tức Không chấp, tất cả tư tưởng đều đã ngưng nghỉ, tất cả thị phi thiện, ác đều đã quên mất, trong đó trống rỗng chẳng có chi cả, đồng như mạng căn. Lục Tổ gọi là Vô ký không, Nhị thừa nhận lầm cho là cảnh giới Niết Bàn, kỳ thật chính là vô thỉ vô minh, Thiền Tông gọi là hầm sâu vô minh, “hầm sâu đen tối mịt mù”, đạo Giáo nói; “Vô cực” tức là cảnh giới này.
+
+Bốn tướng kể trên đều thuộc pháp hữu vi, đều chẳng cứu cánh, nên Kinh Viên Giác nói: “Chúng sanh đời mạt pháp chẳng rõ bốn tướng, dù khổ hạnh tu tập trải qua nhiều kiếp, chỉ gọi là hữu vi, rốt cuộc chẳng thể thành tựu tất cả Thánh quả. Kinh Kim Cang nói: “Có ngã tướng, nhơn tướng, chúng sanh tướng, thọ giả tướng ắt chẳng phải Bồ Tát" là chỉ rõ bốn thứ cảnh giới này đều chẳng phải chánh pháp. Người trí kém thường nói: “Tam giáo cùng nguồn”, nếu được rõ tính nghĩa bốn tướng này thì biết tam giáo cách nhau như trời với đất.
+
+Vì phạm bốn bệnh bèn lầm nhận Kiến, Văn, Giác, Tri là Phật tánh:
+
+Huệ Trung Quốc Sư hỏi một Thiền giả từ đâu đến. Đáp: từ miền Nam đến. Sư hỏi: “Miền Nam có Thiện tri thức nào?”. Đáp: “Trí thức rất nhiều". Sư hỏi: “Làm sao dạy người?”. Đáp: “Trí thức miền Nam khai thị người học: Tức Tâm là Phật, nghĩa Phật là Giác, nay ngươi sẵn đủ tánh kiến, văn, giác, tri, tánh này nhướng mày nháy mắt, vận dụng khứ lai khắp trong cơ thể, búng đầu đầu biết, búng chân chân biết, nên gọi Chánh biến tri, ngoài ra chẳng có Phật khác; thân này có sanh diệt, tâm tánh từ vô thỉ đến nay chưa từng sanh diệt, thân sanh diệt như con rắn lột da, người ra nhà cũ, thân là vô thường, tánh thì thường. Sở thuyết của miền Nam đại khái như thế". Sư nói: “Nếu vậy thì chẳng khác với bọn ngoại đạo tiên ni; họ nói: “Trong thân này có một thần tánh, tánh này hay biết đau ngứa, khi thân hoại thì thần ra đi, như nhà bị cháy chủ nhà ra đi, nhà là vô thưòng, chủ nhà là thường”. Nếu nói như thế thì chẳng phân biệt được tà chánh, lấy gì là đúng! Trước kia ta đi du phương gặp nhiều bọn này, tụ chúng năm ba trăm, mắt ngó mây trời, nói là Tông chỉ miền Nam, tự sửa đổi Kinh Pháp Bảo Đàn, lược bỏ Thánh ý, thêm vào lời tục để mê hoặc cho hậu học, đâu còn ngôn giáo! Khổ thay! Mất cả Tông ta! nếu cho kiến, văn, giác, tri là Phật tánh thì Duy Ma Cật chẳng nên nói: “Pháp lìa kiến, văn, giác, tri, nếu hành kiến, văn, giác, tri, ấy là kiến, văn, giác, tri, chẳng phải cầu pháp vậy”.
+
+Huỳnh Bá truyền tâm pháp yếu nói: “Cái tâm bổn nguyên thanh tịnh này thường tự sáng tròn chiếu khắp, người đời chẳng ngộ, chỉ nhận kiến, văn, giác, tri là tâm, bị kiến, văn, giác, tri che khuất nên chẳng thấy bản thể tinh minh. Hể ngay đó vô tâm thì bản thể tự hiện như mặt trời trên hư không, chiếu khắp mười phương chẳng có chướng ngại. Người học đạo nên ở nơi kiến, văn, giác, tri nhận bản tâm, nhưng bản tâm chẳng thuộc kiến, văn, giác, tri cũng chẳng lìa kiến, văn, giác, tri chớ nên ở nơi kiến, văn, giác, tri sanh khởi kiến giải, chớ nên ở nơi kiến, văn, giác, tri động niệm, cũng chớ lìa kiến, văn, giác, tri tìm tâm, cũng chớ bỏ kiến, văn, giác, tri cầu pháp, chẳng tức chẳng lìa, chẳng trụ, chẳng chấp, tung hoành tự tại, nơi nào chẳng phải đạo tràng!”.
+
+8.- LỤC TỔ VỚI THẦN TÚ.
+
+Thần Tú nói: “Thân là cây bồ đề, Tâm như đài gương sáng, luôn luôn siêng lau chùi, chớ cho dính bụi trần”. Kiến, văn, giác, tri, dụ cho gương sáng, vọng niệm như bụi dính gương, siêng lau chùi, dụ cho dứt sạch vọng việm, chớ cho dính bụi là dụ chẳng cho vọng niệm sanh khởi.
+
+Thật ra kiến, văn, giác, tri vốn hay khởi vọng niệm, là chẳng thể dứt sạch được, ví như nguồn suối ngày đêm chảy nước ra, dứt rồi lại chảy nữa vĩnh viễn dứt không được. Cho nên người nhận kiến, văn, giác, tri là Phật tánh vốn là sai lầm, tu hành vô ích.
+
+Lục Tổ nói: “Bồ đề chẳng cây, gương sáng cũng chẳng đài, vốn là chẳng một vật, nơi nào dính bụi trần”. Lục Tổ đã minh tâm kiến tánh, nên kệ này hiển thị Phật tánh chẳng sanh chẳng diệt, chẳng dơ chẳng sạch, chẳng thọ huân nhiễm, bổn lai thành Phật, là đứng trên quả vị Chơn Như mà nói: “Vốn chẳng một vật” là chỉ thẳng Phật tánh vốn chẳng khởi vọng niệm, nên biết vọng niệm là kiến, văn, giác, tri chẳng khởi vọng niệm là Phật tánh. Nếu Phật tánh với kiến, văn, giác, tri chẳng phân biệt rõ ràng thì dụng công học phắt phải sai lầm.
+
+Thần Tú cho kiến, văn, giác, tri là Phật tánh, nhưng sai lầm ấy chẳng phải chỉ một mình Thần Tú, sai lầm ấy truyền nhau từ đời Lục triều, là chịu sự ảnh hưởng của học thuyết Lão Tử nói: “Đạo sanh một, một sanh hai, hai sanh ba, ba sanh vạn vật, vạn vật cõng âm mà ôm dương, từ âm dương của vạn vật trở về ba, hai, một rồi tới đạo”. Bên ngoài thì nói danh từ của Phật pháp, bên trong là lý đạo của Lão Tử truyền nhau đến đời này, chẳng biết lầm hại cho bao nhiêu nhà học Phật với những cao Tăng thông minh, thật đáng thương xót!.
+
+Phàm dụng công tu hành, cần nhất là phá vô thỉ vô minh, Kinh Hoa Nghiêm nói: “Phá vô minh đen tối”. Kinh Viên Giác nói: “Vô thỉ huyễn vô minh". Kinh Thắng Mạn nói: “Đoạn vô thỉ vô minh". Kinh Lăng Nghiêm nói: “Pháp trần u nhàn”, Tổ Sư Thiền Tông gọi là Vô ký không, hầm sâu vô minh, đáy thùng sơn đen, đầu sào trăm thước, hang quỉ núi đen, giáo môn gọi là nguyên phẩm vô minh, căn bản vô minh, bạch tịnh thức ... Các Kinh Lăng Già, Niết Bàn và lịch sử Thiền Tông như Chỉ Nguyệt Lục, Truyền Đăng Lục, Ngũ Đăng Hội Nguyên, trong đó nói về dụng công phá vô thỉ vô minh rất nhiều, chưa thể kể hết.
+
+9.- THAM THIỀN LẦM NHẬN HẦM SÂU VÔ MINH LÀ PHẬT TÁNH NHƯ THÁI CỰC ĐỒ THUYẾT CỦA CHÂU LIÊM KHÊ.
+
+Châu Liêm Khê là Tổ sáng lập lý học của nhà Nho đời Tống, sọn Thái Cực Đồ thuyết, cho Đạo là trước vô hậu hữu làm căn bản, phối hợp với lý âm dương ngũ hành để thuyết minh thế hệ của vũ trụ vạn vật trở đi trở lại, tuần hoàn hóa sanh mãi mãi. Cái nghĩa “Vô cực thái cực” với học thuyết “Vô danh là bắt đầu của thiên địa, hữu danh là mẹ của vạn vật” và “Vô vi mà vô bất vi” của Lão Tử đồng một ý chỉ. Nhà Nho vốn chỉ nói Thái cực, hai chữ “Vô cực” là học thuyết của đạo Giáo, Lão Tử Tri Hùng Chương nói: “Trở về vô cực”, Trang Tử Đại Tông Sư Thiên nói: “Yểu đào vô cực”, Khắc Ý Thiên: “Đạm nhiên vô cực”, Tại Hựu Thiên: “Dạo nơi đồng vô cực”, trong Đạo Tạng có Thái Cực Tiên Thiên Đồ, tác giả là Trần Đồ Nam, người đạo Giáo, ấy là một sản phẩm hỗn hợp với Nho và Đạo. Châu Liem Khê từng theo học với Thích Thọ Nhai ở Hạc Lâm Tự, được bản Thái Cực Tiên Thiên Đồ, rồi sửa lại theo ý mình để kiến lập thế hệ Lý học.
+
+Theo quan điểm của nhà Phật, vô cực tức là vô thỉ vô minh, thái cực tức là nhất niệm vô minh. Tại sao ? Vô cực vốn vô mà sanh ra hữu, nhất niệm đã sanh tức là thái cực, niệm có động tịnh thì phân thành âm dương, âm dương phân thì lưỡng nghi lập, biến hợp mà sanh ngũ hành. Tinh diệu của lưỡng nghi hợp nhau mà có Càn nam, Khôn nữ, nhị khí (âm dương), ngũ hành hóa sanh vạn vật, rồi vạn vật trở về nơi ngũ hành, ngũ hành trở về âm dưong, âm dương trở về nơi thái cực, một lên một xuống, trở đi trở lại tức là pháp luân hồi sanh diệt, bắt đầu khởi từ vô minh, cuối cùng cũng trở lại nhập nơi vô minh, giống như Thập nhị nhân duyên của thừa Duyên Giác. Theo Thập nhị nhân duyên chỉ nói về tác dụng luân hồi của vô thỉ vô minh, với nhất niệm vô minh, nói cách khác tức là tác dụng của bộ não suy nghĩ, chẳng thể thuyết minh tác dụng của Phật, tánh, Phật tánh siêu việt luân hồi sanh diệt, vô nhân vô duyên, chẳng động chẳng tịnh, bổn lai vô sanh nên vô diệt, bổn lai chẳng hữu nên chẳng vô, sự hữu vô sanh diệt là do tác dụng tương đối của bộ não, chẳng dính đáng với bản thể chơn như.
+
+Thái Cực Đồ Thuyết nói vô cực sanh thái cực, thái cực lại sanh âm dương vạn vật, vì có sanh nên có diệt, có sanh diệt tức là luân hồi, có luân hồi thì chẳng phải tuyệt đối. Nên biết lý vô cực, thái cực là do kiến, văn, giác, tri quán xét hiện tượng biến hóa của vũ trụ mà kiến lập giả thiết, phàm chỗ quán xét có thể đến là quyết định chẳng phải bản thể tuyệt đối. Bản thể chơn như tuyệt đối là “Ngôn ngữ đạo đoạn, tâm hành xứ diệt”, chẳng thể dùng suy nghĩ đo lường, cũng chẳng thể dùng ngôn ngữ tỏ bày, chỉ có người trực tiếp chứng nhập mới biết được. Kẻ được chứng nhập thì chẳng còn sanh tử luân hồi, nên gọi kiến tánh thành Phật, sau khi thành Phật thì chẳng biến lại chúng sanh, chẳng chịu lại luân hồi, mà thái cực thì luân hồi chẳng dừng.
+
+10.- THAM THIỀN NHẬN LẦM HỌC THUYẾT CỦA VƯƠNG DƯƠNG MINH LÀ THIỀN TÔNG.
+
+Có người cho học thuyết Dương Minh là Phật pháp, thật là lỗi lầm lớn. Học thuyết Dương Minh có bốn lời để làm cương yếu, tức ‘không thiện không ác là thể của tâm, có thiện có ác là động của ý, biết thiện biết ác là lương tri, làm thiện bỏ ác là cách vật (đủ tư cách làm người)”. Bốn lời này tức là vô thỉ vô minh với tác dụng của nhất niệm vô minh, so với thể dụng của Phật tánh còn xa lắm. Học thuyết Dương Minh chưa thể vượt ra phạm vi vô minh, vẫn còn ở trong luân hồi, cái bệnh ấy là do dùng bộ não suy xét đo lường, bộ não vốn huyễn hóa chẳng thật, chẳng phải thể dụng chơn thật cùng tột.
+
+Chơn như Phật tánh chẳng phải suy nghĩ đo lường có thể đến, chẳng thọ huân nhiễm, chẳng có biến đổi, chỉ có kẻ chứng với kẻ chứng mới biết nhau được. Nhà Phật lấy chơn như Phật tánh làm cội nguồn, mà nhà Nho thì lấy vô thỉ vô minh làm cội nguồn, vì cội nguồn chẳng đồng nên chẳng thể đến với nhau. Nhiều người chưa rõ sự khác biệt giữa Phật tánh với vô thỉ vô minh, lại lầm nhận vô thỉ vô minh là Phật tánh, nói Nho, Phật cùng nguồn, ấy là một sự lỗi lầm rất lớn. Hoặc cho “chẳng thiện chẳng ác thể của tâm” tức chơn như Phật tánh của nhà Phật, “có thiện có ác động của ý” tức vô minh phiền não của nhà Phật, ấy là sai. “Chẳng thiện chẳng ác thể của tâm” tức (vô thỉ vô minh), “có thiện có ác động của ý” tức nhất niệm vô minh, “biết thiện biết ác là lương tri” tức kiến, văn, giác, tri, “làm thiện bỏ ác là cách vật” tức là “Tác bệnh” trong bốn thứ Thiền bệnh, đều là linh tánh của bộ não, chẳng dính dánh với Phật tánh.
+
+Vô thỉ vô minh bổn lai ám muội chẳng sáng, vô tri vô giác nên chẳng phân thiện ác, khi bị kích thích sanh khởi nhất niệm vô minh, mới có kiến, văn, giác, tri, phân biệt thiện, ác, tốt, xấu, người có ý thức đều biết thiện biết ác, “Lương tri” của Dương Minh là tác dụng của bộ não, tác dụng của bộ não đều lấy vô minh làm chủ, chẳng phải Phật tánh. Nhất niệm vô minh có hai mặt: tịnh và nhiễm. Thiện là tịnh duyên, ác là nhiễm duyên, chẳng thể cho tịnh duyên là Phật tánh, nhiễm duyên là chúng sanh vậy.
+
+11.- THAM THIỀN NHẬN LẦM PHỤC TÁNH THƯ CỦA LÝ CAO LÀ THIỀN TÔNG.
+
+Người đề xướng đạo học nhà Nho Hàn Dũ, Lý Cao đời Đường là nổi bật nhất, Phục Tánh Thư của Lý Cao đối với học giả nhà Nho ảnh hưởng lớn hơn. Lý Cao cho “Tánh vốn trong sáng, vì bị thất tình mê hoặc mà trở thành hôn trược”, nên chủ trương ức chế tình cảm để khôi phục bản tánh.
+
+Phục Tánh Thư nói: “Con người sở dĩ làm bậc Thánh là do tánh, tánh con người sở dĩ bị mê hoặc là do tình mừng, giận, buồn, vui, yêu, ghét, ham, bảy thứ đều do tình làm ra, tình đã hôn muội thì tánh bị chìm đắm, ấy chẳng phải lỗi của tánh. Thất tình thay phiên tuần hoàn thì tánh chẳng toàn vẹn, như nước có cặn bả thì chẳng trong, lửa có khói đen thì sáng chẳng tỏ, ấy chẳng phải lỗi của nước và lửa không trong sáng, cặn bả chẳng có thì nước trong, khói đen chẳng tỏa thì ánh sáng tỏ, thất tình chẳng làm thì tánh toàn vẹn vậy”. Lại nói: “Tánh với tình chẳng lìa nhau, nếu chẳng có tánh thì tình chẳng thể sanh, vậy tình do tánh mà sanh, tình chẳng tự là tình, bởi tánh mà tình, tánh chẳng tự là tánh, do tình mà tánh”.
+
+Lý Cao từng tham học với Dược Sơn Thiền Sư, rất tin Phật pháp, kỳ thật Lý Cao bị lầm hại là do kinh Phật ngụy bởi câu “Bản tâm viên giác trong sạch sáng tỏ (Phật tánh) hay sanh khởi phiền não", cái thuyết “Chơn như duyên khởi” xuất xứ từ Đại Thừa Khởi Tín Luận. Thật ra tác giả của Đại Thừa Khởi Tín Luận là ngoại đạo, mạo tên Ngài Mã Minh để truyền bá, ấy là pháp sanh diệt, chẳng phải Phật pháp. Tại sao nói vậy? Vì chơn như Phật tánh chẳng thọ huân nhiễm, thường giữ bản tánh, chẳng có biến đổi. Phẩm Hồi Hướng Kinh Hoa Nghiêm nói: “Vô minh vốn chẳng thể thánh, như hoa đốm trên không chẳng từ chơn như sanh khởi”, nếu nói vô minh nương chơn như sanh khởi, trừ bỏ vô minh trở về chơn như Phật tánh tức là kiến tánh thành Phật, nói vậy thì ban sơ có thể sanh khởi, tương lai cũng có thể tái khởi, lúc vô minh tái khởi lại trở thành chúng sanh, lúc thì thành Phật, lúc lại thành chúng sanh, thế thì Phật cũng có luân hồi sanh diệt, thành Phật đâu có giá trị gì?
+
+Thuyết của Lý Cao tình với tánh thông nhau, khi tình chẳng sanh là tánh, là bậc Thánh, đến khi tình sanh, lại là phàm phu, vậy một hồi bậc Thánh một hồi phàm phu, tức là luân hồi sanh diệt. Bởi “Tánh” của Lý Cao nói là vô thỉ vô minh, “Tình” là nhất niệm vô minh, chỉ là tác dụng của bộ não. Bộ não khi tịnh là vô thỉ vô minh, bộ não khi động là nhất niệm vô minh, cùng trong một phạm vi, “ức chế tình, khôi phục tánh” là muốn khiến nhất niệm vô minh trở về vô thỉ vô minh, vô thỉ vô minh chính là nguồn gốc của sanh tử, là bản thể của vọng tâm. Nếu vô thỉ vô minh chưa phá tan thì chẳng thể kiến thành Phật, như thế học thuyết của Lý Cao đâu thể cho là Thiền Tông!
+
+12.- THAM THIỀN NHẬN LÝ “SÂU XA MỊT MÙ, TRONG ĐÓ CÓ TINH” CỦA LÃO TỬ LÀ THIỀN TÔNG.
+
+Nhiều người cho rằng chơn không diệu hữu, diệu hữu chơn không, tĩnh tĩnh tịch tịch, tịch tịch tĩnh tĩnh, chẳng chấp hữu chẳng chấp vô, cũng chẳng chấp phi hữu, cũng chẳng chấp phi vô, chẳng khởi niệm cũng chẳng dứt niệm, tựa như hữu mà phi hữu, tựa như vô mà phi vô, khởi niệm động niệm chẳng bị ngoại duyên xoay chuyển, cho đó là đạo lý của Thiền Tông. Kỳ thật là đạo lý của Lão Tử nói: “Thể của Đạo mập mờ nhấp nhoáng, trong đó có tượng, mập mờ nhấp nhoáng, trong đó có vật, sâu xa mịt mù, trong đó có tinh”, còn “chẳng chấp hữu, chẳng chấp vô, chẳng chấp phi hữu, chẳng chấp phi vô”, là đạo lý của Bà La Môn, hoàn toàn là tác dụng của bộ não, có sanh diệt luân hồi, chẳng phải phương pháp tham thiền.
+
+13.- THAM THIỀN NHẬN LẦM BA THỨ PHÁP MÔN DỤNG CÔNG CỦA GIÁO MÔN LÀ THIỀN TÔNG.
+
+Ba thứ pháp môn của giáo môn tức là Thiền quán Sa Ma Tha, Tam Ma Bát Đề và Thiền Na. Sa Ma Tha dịch là tịch tịnh, Tam Ma Bát Đề dịch là nhiếp niệm, Thiền Na dịch là tịnh lự. Ba thứ thiền quán này ở trong Kinh Viên Giác, Phật đã có giải thích rất kỹ càng, dù trong Kinh Viên Giác có nói: “Ba pháp môn này mười phương Như Lai do đó thành Phật, mười phương Bồ Tát đủ thứ phương tiện, tất cả đồng dị, đều nương theo ba thứ sự nghiệp này, nếu được viên chứng tức thành viên giác”, ấy chỉ là nói cách tu trong phạm vi giáo môn, nên chính trong kinh này có nói: “Chỉ trừ người đốn ngộ, và Xiển đề chẳng tin”, nói chỉ trừ người đốn ngộ tức là chỉ trừ Thiền Tông đốn ngộ, chẳng phải giáo môn, nên xưng giáo ngoại biệt truyền.
+
+Phương pháp dụng công của Đại thừa tên gọi rất nhiều mà ý nghĩa chẳng khác, nhưng đều chẳng phải Thiền Tông. Thiền Tông tham thoại đầu, công án, cần nhất là NGHI TÌNH. (Tức là dùng cái tâm không biết để chấm dứt tất cả biết), cho đến hoát nhiên đốn ngộ, dứt hẳn nghi căn, kiến tánh thành Phật. Khi đã minh tâm kiến tánh, nếu có Thiện tri thức mắt sáng thì tìm đến cầu Thiện tri thức ấy ấn chứng, nếu chẳng có người mắt sáng thì lấy Truyền Đăng Lục, Ngũ Đăng Hội Nguyên, Chỉ Nguyệt Lục hoặc các Kinh như Lăng Già, Hoa Nghiêm, Duy Ma Cật v.v... xem kỹ để làm ấn chứng cũng được.
+
+14.- DỤNG CÔNG LẦM NHẬN TAM CHỈ TAM QUÁN LÀ THIỀN TÔNG.
+
+Vân Cốc Thiền Sư Truyện trong Mộng Du Tập của Ngài Hàm Sơn có nói: “Vân Cốc Thiền Sư 19 tuổi bỗng quyết chí đi tham học bốn phương, nghe nói pháp môn Tiểu chỉ quán của Thiên Thai, bèn chuyên tâm tu tập, khi gặp Pháp Châu Tế Thiền Sư đang nhập thất tại Thiên Ninh, Sư bèn đi tham vấn, trình sở tu của mình. Châu nói: “Pháp yếu của Chỉ quan chẳng nương thân tâm hơi thở, trong ngoài đều bặt cách tu của người là lạc nơi hạ thừa, chẳng đúng ý của Tổ Đạt Ma, người học đạo nên lấy tâm ngộ làm chủ”. Vân Cốc kích động chảy nước mắt, lại xin chỉ giáo, Châu dạy tham thoại đầu chơn thật, bảo ngay bây giờ hạ thủ công phu phát khởi nghi tình. Vân Cốc vâng lời ngày đêm tham cứu, cho đến ăn ngủ đều quên, một hôm dùng cơm, cơm hết cũng chẳng tự biết, chén bỗng rơi xuống đất, hoát nhiên đốn ngộ như trong mộng được thức tỉnh, lại thưa với Pháp Châu, được Ngài ấn khả “Xem qua nhân duyên ngộ đạo của Vân Cốc Thiền Sư, có thể làm mô phạm cho chúng ta dụng công tham thiền”.
+
+Có Tăng hỏi Tử Hồ Thiền Sư thế nào là nhất tâm tam quán? Sư nói: “Ta còn chẳng thấy có nhất tâm, ngươi gọi cái gì là tam quán?”.
+
+Xưa kia có một Pháp sư chỉ quán hỏi Huệ Hải Thiền Sư nhất niệm tam quán là nghĩa thế nào. Sư đáp: “Tâm quá khứ đã qua, tâm vị lai chưa đến, tâm hiện tại chẳng trụ, trong đó lại dùng tâm nào để khởi quán?” Pháp Sư đáp: “Thiền Sư chẳng hiểu chỉ quán”. Sư nói: “Tọa chủ hiểu chăng?”. Pháp Sư nói: “hiểu”. Sư nói: “Như Trí Giả Đại Sư nói chỉ phá chỉ, nói quán phá quán, trụ chỉ thì chìm nơi sanh tử, trụ quán thì tâm rối loạn. Vậy nên lấy tâm chỉ tâm hay là khởi tâm để quán quán? Nếu có tâm quán là pháp thường kiến, nếu chẳng tâm quán là pháp đoạn kiến, nếu cũng có cũng không thì thành pháp nhị kiến, xin Tọa chủ nói kỹ xem!”. Pháp Sư nói: “Nếu hỏi như thế thì đều nói chẳng được". Sư nói: “Vậy đâu từng chỉ quán!”.
+
+15.- CHẤP THẬT “PHÂN BIỆT LÀ THỨC CHẲNG PHÂN BIỆT LÀ TRÍ” THÀNH BỆNH:
+
+Hám Sơn Đại Sư nói: “Phân biệt là thức, chẳng phân biệt là trí”, hai câu này hình như mơ hồ, vì thức với trí một là bộ não, một là Phật tánh, lúc chưa chuyển thức thành trí, thì phân biệt tất nhiên là thức, chẳng phân biệt cũng là thức, khi đã chuyển thức thành trí thì chẳng phân biệt là trí, phân biệt cũng là trí. Phân biệt với chẳng phân biệt không thể dùng để phán đoán Thánh hay phàm.
+
+16.- CHẤP THẬT “NHIỄM VỚI TỊNH” THÀNH BỆNH.
+
+Nhiễm với tịnh là pháp tương đối, vì có nhiễm mới có tịnh, Kinh Lăng Già nói: “Đại Huệ! Sanh diệt là thức, chẳng sanh diệt là trí, lại nữa đọa tướng, vô tướng và hữu vô mỗi mỗi làm nhân với nhau là thức, siêu việt tướng hữu vô là trí. Lại nữa, tướng vô ngại là trí, đủ thứ cảnh giới do tướng ngại trí là thức. Lại nữa, ba việc căn, trần thức hòa hợp sanh tướng phương tiện là thức, chẳng có việc phương tiện của tướng tự tánh là trí. Lại nữa, đắc tướng là thức, chẳng đắc tướng là trí”.
+
+Theo lời kinh kể trên thì được rõ, vừa nói có tịnh thì phải có nhiễm, đồng như sự sanh diệt, vì có sanh mới nói có diệt, nhiễm tịnh sanh diệt, đều là tác dụng của kiến, văn, giác, tri. Có một số người cho “chẳng khởi niệm là tịnh, tức là Phật tánh, khởi niệm là nhiễm, tức là vọng tưởng” thế là sai lầm. Chẳng khởi niệm là tịnh duyên của vô thỉ vô minh, chẳng phải Phật tánh, Phật tánh bất cấu bất tịnh, bất tăng bất giảm, ấy là tuyệt đối, chẳng dính dáng với nhiễm tịnh. Hám Sơn Đại Sư nói “Nhiễm là thức, tịnh là trí” ấy là lầm nhận. Kinh Pháp Bảo Đàn nói: ‘Tịnh chẳng hình tướng mà lại lập tướng tịnh, nói là công phu, có kiến giải này tự chướng bản tánh, lại bị tịnh trói”.
+
+Tăng hỏi Huệ Trung Quốc Sư “Tọa Thiền khán tịnh là thế nào?”. Sư nói: “Bất cấu bất tịnh đâu cần khởi tâm mà khán tướng tịnh!”.
+
+17.- CHẤP THẬT “NHƯ NHƯ BẤT ĐỘNG LÀ PHẬT TÁNH” THÀNH BỆNH.
+
+Nói “Như như bất động” là hình dung từ để diễn tả chơn như Phật tánh. Ý nói chơn như Phật tánh vốn sẵn sàng, chẳng có thêm bớt, cũng chẳng động tịnh, thêm bớt động tịnh là tác dụng của bộ não, chẳng dính dáng với bản thể chơn như.
+
+Có một số người tu hành, suốt ngày ngồi không như cây khô, miễn cưỡng đè nén suy nghĩ cho dừng lại, giống như nước biển sóng lặng, cho làm như thế tức là như như bất động của Phật tánh, ấy là sai lầm lớn. Sự suy nghĩ của con người chẳng thể dừng nghĩ mãi mãi, muốn vĩnh viễn dừng nghĩ chỉ có người chết mới làm được. Nếu người sống miễn cưỡng đè nén suy nghĩ, chỉ có thể dừng lại trong vòng mấy mươi phút hoặc mấy tiếng, nhiều nữa là mấy ngày, cuối cùng sẽ có một hôm tái khởi. Nếu cùng trong một ngày khi suy nghĩ dừng là Phật, qua một hồi suy nghĩ khởi dậy lại thành chúng sanh, vậy trong một ngày bỗng thành Phật bỗng thành chúng sanh, mỗi ngày đều ở trong luân hồi, như thế làm Phật có ích lợi gì? Nếu người thật đã minh tâm kiến tánh thì dẫu cho cầm dao ra trận vẫn là như như bất động.
+
+18.- CHẤP THẬT “NGŨ UẨN GIAI KHÔNG” THÀNH BỆNH.
+
+“Ngũ uẩn giai không" là nói sau khi kiến tánh, ngũ uẩn đều biến thành Phật tánh, đầy khắp hư không, vạn tượng sum la đều là Phật tánh, nên Kinh nói “SẮC chẳng khác với KHÔNG, KHÔNG chẳng khác với SẮC; SẮC tức là KHÔNG, KHÔNG tức là SẮC, THỌ, TƯỞNG, HÀNH, THỨC, đều cũng như thế".
+
+Một số người tu hành cho là chẳng chấp trước tất cả tướng, chẳng trụ tất cả tướng, đối cảnh vô tâm, tất cả vô ngại gọi là ngũ uẩn giai không, ấy là sai lầm lớn. Chẳng chấp chấp trước tất cả tướng, chẳng trụ tất cả tướng, đối cảnh vô tâm, tất cả vô ngại là mặc kệ cho ngũ uẩn khởi hay diệt, chẳng màng đến nó, nhưng ngũ uẩn vẫn là ngũ uẩn, chưa biến thành Phật tánh, nó vẫn hay làm việc xấu. Nếu ông suốt ngày phải giữ cái niệm “chẳng màng đến nó” không buông, há chẳng tự làm cho tâm mình lao nhọc, đâu thể vô tâm vô ngại mà được ngũ uẩn giai không ư!
+
+19.- CHẤP THẬT “CHƠN NHƯ DUYÊN KHỞI” THÀNH BỆNH.
+
+Một số người nói: “Chơn như vốn, chẳng động, vì chẳng giữ bản tánh, nên nhất niệm bất giác bèn khởi vọng niệm, tạo tội làm phước, luân hồi sanh tử, nếu nhất niệm giác ngộ chơn tâm, trở lại thường giữ gìn chẳng biến đổi thì chẳng bị luân hồi, gọi là thành Phật. Ấy là kiến giải của ngoại đạo.
+
+Bản thể chơn như vốn viên mãn sẵn sàng, chẳng biến đổi. Kinh Hoa Nghiêm nói: “Ví như chơn như, thường giữ bản tánh, chẳng có biến đổi”, nếu chơn như mà có biến đổi tức là pháp sanh diệt. Đại Thừa Khởi Tín Luận nói “Chơn như duyên khởi”, chỉ bốn chữ này có thể phán đoán rằng luận này là do ngoại đạo ngụy tác, gán tên Ngài Mã Minh để truyền bá. Tại sao? Vì chơn như chẳng có duyên khởi, chẳng bị huân nhiễm, nếu có duyên khởi thì phải có sanh diệt, pháp sanh diệt nhất định chẳng phải Phật pháp vậy.
+
+20.- CHẤP THẬT “TÁNH LÀ KHÔNG, TÂM LÀ VỌNG” THÀNH BỆNH.
+
+“Tánh là không, tâm là vọng” là nói Phật tánh đầy khắp hư không, chẳng thể dùng bộ não để nhận biết, những gì có thể nhận biết đều là vọng tưởng, Một số người hiểu lầm ý này, cho có tư tưởng đều là vọng tâm, đem vọng tâm dứt sạch thành không, tức là kiến tánh thành Phật. Nếu dạy người như thế này là lọt vào đoạn kiến của ngoại đạo, tội lỗi chẳng phải nhỏ.
+
+21.- CHẤP THẬT “ĐÃ SANH LÀ VỌNG, CHƯA SANH LÀ TÂM” THÀNH BỆNH.
+
+Có người truyền khẩu quyết Thiền rằng: “Đã sanh là vọng, chưa sanh là tâm”, cho rõ được hai này thì được ngộ đạo thành Phật, ấy là lời yêu quái, quyết chẳng thể tin. “Đã sanh” là nhất niệm vô minh, tất nhiên là vọng, “chưa sanh” là vô thỉ vô minh, cũng chưa lìa vọng, đều chẳng phải chơn Tâm.
+
+22.- CHẤP THẬT “CHUYỂN THỨC THÀNH TRÍ” THÀNH BỆNH.
+
+Người tu Pháp môn Duy Thức, điều cần nhất là tìm ra chủng tử vô thỉ vô minh đã tiềm ẩn nơi A Lại Da thức (tức Bạch tịnh thức) đập cho tan nát thì Bát thức được Bát giải thoát, Tam tánh biến thành Tam vô tánh, Bát thức biến thành tứ trí, sau khi chuyển thức thành trí, chẳng trở lại làm thức.
+
+Khi chưa chuyển thức thành trí thì bị A Lại Da làm chủ, khi đã chuyển thức thành trí thì chơn như Phật tánh làm chủ, chơn như Phật tánh chẳng biến đổi nên thành Phật rồi chẳng trở lại thành chúng sanh, chẳng bị luân hồi. Một số người tu hành lầm nhận cho một niệm mê là thức, một niệm ngộ là trí, chuyển thức thành trí là đem cái niệm mê chuyển thành cái niệm ngộ, ấy là sai lầm lớn, cái tâm niệm biến đổi chẳng định, nếu suốt ngày bỗng mê bỗng ngộ, bỗng trí bỗng thức, có lúc là Phật, có lúc lại là chúng sanh, vậy thành Phật có giá trị gì?
+
+23.- CHẤP THẬT “TỰA HỮU PHI HỮU, TỰA KHÔNG PHI KHÔNG” THÀNH BỆNH.
+
+Có một số người tu hành buông bỏ vạn duyên tĩnh tọa quán tâm, quán đến cảnh giới “tựa hữu phi hữu, tựa không phi không", như thế cho là chẳng lọt nhị biên, chẳng trụ hữu vô, là cảnh giới Phật tánh, ấy là sai lầm lớn. “Tựa hữu phi hữu, tựa không phi không" là tác dụng của bộ não, chẳng phải Phật tánh, bản thể Phật tánh dùng bộ não suy lường thì chẳng thể đến. Lục Tổ nói: “Dẫu cho tận sức đo lường, lại càng xa xôi”, người tu hành chớ nên dùng bộ não để đo lường Phật tánh, chỉ có thể dùng bộ não tìm ra vô thỉ vô minh rồi một búa đập nát, thì Phật tánh tự nhiên hiển hiện.
+
+24.- CHẤP THẬT “CHẲNG CẦU CHƠN, CHẲNG DỨT VỌNG” THÀNH BỆNH.
+
+Chứng Đạo Ca nói: “Chẳng cầu chơn, chẳng dứt vọng, liễu tri hai pháp vốn chẳng tướng”. Một số người tu hành cho là chẳng cầu chơn tâm, cũng chẳng dứt vọng niệm, chơn vọng mặc nó tức là công phu đến mức, ấy là sai lầm lớn. “Chẳng cầu chơn” là nói Phật tánh chẳng thể cưỡng cầu, chơn với vọng là tương đối, vì có vọng mới nói có chơn, bản thể Phật tánh vốn chẳng chơn vọng, nên chơn chẳng thể cầu, vọng cũng chẳng cần dứt, hai tướng chơn vọng vốn không. Nếu cho chơn niệm, vọng niệm đều chẳng màng đến, ấy là lọt vào bệnh nhậm (bệnh mặc kệ), càng mặc kệ thì càng mơ hồ, dụng công như thế này giống như nấu cát làm cơm, đâu thể thành tựu!.
+
+25.- CHẤP THẬT “TRUNG ĐẠO” THÀNH BỆNH.
+
+Một số người cho “niệm trước đã diệt, niệm sau chưa khởi, giữa niệm trước với niệm sau tức là trung đạo”, lại nói “Chẳng lập nhị biên, chẳng chấp hữu vô tức là Trung đạo” ấy là sai lầm lớn. Niệm trước đã diệt, niệm sau chưa khởi, giữa niệm trước niệm sau là Vô ký không, chẳng lọt nhị biên, chẳng chấp hữu vô là bệnh mặc kệ, đều là tác dụng của bộ não, chẳng phải Trung đạo. Trung đạo là Chơn như Phật tánh. Kinh Niết Bàn nói: “Trung đạo gọi là Phật tánh, do nghĩa này Phật tánh luôn luôn chẳng có biến đổi, nếu chẳng đắc Đệ nhất nghĩa không, thì chẳng hành Trung đạo”. Lục Tổ nói: “Hai chữ Phật tánh là ở nơi phàm phu mà chẳng bớt, ở nơi Thánh Hiền mà chẳng thêm, trụ nơi phiền não mà chẳng loạn, ngay nơi Thiền định mà chẳng tịch, chẳng đoạn, chẳng thường, chẳng khứ, chẳng lai, chẳng ở khoảng giữa và bên trong bên ngoài, chẳng sanh, chẳng diệt, tánh tướng như như thường trụ chẳng dời, ấy gọi là Đạo”.
+
+26.- CHẤP THẬT LỜI THÍ DỤ “NƯỚC VỚI SÓNG” THÀNH BỆNH.
+
+ 
+
+Đại Thừa Khởi Tín Luận lấy nước dụ cho chơn như, lấy sóng dụ cho sanh diệt, ấy là sai lầm. Chơn như là bản thể của Phật tánh, sanh diệt là tác dụng vọng tưởng của bộ não, hai thứ chẳng dính dáng với nhau, chơn như là như như bất động, chẳng có biến đổi, chẳng khởi vọng niệm, nếu chơn như hay khởi vọng niệm sanh diệt như nước nổi làn sóng thì chơn như cũng có sanh diệt luân hồi, chẳng phải bản thể cùng tột của Phật tánh. Kinh Lăng Già dùng nước biển dụ cho thức thứ tám, làn sóng dụ cho thức thứ bảy mới đúng với chánh lý, nên nói Đại Thừa Khởi Tín Luận là tác phẩm của ngoại đạo.
+
+Ngài Khuê Phong lấy băng nước dụ cho vọng tâm với Phật tánh là xuất phát từ Khởi Tín Luận cũng là sai lầm. Nói vọng niệm khởi như nước đóng thành băng, vọng niệm diệt như tan băng thành nước, ấy là sai lầm, trong Phật tánh vốn chẳng vọng niệm, cũng chẳng khởi vọng niệm, nói nước đóng thành băng, băng tan thành nước, đóng tan bất thường là pháp sanh diệt, chơn như Phật tánh thì chẳng sanh chẳng diệt, nên chữ NƯỚC chỉ có thể dụ cho linh tánh của kiến, văn, giác, tri, chứ chẳng thể dụ cho Phật tánh.
+
+27.- CHẤP THẬT “TÂM VỚI PHÁP ĐỀU QUÊN LÀ PHÁ NGÃ CHẤP VÀ PHÁP CHẤP” THÀNH BỆNH.
+
+Một số người cho “Tâm với pháp đều quên thì Ngã chấp, pháp chấp đã bị phá tức là Phật tánh” ấy là sai lầm. Tâm cùng Pháp đều quên là Vô ký không; Ngã chấp, pháp chấp đã phá là lọt vào Không chấp, tức là hầm sâu vô minh, đáy thùng sơn đen, chẳng phải Phật tánh, phải phá luôn Không chấp rồi mới thấy được Phật tánh. Phật tánh là Chơn tri giác (Bản tri bản giác), tâm pháp đều quên là cảnh giới say sưa của bộ não, hai thứ khác nhau.
+
+28.- CHẤP THẬT “HUNG TRUNG BẤT LƯU NGUYÊN TỰ CƯỚC” THÀNH BỆNH.
+
+Người xưa nói “Hung trung bất lưu nguyên tự cước” (ở trong lòng chẳng còn bước chân đầu tiên) tức ngôn ngữ đạo đoạn, tâm hành xứ diệt, ý nói một chữ chẳng còn, kỳ thật chơn như Phật tánh chẳng phải suy nghĩ văn tự có thể đến, phàm còn suy nghĩ văn tự đều là kiến, văn, giác, tri, chẳng thể kiến tánh.
+
+Người ta thường hiểu lầm “Hung trung bất lưu nguyên tự cước” là khán một niệm đầu tiên từ đâu sanh khởi, diệt một niệm này chẳng còn dấu tích tức gọi là “Hung trung bất lưu nguyên tự cước”, ấy là hiểu lầm. Kỳ thật “một niệm chẳng còn” là lạc nơi vô thỉ vô minh, vì niệm khởi niệm diệt đều là tác dụng của bộ não chẳng dính dáng với Phật tánh, nếu quả thật ngộ đạo, đã minh tâm kiến tánh thì niệm khởi niệm diệt đều là Phật tánh, nên gọi “Niệm đồng vô niệm”, đâu cần dứt nó mà nói một niệm chẳng còn!
+
+29.- CHẤP THẬT “LÌA VỌNG DUYÊN TỨC NHƯ NHƯ PHẬT” THÀNH BỆNH.
+
+Ngài Bá Trượng nói: “Hễ lìa vọng duyên, tức như như Phật", ý nói bản thể chơn như chẳng thọ huân nhiễm, chẳng chỗ phan duyên, tự tánh như như, chẳng có chơn vọng, nên vọng duyên chẳng lìa mà tự lìa. Nay người ta hiểu lầm cho là hễ lìa vọng duyên tức là ngộ đạo, lý này chẳng đúng, vọng duyên, chơn duyên đều là tác dụng của bộ não, nếu còn bộ não thì vọng duyên chẳng thể lìa. Thật ra vọng duyên của bộ não với Chơn như Phật tánh vốn chẳng dính dáng, người ngộ thì chẳng lìa tự lìa, kẻ chưa ngộ dù lìa cũng chẳng thể lìa, biết như thế thì mới có thể xem Ngữ lục của Tổ Sư.
+
+30.- LẦM NHẬN “CHỨNG VÔ SANH PHÁP NHẪN” THÀNH BỆNH.
+
+Có người nói “Chứng Vô sanh nhẫn chẳng phải kiến tánh, còn phải tu nữa mới được thành Phật", ấy là sai lầm. Kỳ thật chứng Vô sanh nhẫn tức là thấy Phật tánh, chứng là chứng ngộ, Vô sanh là chẳng sanh chẳng diệt, nhẫn là muôn đức viên mãn, nói cách khác tức là chứng ngộ Phật tánh chẳng sanh chẳng diệt, là cảnh giới viên mãn. Kinh Lăng Già nói “Chứng Vô sanh nhẫn rồi thì được ý sanh thân” có thể làm chứng vậy.
+
+31.- LẦM NHẬN “VÔ TỰ GIÁP Ý” THÀNH BỆNH.
+
+Tổ Sư ngày xưa thường khuyên người chớ trụ nơi “vô tự giáp lý” (trống rỗng chẳng có vật gì), “vô tự giáp” tức biệt danh của hầm sâu vô minh, đáy thùng sơn đen, là cảnh giới vô thỉ vô minh, trống rỗng chẳng có gì cả. Cảnh này rất kiên cố khó phá, nên gọi là vô tự giáp (giáp nghĩa là thiết giáp của chữ vô). Ngưòi tu hành đến cảnh giới vô thỉ vô minh, chớ nên sợ khó mà lui sụt, cần phải nổ lực xung phong, xung phá vô tự giáp, liền được kiến tánh thành Phật.
+
+32.- CHẤP THẬT “VẠN PHÁP DUY TÂM, NGOÀI TÂM CHẲNG PHÁP” THÀNH BỆNH.
+
+Phật với Pháp chẳng đồng, Phật là tuyệt đối, chơn như; pháp là tương đối, vọng tưởng, phàm tất cả pháp đều là vô minh vọng tâm sở tạo, nên nói vạn pháp duy tâm, ngoài tâm chẳng pháp. Nói duy tâm là một vọng tâm tạo ra, nên điều thứ sáu trong mươi tám pháp Bất cộng nói “Chẳng có sự đã biết mà không bỏ”, vạn pháp đã biết phải bỏ liền, vì đó là vọng tâm, vọng tâm biến đổi vô thường, nên pháp cũng vô thường, gọi là nhân duyên, cũng gọi là phương tiện.
+
+Phật thuyết pháp dụ như chiếc bè qua sông, đến bờ thì phải bỏ bè, vì pháp ấy là vọng, biết pháp vọng mà vẫn còn thuyết là muốn dùng vọng trừ vọng, dùng huyễn phá huyễn, chẳng thuyết thì chẳng thể độ chúng sanh, chẳng bỏ thì phải bị pháp trói, chẳng thể thành Phật. Nên nói “Chẳng có một chút pháp để đắc được", lại nói “Ta thuyết pháp 49 năm chưa từng thuyết một chữ”, vì lời nói văn tự với bản thể chơn như vốn chẳng dính dáng, bản thể chơn như vốn chẳng tên gọi mà gượng gán tên là Phật, chữ Phật nên bỏ, vì đó là giả danh, bản tánh của Phật chẳng bỏ, vì đó là chơn thể, đã được cái chơn thì chữ Phật là dư, nên Ngài Triệu Châu nói: “Một chữ Phật ta chẳng muốn nghe, lão Tăng niệm Phật một tiếng súc miệng ba ngày”. Mã Tổ nói: “Phi tâm, phi Phật, chữ Phật còn nên bỏ, huống chi là pháp!”.
+
+Phật và pháp đều phá, tương đối đã tẩy sạch thì nhất chơn nhất thiết chơn, Phật cũng chơn, pháp cũng chơn, tất cả đều là Phật tánh, đều là chơn tâm, lúc bấy giờ nói “Vạn pháp duy tâm, ngoài tâm chẳng pháp” thì đúng. Đồng một chữ TÂM, xưa vọng nay chơn; cùng một lời nói, trước sai sau đúng, chữ thì mỗi mỗi đồng nhau mà ý nghĩa thì hoàn toàn khác hẳn, nên Phật pháp rất khó hiểu là vậy, xin người học hãy cẩn thận.
+
+33.- NHẬN LẦM “NGỒI NHẬP ĐỊNH NHƯ CÂY KHÔ” THÀNH BỆNH.
+
+Nói “nhập định” là pháp dụng công của người Tiểu thừa, ngồi lâu như cây khô để đoạn dứt suy nghĩ của lục căn, dụng công của người Đại thừa chẳng trụ tâm, chẳng khán tịnh, chẳng trầm không, chẳng nhập định. Nay thường có một số người xuất gia hoặc tại gia, ngồi không như cây khô, mười hôm, tám hôm chẳng ăn cơm, giống như ông Địa, gọi là nhập định, cho dụng công như thế thì được thành Phật, ấy là sai lầm lớn.
+
+Xưa kia Trí Hoàng Thiền Sư ngồi mãi trong am 20 năm, Huyền Sách Thiền Sư đến Am hỏi: “Ông ở đây làm gì?”. Hoàng nói: “Nhập định”. Sách nói: “Ông nói nhập định là có tâm nhập hay vô tâm nhập? Nếu vô tâm nhập thì tất cả vô tình, cây cối, ngói đá đều được đắc định; nếu có tâm nhập thì tất cả chúng sanh hữu tình cũng phải đắc định”. Hoàng nói: “Khi tôi đang nhập định chẳng thấy có tâm hữu hay vô”. Sách nói: “Chẳng thấy có tâm hữu hay vô tức là thường định, đâu có xuất nhập? Nếu có xuất nhập thì chẳng phải đại định”. Hoàng chẳng thể trả lời, giây lâu nói: “Sư nối pháp ai?”. Sách nói: “Thầy tôi”. Lục Tổ nói: “Diệu trạm viện tịch, thể dụng như như, ngũ uẩn vốn không, lục trần phi hữu, chẳng xuất chẳng nhập, chẳng định, chẳng loạn, tánh thiền vô trụ, lìa trụ nơi thiền định, tánh thiền vô sanh, lìa sanh có thiền tưởng. Tâm như hư không, cũng chẳng có số lượng của hư không". Bởi sau khi kiến tánh, tự tánh như như bất động, đi, đứng, nằm, ngồi, mặc áo, ăn cơm, tất cả đều ở trong định mới là Đại định.
+
+Hoài Nhượng Thiền Sư truyện ghi trong Truyền Đăng Lục rằng: Có Sa Môn Đạo Nhất ở Viện Truyền Pháp suốt ngày tọa thiền, Sư đến hỏi: “Đại Đức tọa thiền muốn làm gì?”. Nhất nói: “Muốn làm Phật". Sư lấy cục gạch mài trước cửa Am. Nhất hỏi: “Mài gạch làm gì?”. Sư nói: “Mài làm gương”. Nhất nói: “Mài gạch đâu thể thành gương!”. Sư nói: “Mài gạch chẳng thể thành gương thì tọa thiền đâu thể thành Phật!”. Nhất nói: “Vậy phải làm thế nào?”. Sư nói: “Như bò kéo xe chẳng chịu đi, đánh xe phải hay đánh bò phải?”. Nhất không đáp được. Sư nói: “Ông học ngồi thiền hay là học làm Phật? Nếu học ngồi thiền thì Thiền chẳng phải ngồi nằm; nếu học làm Phật thì Phật chẳng có tướng nhất định, nơi pháp vô trụ, chẳng nên thủ xã. Ông nếu ngồi Phật tức là giết Phật, nếu chấp tướng ngồi thì chẳng đạt lý đạo”. Nhất nghe Sư dạy bảo như uống đề hồ.
+
+Ngài Lâm Tế nói: “Ta nói bên ngoài chẳng có pháp, người học chẳng lãnh hội, lại hiểu lầm cho là bên trong, liền hướng vách ngồi không, lưỡi để hàm trên, tuyệt nhiên chẳng động, cho đó là Phật pháp của chư Tổ, rất là sai lầm.
+
+Một số người nhận lầm tham thiền phải lúc tĩnh tọa mới tham, ấy là sai lầm.Tham thiền chẳng phân biệt đi, đứng, nằm, ngồi. Mã Tổ nói: “Tham thiền chẳng chấp ngồi, chấp ngồi tức bị dính mắc”. Kinh Pháp Bảo Đàn nói: “Kẻ mê kẹt nơi pháp tướng, chấp Nhất hạnh Tam muội, cứ nói thường ngồi chẳng động, vọng tâm chẳng khởi tức là Nhất hạnh Tam muội, hiểu như thế này tức đồng như vô tình, lại thành nhân duyên chướng đạo”.
+
+34.- CHẤP “BẤT ĐẢO ĐƠN” THÀNH BỆNH.
+
+Trong Tùng lâm có một số hành giả ngồi mãi chẳng nằm, gọi là bất đảo đơn. Dù nói bất đảo đơn, lại ngồi đó ngủ gục, cho đó là công phu nổi bật, sai lầm biết bao.
+
+Theo giới luật của Phật, Tỳ Kheo tu hành bốn việc đầy đủ là: quần áo, ăn uống, ngọa cụ, y dược, vậy chứng tỏ Phật chẳng dạy người bất đảo đơn. Nếu ngồi không ngủ gục, sao chẳng nằm xuống ngủ một giấc ngon, cho tinh thần đầy đủ rồi công phu lại! Có người chê cười kẻ bất đảo đơn là nhập định bí đao, chưa nhập định đã biến thành bí đao, dù thành Phật có ích lợi gì!
+
+Ngài Lâm Tế nói: “Dẫu cho ở cô độc trên đỉnh núi, ngày ăn một bữa, ngồi mãi chẳng nằm, suốt ngày hành đạo, đều là người tạo nghiệp, cho đến đem đầu, mắt, tủy, não, gia tài, vợ con, voi, ngựa, thất bửu thảy đều bố thí, có kiến giải như thế đều là tự làm khổ cho thân tâm, lại tự chiêu cảm quả khổ, chẳng bằng người vô sự chẳng làm việc gì, thuần nhất chẳng nhiễm, như Thập Địa Mãn Tâm Bồ Tát đều cầu đạo này, tìm dấu tích trọn bất khả đắc, cho nên chư Thiên hoan hỷ, địa Thần ôm chân, mười phương chư Phật cùng nhau tán thán. Tại sao như thế? Vì đạo nhơn này chỗ dùng chẳng dấu tích”.
+
+Phật Nhãn Thiền Sư nói: “gần đây có người chỉ ham ngồi, ban sơ thì tỉnh bơ, ngồi lâu thì ngủ gục, mười người có chín người ngồi ngủ gục, luôn luôn chẳng chịu hạ thủ công phu tham cứu, đạo này đâu thể trong ngồi ngủ mà ngộ được! Những người như thế làm sao hội được. Đơn Hà dựng phất trần, Bàng cư sĩ giơ cây búa, Đơn Hà quăng phất trần, cư sĩ buông cây búa xuống! Lại nói: “Công án hôm qua như thế nào? Đơn Hà nằm xuống, cư sĩ liền ra đi, việc này nếu chẳng phải người người tri âm chơn thật, đâu thể cho ông chú giải bậy bạ được!”.
+
+Lại Ngài Nham Đầu nói: “Bậc Sa Môn tất cả đều nên mỗi mỗi từ trong lòng mình lưu xuất, che Thiên ngập Địa mới được, đâu thể do tĩnh tọa suy nghĩ mà được đâu!”. Tiên Sư (Pháp Diễn Thiền Sư) nói: “Lúc ngủ lúc ngủ tham cứu, lúc ăn cơm lúc ăn cơm tham cứu”. Lại người xưa nói: “Lúc ngồi có đạo lý lúc ngồi, lúc đứng có đạo lý lúc đứng”, há chẳng thấy Đầu Tử hỏi Thúy Vi rằng: “Mật chỉ từ Ấn đến, có thể cho nghe chăng?”. Thúy Vi đứng đó ngó nhìn, Đầu Tử nói: “Đêm mai nói nữa, xin Sư tái chỉ”. Thúy Vi nói: “Còn muốn thêm gáo nước độc thứ hai chi nữa!”. Đầu Tử liền ngộ. Thế thì các ngươi chẳng được thọ dụng là tại ngày đêm ngồi không, bỏ qua việc tốt biết bao!
+
+35.- THAM THIỀN LẦM NHẬN “CHĂN TRÂU” LÀ DỤNG CÔNG.
+
+“Chăn trâu” là sau khi đã kiến tánh dùng để tẩy trừ tập khí, điều chỉnh tánh tình, chẳng phải là tu hành. Bởi khi đã kiến tánh, nhất ngộ vĩnh ngộ, chẳng cần tu nữa, nhưng vẫn còn tập khí từ vô thỉ chưa dứt sạch, nên cần phải điều chỉnh lại. Qui Sơn Hòa Thượng nói: “Các người nếu đã hoát nhiên thông suốt thì tu với chẳng tu là lời hai đầu, chỉ cần trừ bỏ tập khí gọi là tu”.
+
+Xưa kia trong hội Qui Sơn có Đại An Thiền Sư nói: “Ta ở Qui Sơn 30 năm, ăn cơm Qui Sơn, ỉa cứt Qui Sơn mà chẳng học Thiền Qui Sơn, chỉ chăn một con trâu, nếu lạc đường vào đám cỏ liền kéo ra, nếu phạm lúa mạ của người, liền lấy roi điều phục, như thế lâu ngày, nay biến thành con lộ địa bạch ngưu (Chơn như Phật tánh), thường ở trước mắt, suốt ngày luôn luôn hiển lộ rõ ràng (Phật tánh hiện hành), đuổi cũng chẳng đi”. Phổ Minh Thiền Sư Mục Ngưu Đồ, lấy vọng niệm dụ cho con trâu, Phật tánh dụ cho người chăn, vọng niệm khởi như con trâu chạy bậy, đem vọng niệm sửa lại thành chánh niệm như cỡi trâu về nhà, nói trở về bản nguyên, ấy là sai lầm. Con trâu dụ cho vọng niệm thì không sai, người chăn dụ cho Phật tánh thì sai, người chăn nên dụ cho kiến, văn, giác, tri, chẳng phải Phật tánh, Phật tánh chẳng khởi vọng niệm.
+
+36.- THAM THIỀN NHẬN TỆ ĐOAN CỦA THIỀN LÀ DỤNG CÔNG.
+
+Cổ Đức có luận về tệ đoan của Thiền rằng: “Từ đời Tống đến nay, tệ đoan của Thiền đặc biệt nhiều, nay thử đề ra có loại gọi là xướng họa tọa thiền, công án tọa thiền, niệm Phật tọa thiền, ông địa tọa thiền, điều phục tọa thiền, v.v...”.
+
+Nói xướng họa tọa thiền là: người thầy lấy một câu thoại đầu truyền thọ cho người học, người học vừa ngồi vừa xướng, ví như truyền cho một chữ VÔ của Triệu Châu, thì tất cả chúng người học cũng xướng lên “Vô, vô, vô, vô ...”, giống như con tú hú kêu mưa vậy. Nếu truyền cho câu NÚI TU DI của Vân Môn thì bọn chúng cùng nhau xướng lên “Núi Tu Di, Núi Tu Di ...” giống như con ve kêu. Nếu như thế được khai ngộ thì con tu hú với con ve cũng được khai ngộ.
+
+Còn công án tọa thiền thì người thầy truyền cho một công án, bảo người học làm công phu, làm rồi đến trình thầy, thuật lại cảnh giới của mình thấy, nếu hợp với ý thầy thì được ấn khả chứng minh, rồi truyền cho một công án khác. Từ công án này qua công án kia, gọi là “Thấu công án”, ngoài ra còn bày đặt việc kỳ dị, dùng lời nói tỏ vẻ quái lạ, như trong mộng nói mơ, chẳng biết hổ thẹn, cũng như con khỉ vượn chụp trăng trong nước. Nếu làm như thế mà đắc dạo thì con khỉ vượn cũng phải đắc đạo.
+
+Còn niệm Phật tọa thiền thì người thầy xưa nay thật chẳng tham thiền, lại chưa hiểu Phật pháp, nhờ có phước si được làm trụ trì; hoặc người thầy có theo qui tắc ngồi thiền mà chưa dạy bảo người học một việc gì, chỉ thỉnh Di Đà, Quan Âm, Văn Thù, Di Lặc, chư Phật, chư Bồ Tát để làm bản tôn, ngồi im niệm danh hiệu hoặc niệm chú nói nhờ thành lực, kiếp này ngộ đạo, kiếp sau sanh Tịnh độ, tự lầm và dạy người, chùm đầu mà ngồi, giống như con sứa nhờ mắt tôm để tìm món ăn. Nếu làm như thế mà đắc dạo thì con sứa cũng phải đắc đạo.
+
+Còn nói ông địa tọa thiền là ngồi im lặng như cây khô, chẳng làm việc gì, chẳng nói chẳng nhìn, cũng chẳng xướng thoại đầu, như ông địa làm bằng đất sình ở trong làng. Chẳng biết theo lý quán xét, chỉ giữ lời dạy của thầy nói “Phi suy lường, chẳng phân biệt, ngồi kiết già mãi, đợi khi thời tiết đến thì thân tâm tự nhiên giải thoát, hoát nhiên đại ngộ”. Nếu làm như thế mà được ngộ, thì người đá, người gỗ, ông địa cũng phải đại ngộ.
+
+Còn nói điều phục tọa thiền, ví như ngựa rừng gắn yên; rắn rừng vào ống tre, chỉ biết giữ theo lời dạy của thầy, dùng công phu tọa thiền để hàng phục phiền não vọng tưỏng. Nếu làm như thế mà khai ngộ thì ngựa rừng, rắn rừng cũng phải khai ngộ.
+
+Những tệ đoan của loại thiền này vẫn còn giữ trong tùng lâm, như niệm thoại dầu, đả ngạ thất (ngồi luôn bảy ngày đêm nhịn đói), bất đảo đơn v.v... Thậm chí có người đặt ra thần thoại, nói là mười ngày, tám ngày chẳng ăn, thì được nhìn thấu qua vách tường mà thấy sự vật bên ngoài thấy thần thấy ma v.v... Sự bày đặt ma quái ngày càng tăng thêm để làm hại cho người học.
+
+37.- LẦM NHẬN “MỘT ĐƯỜNG HƯỚNG THƯỢNG, NGÀN THÁNH CHẲNG TRUYỀN” LÀ PHÁP MÔN ĐỂ DỤNG CÔNG.
+
+Người xưa nói: ‘Một đường hướng thượng, ngàn Thánh chẳng truyền”, ý là phàm nói được, truyền được thì chẳng phải chơn như, chơn như Phật tánh phải tự chứng lấy, chẳng thể nói cho người. Nay người ta hiểu lầm rằng pháp tham thiền chẳng thể truyền thọ, chỉ có thể tự mình đi tìm tòi, ấy là sai lầm lớn. Phật tánh dù chẳng thể ngôn truyền, nhưng pháp dụng công tham thiền thì do ngàn Thánh sở truyền, Phật Phật tự tay thân thọ nhau. Thế Tôn thuyết pháp 49 năm, hoặc quyền hoặc thật, hoặc đốn hoặc tiệm, đời đời kế thừa nhau, Thánh Thánh nối tiếp nhau, Tổ Sư hét, gậy, chửi mắng, dựng phất trần, giơ cây chỉa đều là thân thiết bảo nhau cho người, nhưng phải xem người ấy có thể thừa đương hay không, chớ đâu phải chẳng truyền!
+
+38.- LẦM NHẬN “DẪU CHO BIỂN XANH BIẾN THÀNH RUỘNG DÂU CŨNG CHẲNG VÌ ÔNG NÓI TRẮNG RA” LÀ PHÁP MÔN DỤNG CÔNG.
+
+Người xưa nói: “Dẫu cho biển xanh biến thành ruộng dâu cũng chẳng vì ông nói trắng ra”, ý nói Phật tánh chơn như chỉ có thể tự chứng tự ngô, chẳng thể dùng ngôn ngữ nói cho người biết.
+
+Xưa kia khi Hương Nghiêm chưa ngộ, cứ xin Qui Sơn nói trắng ra, Qui Sơn nói: “Ta nói là của ta, chẳng dính dáng với ngươi”, sau ở Nam Dương đang cuốc đất quăng miếng ngói trúng nhằm cây tre phát ra tiếng, mới phát minh Tâm địa. Còn Thái Nguyên Phù Thượng Tọa giảng kinh Niết Bàn, tỏ bày diệu lý của Pháp thân, có thiền khách nghe xong nói: “Ông dù giảng hay, nhưng thật thì chẳng biết”. Bèn ngưng giảng tham cứu, nửa đêm nghe tiếng trống mới ngộ Pháp thân. Người đời nay hiểu lầm ý chỉ rằng “Dẫu cho biển xanh biến thành ruộng dâu, cũng chẳng vì ông nói trắng ra” là sự bí mật truyền thọ của Tông môn, chẳng thể dạy người, ấy là sai lầm lớn. Há chẳng nghe Lục Tổ nói: “Ngươi nếu phản chiếu, mật ở bên ngươi “ sao!
+
+39.- HIỂU LẦM “TÂM TỊNH THÌ ĐỘ TỰ TỊNH” THÀNH BỆNH.
+
+“Tâm tịnh thì độ tự tịnh” là nói sau khi minh tâm kiến tánh, tất cả đều biến thành Phật tánh, trong Phật tánh chẳng cấu chẳng tịnh, nên uế độ tức là Tịnh độ, Người đời nay hiểu ý này, nói đem ác niệm sửa lại thành thiện niệm, đem nhiễm duyên biến thành tịnh duyên, trong tâm trong sạch tự nhiên thế giới trong sạch gọi là tâm tịnh thì độ tự tịnh, ấy là sai lầm lớn.
+
+Tâm niệm biến đổi vô thường, hởi diệt chẳng định, nếu trong tâm trong sạch một hồi thì là Tịnh độ, vọng niệm sanh khởi một hồi lại biến thành uế độ, như thế sáng tịnh, chiều uế, ngày thiện đêm ác, thay phiên tuần hoàn khi nào mới hết? Kỳ thật tâm tịnh tâm nhiễm là tác dụng của bộ não, chẳng liên quan với Tịnh độ, nếu là Tịnh độ chơn chánh thì chẳng biến chẳng đổi, chẳng cấu chẳng tịnh, tức Thường Tịch Quang Tịnh Độ, cũng là Pháp thân của chư Phật. Nếu được đốn ngộ chơn như ngay đó liền sanh Thường Tịch Quang Tịnh Độ, với chư Phật cùng một Pháp thân thì vĩnh viễn siêu thoát sanh tử luân hồi, khi ấy tìm tâm tìm độ trọn bất khả đắc, còn gì để nói tịnh hay uế ư!
+
+40.- NHẬN LẦM “CHẲNG SỢ VỌNG KHỞI, CHỈ E GIÁC CHẬM” LÀ PHÁP DỤNG CÔNG.
+
+Có người thường cho “Chẳng sợ vọng khởi, chỉ e giác chậm” là phương pháp tu hành, ấy là sai lầm. Nếu khởi giác niệm để phá vọng niệm thì giác đồng như vọng, cũng là nhất niệm vô minh. Huỳnh Bá Thiền Sư nói: “Nay khi ngươi giác biết vọng khởi, giác chính là Phật, nếu vốn chẳng vọng niệm thì Phật cũng chẳng có. Tại sao? Vì ngươi khởi tâm chấp Phật mới nói có Phật để thành, chấp chúng sanh mới nói có chúng sanh để độ, phàm khởi tâm động niệm đều là chỗ kiến chấp của ngươi, nếu không có tất cả kiến chấp thì Phật đâu có xứ sở! Cũng như Văn Thù vừa khởi kiến chấp có Phật liền bị đày nơi núi Nhị Thiết Vi, cho nên nói: “Chẳng sợ vọng khởi, chỉ e giác chậm!”. Bổn lai chẳng vọng, nói chi là giác? Nếu lấy giác bỏ vọng, giác cũng thành vọng.
+
+Kinh Viên Giác nói: “Tất cả thế giới thủy, chung, sanh, diệt, trước, sau, có, không, tụ tán, khởi, dừng, niệm niệm tương tục, tuần hoàn xoay chuyển, đủ thứ thủ xã đều là luân hồi, nếu chưa ra khỏi luân hồi mà phân biệt viên giác, thì tánh viên giác kia cũng đồng như luân hồi, vậy muốn khỏi bị luân hồi thì chẳng có chỗ đúng”.
+
+41.- LẦM NHẬN “GÓT CHÂN CHẤM ĐẤT” LÀ PHÁP DỤNG CÔNG.
+
+“Gót chân chấm đất” là lời nói sau khi đã ngộ, người đã minh tâm kiến tánh, siêu xuất sanh tử luân hồi, đạt đến bản thể tuyệt đối thì việc lớn đã xong, gọi là gót chân chấm đát. Nay có người hiểu lầm ý này, cho là làm một ông Tăng chơn thật, siêng năng tu hành, bước chân vững vàng tức gót chân chấm đất, ấy là sai.
+
+42.- DỤNG CÔNG LẦM NHẬN “VÔ TÂM LÀ ĐẠO”.
+
+Huỳnh Bá Thiền Sư nói: “Tức tâm là Phật, vô tâm là đạo”, Tổ Sư nói: “Phật thuyết tất cả pháp, vì trừ tất cả tâm, Ta chẳng tất cả tâm, đâu cần tất cả pháp”, đây là lời sau khi đã ngộ, ý nói Phật phương tiện thuyết pháp độ người tam thừa, người thượng thượng căn tự minh tâm địa, tự thấy bản tánh thì đâu cần tất cả pháp. Ý chỉ đồng với Kinh Kim Cang, nói: “Biết ta thuyết pháp ví như chiếc bè qua sông, đến bờ thì phải bỏ bè, vậy pháp còn bỏ huống là phi pháp!”, với Kinh Viên Giác nói: “Tất cả chúng sanh, tu tập tâm này nếu được thành tựu, mới biết ngay đó chẳng tu cũng chẳng thành tựu”. Ngay nơi chứng ngộ chẳng năng chẳng sở, rốt cuộc chẳng chứng, cũng chẳng kẻ chứng” chính là đồng nhau. Mà người đời sau hiểu lầm ý này, cho là đem vọng tâm đừng nghỉ tư tưởng dứt sạch tức là vô tâm, tức là ngộ đạo, ấy là sai lầm lớn. Vọng tâm là nhất niệm vô minh, nhất niệm vô minh dừng nghỉ tức là cảnh giới đen tối của vô thỉ vô minh, cảnh giới này chưa phá tan thì chưa thể thấy Phật tánh, chẳng phải ngộ đạo. Nên người xưa nói: “Chớ cho vô tâm tức là đạo, vô tâm còn cách núi muôn trùng”, chính là chỉ ngay thứ hiểu lầm này.
+
+43.- DỤNG CÔNG LẦM NHẬN ‘BÌNH THƯỜNG TÂM LÀ ĐẠO”.
+
+Triệu Châu hỏi Nam Tuyền thế nào là đạo, Tuyền nói: “bình thường Tâm là đạo”. Châu nói: “Có chỗ xu hướng chăng?”. Tuyền nói: “Tính hướng thì sai”. Châu nói: “Chẳng tính sao biết là đạo?”. Tuyền nói: “Đạo chẳng thuộc biết, chẳng thuộc không biết; biết là vọng giác, không biết là vô ký. Nếu chơn đạt đến cái đạo “chẳng tính” thì giống như hư không, mênh mông trống rỗng, đâu có thể cưỡng cho là đúng sai ư!”. Châu ngay đó đại ngộ.
+
+Lời “bình thường tâm là đạo” của Nam Tuyền, ý nói sau khi kiến tánh, khởi niệm động niệm đều là Phật tánh, đi, đứng, nằm, ngồi, mặc áo ăn cơm, cuộc sống hằng ngày đều là chơn như, ấy là cảnh giới sau khi chứng ngộ. Nay người ta hiểu lầm câu “Bình thường tâm là đạo” tức là bình bình thường thường để qua ngày, bình bình thường làm một người tốt, chẳng làm thiện, chẳng tạo ác, mặc kệ tùy duyên uổng qua một đời tức là ngộ đạo, như vậy khác chì người lười biếng, ăn no suốt ngày chẳng làm việc gì! Thật đáng thương xót! 
+
+44.- DỤNG CÔNG LẦM NHẬN “TRỰC TÂM LÀ ĐẠO TRÀNG”.
+
+Kinh Duy Ma Cật nói: “Trực tâm là đạo tràng”, ý nói sau khi kiến tánh, khởi tâm động niệm đều là Phật tánh hiện hành, chỉ một tâm ngay thẳng, chẳng biến chẳng đổi. Kinh Pháp Bảo Đàn nói: “Nếu trong tất cả nơi, đi, đứng, nằm, ngồi, chỉ một tâm ngay thẳng, là đạo tràng chẳng động, là Tịnh độ chơn thật, gọi là Nhất hạnh tam muội”. Người đời sau hiểu lầm cho con người chỉ cần ngay thẳng tức là ngộ đạo, ấy là sai.
+
+45.- DỤNG CÔNG LẦM NHẬN “ĐẦU SÀO TRĂM THƯỚC”. 
+
+Trường Sa Sầm Thiền Sư dẫn dụ lời Cổ Đức rằng: “Người trụ nơi đầu sào trăm thước, mặc dù đắc nhập chưa phải chơn, đầu sào trăm thước cần tiến tới, mười phương thế giới hiện toàn thân”. Đây là lời khẩn yếu của sự dụng công để khuyên bảo người hậu học, đầu sào trăm thước là dụ cho quá trình dụng công của người tu hành, được leo tới đầu sào trăm thước công phu đã khá rồi, hễ lên nữa tức là hư không, là việc rất khó tiến lên, nếu được tiến thêm một bước thì ngay đó kiến tánh thành Phật mà chứng đắc Pháp thân, nên nói “Đầu sào trăm thước cần tiến tới, mười phương thế giới hiện toàn thân”. 
+
+Chỗ đầu sào này là dụ cho cảnh giới vô thỉ vô minh, người dụng công đến nơi cảnh giới trống rỗng đen tối chẳng có gì cả, tức là đầu sào trăm thước, cũng là vô thỉ vô minh, chớ nên lầm nhận cho cảnh giới này là Chơn như Phật tánh, đến đây cần phải tiến lên để phá tan vô thỉ vô minh mới được kiến tánh thành Phật. Nay có người hiểu lầm cho dứt trừ vọng niệm là đến đầu sào trăm thước, rồi luôn cả cái niệm dứt trừ cũng tiêu sạch tức là “Đầu sào trăm thước cần tiến tới” ấy là sai. 
+
+46.- HIỂU LẦM “BẤT NHỊ PHÁP MÔN” THÀNH BỆNH.
+
+“Pháp môn bất nhị” là nói Phật tánh tuyệt đối, chẳng có năng sở đối đãi là Bất nhị, xưa kia trong hội Tỳ Da, Văn Thù Bồ Tát để ý chỉ bất nhị, khi ấy sở thuyết của ba mươi hai vị Hiền triết đều sai, chỉ có Duy Ma Cật im lặng chẳng nói, Văn Thù Bồ Tát khen rằng: “Lành thay! Lành thay! Đến chỗ chẳng có văn tự lới nói mới thật là nhập pháp môn bất nhị”. Nên biết tuyệt đối của Phật tánh chẳng phải văn tự lời nói có thể đến, nên nói ngôn ngữ đạo đoạn, tâm hành xứ diệt. Hiện nay các chùa chiền, trên cửa thường đề bốn chữ “Bất Nhị Pháp Môn”, bắt chước nhau từ lâu, Kinh nói: “Vô môn là pháp môn”, thì cửa chùa làm sao so bằng được! 
+
+47.- LẦM NHẬN “TỌA VONG” (NGỒI QUÊN) TRONG ĐẠI TÔNG SƯ THIÊN CỦA TRANG TỬ LÀ PHẬT PHÁP. 
+
+Nhan Hồi nói: “Hồi được ích rồi!”.
+
+Khổng Tử hỏi: “Là thế nào?”.
+
+Hồi nói: “Hồi đã quên nhân nghĩa rồi”.
+
+Khổng Tử nói: “Được, nhưng còn chưa”. Hôm khác Hồi lại trình: “Hồi được ích rồi”.
+
+Khổng Tử hỏi: “Là thế nào?”.
+
+Hồi nói: “Hồi đã quên lễ nhạc rồi”.
+
+Khổng Tử nói: “Được rồi, nhưng còn chưa”. Hôm khác lại trình rằng: “Hồi được ích rồi”.
+
+Khổng Tử hỏi: “Là thế nào?”.
+
+Hồi nói: “Hồi tọa vong rồi!”.
+
+Khổng Tử hỏi: “Thế nào là tọa vong?”.
+
+Hồi nói: “Đọa cơ thể, bặt thông minh, lìa hình bỏ trí, dụng nơi đại đạo gọi là tọa vong”.
+
+Khổng Tử nói: “Đồng thì chẳng hai, hóa thì vô thường, Hồi quả thật là bậc Hiền, ta xin theo sau”.
+
+Như thế lý đạo của tọa vong, tức là cảnh giới vô thỉ vô minh của nhà Phật vậy.
+
+48.- DỤNG CÔNG LẦM NHẬN “ĐẠI THỦ ẤN”.
+
+Đại Thủ ấn tức là thể tánh bản tâm của tất cả chúng sanh với chư Phật bình đẳng chẳng khác bản tâm bình đẳng vốn trong sạch thường trụ, dù bị vô minh che khuất nhưng thể tánh chơn tâm vẫn tự sáng tỏ trong sạch, dẫu ở nơi lục đạo luân hồi vẫn chẳng thêm chẳng bớt. Cái bản thể vi diệu này, có khi gọi là Bản Giác Như lai, Phổ Hiền Như Lai, Bổn Kiến thanh tịnh v.v... tên khác thể đồng, tức một tâm này là căn bản của Đại Thủ Ấn. 
+
+Phái cũ của Mật Tông có nói: “Phổ Hiền Như Lai này là Phật nguyên thỉ chẳng cần dùng sức tẩy trừ nghiệp chướng, ví như nước biển bị gió khơi động mà sanh khởi làn sóng, nếu còn khuấy động (dùng sức tẩy trừ) thì làn sóng không khi nào được dừng lại mà thành trong lặng. Cũng như mây mù dù trôi nổi trên không, khi mây mù tan rã thì trong sạch của hư không tự hiện; lúc mây mù che khuất hư không, tánh không vẫn là tánh không, chưa hề giảm bớt chút nào. Nếu tâm của con người vốn chẳng có thể tánh sáng tỏ trong sạch thì bất cứ dùng phương tiện nào cũng chẳng thể tẩy sạch, vì bản tâm vốn sẵn trong sạch diệu minh mới có thể dùng phương tiện tẩy trừ vọng niệm cho đến thành Phật".
+
+“Bản tâm vốn trong sạch” là Phật tánh, Phật tánh chẳng thể sanh khởi vô minh, sanh khởi vô minh là do linh tánh của kiến, văn, giác, tri, linh tánh chẳng phải Phật tánh, như nước biển kia vì bị gió khơi động mà sanh làn sóng, nước biển là dụ cho linh tánh của kiến, văn, giác, tri, nếu nhận lầm cho là Phật tánh thì tu cũng vô ích.
+
+49.- DỤNG CÔNG LẦM NHẬN “MINH ĐẾ” CỦA BÀ LA MÔN.
+
+Các nhà Phật học Trung Quốc xưa nay rất nhiều Đại Đức cao Tăng lầm nhận “Minh Đế” cho là Phật tánh, Minh Đế phi không phi hữu, là Bản tánh của thế gian, vì Minh Đế khởi một niệm sanh giác, do giác sanh hai mươi lăm đế, từ hai mươi lăm đế trở về bản thể Minh Đế, tức là vô thỉ vô minh, cũng là chỗ nhận lầm của một số cao Tăng Trung Quốc nói từ Phật tánh sanh khởi vô minh, đoạn dứt vô minh trở về Phật tánh, ấy là sai lầm từ căn bản, tu hành vô ích.
+
+Kỳ thật Minh Đế của Bà La Môn tức là vô thỉ vô minh, sanh giác tức là kiến, văn, giác, tri, sanh khởi một niệm, do một niệm này sanh ra tám mươi bốn ngàn niệm, cũng gọi là tám mươi bốn ngàn trần lao phiền não vậy
+CHƯƠNG III
+
+THỈNH ÍCH (HỎI ĐẠO)
+
+ 
+
+Tăng hỏi: Lúc con ngồi tham thiền dứt vọng niệm, nhưng vọng niệm càng dứt càng nhiều, ví như một chén nước, khi đục thì đất cát thấy không rõ, khi lắng thì đất cát thấy rõ ràng. Cho nên khi chẳng dứt vọng niệm, vọng niệm lại ít hơn, hễ dứt vọng niệm thì càng dứt càng nhiều. Trước kia có Thiện tri thức bảo con: “Vọng niệm dứt sạch là Phật tánh, tại sao càng dứt càng nhiều? Làm thế nào mới dứt sạch được? Con nhiều nhất dứt được năm phút thì vọng niệm lại khởi nữa, Đức Phật nói: “Pháp cũng là vọng”, tại sao Phật chẳng dứt vọng niệm mà bảo chúng con dứt vọng niệm? Lại ngồi lâu thì nhức đầu, vậy dụng công như thế nào mới học đúng cách tu của Thiền Tông? Xin Sư từ bi khai thị”.
+
+Sư nói: Ông đã đi lầm đường, niệm khởi niệm diệt chẳng phải Phật tánh, Phật tánh là như như bất động, chẳng khởi vọng niệm; khởi vọng niệm là nhất niệm vô minh, hễ lay động liền phân làm hai mặt: tức là chánh niệm và bất chánh niệm. Bất chánh niệm là vọng, chánh niệm cũng là vọng, đều là tác dụng của kiến, văn, giác, tri, chẳng liên quan với Phật tánh. Nếu vọng niệm từ bên ngoài đến thì chẳng dính dáng với ông, ông đâu cần đoạn dứt nó! Nếu vọng niệm từ bên trong ra thì cũng như nguồn suối luôn luôn có nước ra, dứt rồi lại sanh, sanh rồi lại dứt, đến khi nào mới hết? Vậy tu hành dứt vọng niệm, lý này thật chẳng thông. Thật ra kiến, văn, giác, tri, có hai mặt: nhiễm duyên và tịnh duyên, đều là vọng niệm của nhất niệm vô minh. Người tu hành suy nghĩ điều lành, hành việc thiện là tịnh duyên; suy nghĩ điều ác, hành việc tà là nhiễm duyên, hai thứ đều là vọng. Đem nhiễm duyên, tịnh duyên dứt sạch, kiến, văn, giác, tri chẳng còn, ấy là chỗ đen tối trống rỗng của vô thỉ vô minh. Nay Phật tánh bị vô thỉ vô minh che khuất, muốn thấy Phật tánh ắt phải đập tan vô thỉ vô minh mới thấy được.
+
+Muốn đập tan vô thỉ vô minh, cần phải dùng lục căn của vọng niệm hướng vào chỗ hầm sâu đen tối nhìn thẳng đi, chớ nên gián đoạn, nhìn đi nhìn lại, khi thời tiết đã đến, “ồ” lên một tiếng thì vô minh tan rã, cái bản thể cùng khắp hư không của Phật tánh ngay đó liền hiện ra. Sau khi kiến tánh, thì sanh tử, thiện ác, thị phi từ vô lượng kiếp trọn mâm trình ra, lúc bấy giờ kiến, văn, giác, tri, lục căn, vọng niệm, tất cả đều biến thành Phật tánh. Phật thuyết pháp là Phật niệm, chẳng phải vọng niệm, người chưa kiến tánh mới là vọng niệm.
+
+Mã Tổ nói: “Tham thiền chẳng thuộc ngồi, chấp ngồi thi bị dính mắc”, đi đứng, nằm, ngồi đều phải dụng công, ngồi lâu sẽ bị nhức đầu. Ông cho kiến, văn, giác, tri nghiệp thức là Phật tánh thì vĩnh viễn chẳng thể kiến tánh, há chẳng nghe Trường Sa Sầm Thiền Sư nói: “Sao người học đạo chẳng biết chơn? Chỉ vì xưa nay nhận thức thần, nguồn gốc sanh tử từ vô thỉ, si mê cho là bổn lai nhơn (Phật tánh) ư!”.
+
+***
+Tăng hỏi: Con dụng công tu Thiền Tông đã nhiều năm, trước kia ở núi Chung Nam, khi tĩnh tọa, thân tâm hoàn toàn quên mất, ban sơ trống rỗng được mười phút, sau kéo dài đến hai mươi phút, cái không của thân tâm với cái không của hư không hợp lại, khi ấy thân tâm rỗng như gương, hư không cũng như gương, giống như gương chiếu gương, cảnh giới này phải là minh tâm kiến tánh chăng?
+
+Sư nói: Minh tâm kiến tánh là việc vĩnh viễn vô tận, chẳng thể mê trở lại, cảnh giới của ông thấy khi ngồi chẳng phải Phật tánh, ấy là vô ký không của Lục Tổ nói, cũng gọi là hầm sâu vô minh. Ông cho khi ngồi thấy cảnh giới này thì ngộ, khi đứng dậy thì mê, vậy bỗng mê bỗng ngộ thì Phật tánh cùng thành luân hồi. Theo phương tiện dụng công của ông là cảnh giới ngoại đạo Tiểu thừa. Ông chớ nên dứt niệm, phải lợi dụng căn hướng vào chỗ cảnh giới mênh mông trống rỗng nhìn thẳng đi, khi công phu thuần thục, cơ duyên bỗng đến, “Ồ” lên một tiếng thì hầm sâu vô minh bị phá tan, liền thấy Phật tánh. Dụng công như thế này mới hợp vói phương pháp của Thiền Tông.
+
+***
+Tăng hỏi: Trước kia con ở Đại Triệt Đường trong chùa Kim Sơn, khi tĩnh tọa dụng công, chẳng chấp có cũng chẳng chấp không; nếu chấp có Phật tánh thì là ngoài pháp sanh tâm, nếu chấp không có Phật tánh thì là phế bỏ nhân quả, còn có với không đều chẳng chấp, cũng chẳng dứt niệm, vậy hợp với cách dụng công của Thiền Tông chăng?
+
+Sư nói: Ông chẳng chấp Có, Không là thuộc tác dụng suy nghĩ của kiến, văn, giác, tri, với Phật tánh trọn chẳng dính dáng. Phật tánh là như như bất động, ông phải buông bỏ cái niệm “chẳng chấp có không” ấy, rồi đề thoại đầu khởi nghi tình, khi công phu đến mức, hễ vô thỉ vô minh được phá tan, liền thấy Phật tánh.
+
+***
+Tăng hỏi Lục Tổ nói chẳng suy nghĩ thiện ác thì có thể minh tâm kiến tánh, con hiện nay chẳng suy nghĩ thiện ác, tại sao không được kiến tánh?
+
+Sư nói: Lục Tổ nói: “Chẳng suy nghĩ thiện ác, đang lúc ấy lai là Bản lai diện mục của Thượng Tọa Minh?”, ý của Lục Tổ là bảo ngay chỗ chẳng suy nghĩ thiện ác ấy phát khởi nghi tình tham cứu thì được thấy bản lai diện mục. Ông chỉ là chẳng suy nghĩ thiện ác, không có tham cứu thì đâu thể kiến tánh được!
+
+***
+Có Cư sĩ hỏi: Phật tánh vô sanh, vây Phật tánh từ chỗ nào đến? Nếu Phật tánh từ vô sanh đến lúc đang dụng công, khởi niệm là sanh, niệm dứt rồi là chẳng sanh tức là Phật tánh vô sanh, dụng công như thế này hợp với cách tu của Thiền Tông chăng?
+
+Sư nói: Phật tánh là như như bất động, bổn lai vô sanh nên vô diệt. Theo lời giải thích của ông thì Phật tánh biến thành có sanh có diệt rồi, dụng công như thế này giống như Lão Tử nói “Vạn vật sanh nơi hữu, hữu sanh nơi vô”, ấy là luân hồi. Phật Pháp là muốn siêu thoát luân hồi, đâu còn muốn chui vào luân hồi như ông vậy! Dụng công như thế thành người Tiểu thừa, Nhị thừa, nhà lý học, chẳng hợp với Thiền Tông. Vô sanh của ông nói tức là hầm sâu vô minh, ông hãy dùng niệm hướng vào chỗ vô sanh phát khởi nghi tình nhìn thẳng đi, như ngọn dao đâm vào, phá tan vô thỉ vô minh, liền thấy Phật tánh, tức là chứng Vô sanh Pháp Nhẫn. Vô sanh pháp nhẫn nghĩa là Phật tánh chẳng sanh chẳng diệt, vạn tượng trang nghiêm muôn đức tròn đầy, khi ấy vũ trụ vạn vật tất cả đều biến thành Phật tánh.
+
+***
+Tăng hỏi: Lúc con ở Thiền đường chùa Cao Mân, một hôm đang tĩnh tọa, thân tâm vọng niệm tạm dứt sạch, bỗng thấy một tia sáng màu trắng, đại khái có hai phút mới tan mất. Lúc sau cách vách tường thấy vật, có một lần qua sông bị trôi xa năm dặm gặp người cứu, chẳng bị chết chìm; có một lần hai tay ôm cục đá trăm cân chẳng thấy phí sức; có một lần tĩnh tọa nhập định bảy ngày chẳng ăn uống; có một lần nhập định hai mươi mốt ngày chẳng ăn cơm. Những cảnh giới kể trên có phải là thần thông với ngộ đạo chăng?
+
+Sư hỏi: Nay ông cách tường còn thấy vật chăng? Còn có thể bảy ngày chẳng ăn cơm và ôm lên cục đá sáu trăm cân được chăng?
+
+Tăng nói: Hiện nay thì không thể được.
+
+Sư nói: Tham thiền ngộ đạo là muốn minh tâm kiến tánh, liễu thoát sanh tử. Trong Phật tán vốn đủ ngũ nhãn, lục, thông, chẳng cần cầu bên ngoài, nếu người đã kiến tánh thì đi, đứng, nằm, ngồi, mặc áo, ăn cơm, cuộc sống hằng ngày đều ở trong định. Thuở xưa ngoại đạo có một phương pháp bí truyền, mỗi ngày uống một tách mật ong hoặc nước muối, có thể luôn bảy ngày chẳng ăn cơm. Ông là Phật tử, sao lại học ngoại đạo tà ma! Nay ông nên đem tư tưởng cảnh giới ngoại đạo đã kể trên quăng hết xuống biển, trở lại dụng công tham cứu, khi thân tâm diệt chớ nên dứt hẳn tư tưởng tham cứu, cần phải tham mãi, khi cơ duyên đến, “ồ” lên một tiếng thì vô thỉ vô minh phá tan, liền được kiến tánh. Phật tánh là đại định, đâu có xuất nhập!
+
+Tăng nghe Sư nói, cảm kích rơi lệ, lễ tạ rồi ra đi.
+
+Tăng hỏi: Khi con dụng công, quán xét thế giới thân tâm đều là giả là không, con lìa không với giả, đem tâm niệm ngưng nới chính giữa của không với giả, dụng công như thế này hợp với pháp tu của Thiền Tông chăng?
+
+Sư nói: Dụng công như thế chẳng hợp cách tu của Thiền Tông, giữa không với giả là tương đối, Phật tánh là tuyệt đối. Ông đem tâm niệm ngưng nơi khoảng giữa, khoảng giữa chẳng phải Phật tánh. Ông hãy đem cái niệm ngưng nơi khoảng giữa này nhìn thẳng hầm sâu vô minh (tức là khởi nghi tình), khi vô minh tan rã mới được thấy Phật tánh, ấy mới là phương pháp dụng công của Thiền Tông.
+
+***
+Cư sĩ hỏi: Xưa nay con tu Duy Thức quán, theo Duy Thức, Trí với Thức chứa trong thức thứ tám, nay con dùng đậu trắng đậu đen để thí dụ, đậu trắng dụ cho trí, đậu đen dụ cho thức. Sức Trí mạnh thì Thức biến thành Trí, sức của Thức mạnh thì Trí biến thành Thức, đậu trắng nhiều hơn đậu đen tức là sức Trí mạnh hơn, đậu đen nhiều hơn đậu trắng tức là sức của Thức mạnh hơn, Trí huân Thức, Thức huân Trí, dụng công nhiều thì đậu trắng nhiều hơn đậu đen, dụng công ít thì đậu đen trở lại nhiều hơn đậu trắng, vậy hợp với cách tu của Thiền Tông chăng?
+
+Sư nói: Ông dụng công như thế vĩnh viễn chẳng thể kiến tánh. Chủng tử của Trí với Thức chứa trong thức thứ tám là đã sẵn đủ từ vô lượng kiếp, dẫu cho ông đem tất cả thức biến thành Trí, cái Trí này chẳng phải Phật tánh, Phật tánh là Trí thể của Pháp giới, chẳng có biến đổi, chẳng thọ huân nhiễm. Ông đã phát tâm học Phật, mục đích là muốn liễu thoát sanh tử, phải thấy trí thể của Pháp giới mới là cứu cánh. Trí thể của Pháp giới tức là Phật tánh, Thiền Tông gọi là Bản lai diện mục, ông nên dùng Tiền ngũ thức chuyển thức thứ sáu, thức thứ sáu chuyển thức thứ bảy, thức thứ bảy chuyển thức thứ tám, thức thứ tám chuyển Bạch tịnh thức (hầm sâu vô minh), khi “ồ” lên một tiếng, Bạch tính thức tan rã, bèn thấy trí thể của Pháp giới. Diệu dụng của Trí thể pháp giới hiện ra thì thức thứ tám chuyển thành Đại viên cảnh trí, thức thứ bảy chuyển thành Bình đẳng tánh trí, thức thứ sáu chuyển thành Diệu quan sát trí, Tiền ngũ thức chuyển thành Thành sở tác trí, như thế mới vĩnh viễn là Trí, chẳng thể trở lại làm Thức. Dụng công như thế này mới hợp với Chánh pháp, theo cách tu của ông bỗng Trí, bỗng Thức, trở đi trở lại thì khi nào mới xong!
+
+***
+Tăng hỏi: Ý nghĩa chữ Phật là Giác, chỉ cần trong tâm luôn luôn giác ngộ chẳng mê tức là minh tâm kiến tánh, như thế hợp vơi cách dụng công của Thiền Tông chăng?
+
+Sư nói: Ý nghĩa chữ Phật là Đại Giác, là cái giác tuyệt đối, tìm sự mê ngộ trọn bất khả đắc. Cái giác của ông nói là cái giác của kiến, văn, giác, tri, là tác dụng của bộ não, thuộc về tương đối. Ông luôn luôn muốn giác là dùng bộ não để làm việc, dụng công như thế vĩnh viễn chẳng được kiến tánh. Ông nên dùng cái tư tưởng giác chiếu ấy nhìn thẳng vào hầm sâu vô minh, khi vô minh tan rã, liền thấy Phật tánh. Sau khi kiến tánh, giác và mê trong bộ não đều biến thành Phật tánh. Nên Duy Ma Cật nói: “Pháp lìa kiến, văn, giác, tri nếu hành theo kiến, văn, giác, tri thì chẳng phải cầu pháp”.
+
+***
+Tăng hỏi: Cách con dụng công, đi, đứng, nằm, ngồi, tất cả cuộc sống tiếp xúc hằng ngày đều chẳng chấp trước; ví như ăn cơm chẳng chấp trước ăn cơm, mặc áo chẳng chấp trước mặc áo, nói chuyện chẳng chấp trước nói chuyện, tất cả tiếp xúc chẳng chấp trước tiếp xúc, như thế thì được đại giải thoát đúng như phá chấp trước của Phật nói. Vậy cái chẳng chấp trước của con phải minh tâm kiến tánh chăng? Hợp với lý Thiền Tông chăng?
+
+Sư nói: Phật nói phá chấp trước là phá chấp trước “có tu Tứ Đế” của Tiểu thừa, ấy là Hóa Thành chẳng phải Bửu Sở, khích lệ họ tu Nhị thừa; Phật lại phá Nhị thừa chớ nên chấp trước Thập nhị nhân duyên, lọt vào Không chấp, ấy chỉ là phương tiện tạm thời chưa thể kiến tánh, cần tu Lục độ của Đại thừa mới được kiến tánh. Cái phá chấp trước của Phật là bảo Tiểu thừa, Nhị thừa chớ chấp trước Ngã chấp, Pháp chấp, Không chấp, chẳng phải muốn họ giữ cái ‘Không chấp trước” ở trong bộ não. Cái chẳng chấp trước của ông tức là chấp trước, nếu ông chẳng chấp trước phân biệt, làm sao nhận được mặc áo nói chuyện, ăn cơm? Nói tóm lại, cái chẳng chấp trước của ông đều là tác dụng của kiến, văn, giác, tri, thật ra đối với bản thể của Phật tánh, phàm sanh tử, hữu vô v.v... mỗi mỗi danh tướng đều chẳng có chỗ nương tựa, như thế mới là chơn thật chẳng chấp trước. Huỳnh Bá Thiền Sư nói: “Suốt ngày ăn cơm chưa từng ăn một hạt gạo, suốt ngày mặc áo chưa từng mặc một sợi chỉ, suốt ngày đi đường chưa từng dẫm nửa tấc đất”, như thế này mới có thể nói: “Được Đại giải thoát". Sau khi kiến tánh thì tất cả tư tưởng chấp trước hay chẳng chấp trước đều biến thành Phật tánh, đi, đứng, nằm, ngồi, đều là diệu dụng của Phật tánh, khi ấy chẳng cần ông nghĩ đến chấp trước, nó tự nhiên chẳng chấp trước. Bản thể Phật tánh mới là thật chẳng chấp trước, theo kiến, văn, giác, tri thì phải có chấp trước. Nay ông nên đem cái niệm chẳng chấp trước ấy đề thoại đầu khởi nghi tình, nhìn thẳng chỗ đen tối mịt mù là cái gì, đi, đứng, nằm, ngồi chớ nên gián đọan, cơ duyên thuần thục, “ồ” lên một tiếng, hầm sâu đen tối phá tan, liền thấy Bổn lai Phật tánh, tức là được đại giải thoát và chẳng chấp trước rồi.
+
+***
+Tăng hỏi: Con dụng công tham thiền luôn luôn chẳng lìa cái này, “cái này” tức là thoại đầu, như tham niệm Phật là ai, đi, đứng, nằm, ngồi suốt ngày cũng chẳng lìa câu “niệm Phật là ai” này, tại sao dụng công nhiều năm mà chẳng minh tâm kiến tánh?
+
+Sư nói: Ông dụng công như thế là niệm thoại đầu, chẳng phải tham thoại đầu, tham thoại đầu phải hướng vào nội tâm tham cứu, tức là khởi nghi tình, đâu phải dùng miệng niệm mà được kiến tánh, Phật tánh vốn là Phật, Phật chẳng niệm Phật, nay ông nên dùng cái tư tưởng niệm thoại đầu này hướng vào chỗ Phật chẳng niệm Phật nhìn thẳng đi, xem coi là cái gì, đi, đứng, nằm, ngồi chớ nên gián đoạn, một hôm hầm sâu vô minh bị phá tan, liền được kiến tánh.
+
+***
+Tăng hỏi: Con tham thiền dụng công tham “Muôn pháp về một, một về chỗ nào?”, đem muôn niệm gom thành một niệm, một niệm này rõ ràng tinh minh, vậy phải là kiến tánh chăng?
+
+Sư nói: Muôn niệm từ kiến, văn, giác, tri sanh khởi, ông đem muôn niệm gom thành một niệm, một niệm này cũng là kiến, văn, giác, tri, với Phật tánh trọn chẳng dính dáng, ông nên dùng cái niệm “Muôn pháp về một" nhìn coi một về chỗ nào? Chớ nên gián đoạn, hễ cơ duyên đến thì hầm sâu vô minh tan rã, liền thấy Phật tánh. Khi kiến tánh rồi, như người uống nước, lạnh nóng tự biết, chẳng cần hỏi người.
+
+***
+Tăng hỏi: Con dụng công tham câu thoại đầu “Giảng kinh là ai?. Con cho rằng giảng kinh thuyết pháp là dùng vọng niệm của lục căn mà giảng,nghe cũng dùng vọng niệm của lục căn mà nghe, nếu đem lục căn đoạn dứt thì giảng chẳng thể giảng, nghe chẳng thể nghe. Vậy phải là minh tâm kiến tánh chăng?
+
+Sư nói: Lục căn có cái dụng là kiến, văn, giác, tri, lục căn không nên đoạn dứt, nếu minh tâm kiến tánh thì lục căn biến thành Ứng thân. Nay ông chớ nên đoạn dứt lục căn, phải đem cái niệm đoạn lục căn ấy dùng để tham cứu bổn lai diện mục, Phật tánh vốn không có lục căn, nên chẳng cần dứt nó, dụng công như thế mới hợp với cách tu của Thiền tông. Theo cách tu của ông là phương pháp Tiểu thừa, chẳng được cứu cánh.
+
+***
+Tăng hỏi: Con tham thoại đầu là: Trước khi cha mẹ chưa sanh, thế nào là bổn lai diện mục?”. Con cho là trước khi cha mẹ chưa sanh là thanh thanh tịnh tịnh, vì có vọng niệm mới đến đầu thai, nếu dứt hết vọng niệm thì được khôi phục cái thanh tịnh của bổn lại diện mục trước kia, như vậy hợp với cái lý Thiền Tông chăng?
+
+Sư nói: Trưóc khi cha mẹ chưa sanh chẳng phải bổn lai diện mục, ấy là thân Trung ấm, một niệm bất giác mới đến đầu thai; nếu đầu thai là bổn lai diện mục thì Phật tánh cũng là luân hồi, chẳng phải cứu cánh. Nay ông dứt hết vọng niệm, đến cảnh giới thanh thanh tịnh tịnh (vô thỉ vô minh), cần phải khởi nghi tình nhìn thẳng cảnh giới này, nhìn đến sơn cùng thủy tận, hầm sâu vô minh phá tan, tức là bản lai diện mục. Bản lai diện mục chẳng khởi vọng niệm, vọng niệm từ kiến, văn, giác, tri đã biến thành bản lai diện mục rồi, vậy mới được gọi là minh tâm kiến tánh.
+
+***
+Tăng hỏi: Con dụng công theo Kinh Đại Bát Nhã, trong Kinh nói: “Kiến vô sở kiến tức chơn kiến, tri vô sở tri tức chơn tri, tất cả trí huệ trong sạch, chẳng hai chẳng khác, chẳng phân biệt hai và chẳng hai, cũng chẳng đoạn diệt”. Con dụng công như thế. Lúc đi đứng, nằm, ngồi, tất cả tiếp xúc, lúc thấy chẳng phân biệt sở thấy, lúc biết chẳng phân biệt là tâm biết, tư tưởng chẳng cần dứt sạch, chỉ cần không phân biệt, vậy phải là minh tâm kiến tánh chăng? Hợp với lý Thiền Tông chăng?
+
+Sư nói: Ông thật quá ngu dại, mấy lời này trong Kinh Bát Nhã là lời nói của người đã kiến tánh, lời ấy phát huy từ trong Trí huệ Bát Nhã, nói “Kiến vô sở kiến tức chơn kiến” là thấy vũ trụ vạn vật đều là Phật tánh, khi đã kiến tánh, khởi tâm động niệm, suy nghĩ đều là Phật tánh. “Tất cả trí huệ trong sạch, chẳng hai chẳng khác, chẳng phân biệt hai và chẳng hai, cũng chẳng đoạn diệt” là nói khi kiến tánh rồi, khởi tâm động niệm đều chẳng lìa Phật tánh, tất cả chẳng hai chẳng khác chẳng đoạn, những lời này là người đã kiến tánh mới được nói vậy. Ý kinh nói vũ trụ vạn vật đều là trí huệ, khởi tâm động niệm đều là trí huệ, trong Kinh nói: “Tất cả sắc vô biên nên Bát Nhã cũng vô biên”, Bát Nhã dịch là Trí huệ, cách dụng công của ông phân biệt và chẳng phân biệt đều là tác dụng của kiến, văn, giác, tri, với Phật tánh chẳng dính dáng. Nếu thật chẳng phân biệt, đâu biết mặc áo ăn cơm. Dụng công như ông muôn kiếp chẳng thể kiến tánh. Ông nên đem cái niệm chẳng phân biệt ấy sửa lại là “Đời này quyết định phải thấy Bát Nhã Phật tánh” rồi khởi nghi tình nhìn thẳng đi, khi nhân duyên đến, hầm sâu vô minh phá tan thì được thấy Bát Nhã của Phật tánh, rồi mới thấu rõ cái lý “Kiến vô sở kiến tức chơn kiến, tri vô sở tri tức chơn chi” vậy.
+
+***
+Tăng hỏi: Con ở núi Chung Nam bốn mươi mấy năm, dụng công như thế này: Niệm đã sanh là vọng niệm, niệm chưa sanh là Phật tánh chơn tâm, mỗi ngày khởi niệm động niệm mỗi mỗi rõ ràng, lúc niệm chẳng khởi thì tịch mà thường chiếu, lúc động niệm thì chiếu mà thường tịch, cũng đều mỗi mỗi rõ ràng, dụng công như thế hợp vói cách tu của Thiền Tông chăng?
+
+Sư nói: Ông tu nhiều năm, là bậc lão Tôn túc, nhưng dụng công như thế thật là sai lầm lớn. Ông cho nghiệp thức của kiến, văn, giác, tri là Phật tánh, Phật tánh như như bất động, đâu thể khởi vọng niệm! Cái tịnh mà thường chiếu với chiếu mà thường tịch mỗi mỗi rõ ràng của ông nói, đều là tác dụng của bộ não, với Phật tánh trọn chẳng dính đáng, nay ông nhận giặc làm con, Phật nói bọn này thật đáng thương xót! Ông nên đem cái niệm mỗi mỗi rõ ràng đó nhìn thẳng chỗ hầm sâu vô minh, khi nhân duyên đến, hầm sâu vô minh tan rã, liền thấy Bổn lai Phật tánh. Khi đã kiến tánh rồi, khởi niệm, động niệm, tịch mà thường chiếu, chiếu mà thường tịch thảy đều là Phật tánh, chẳng cần phân biệt nữa.
+
+***
+Tăng hỏi: Người xưa nói: “Nhận lấy tự tánh, bổn lai thành Phật, chẳng nhờ tu trì, chẳng thuộc đốn, tiệm, vạn đức viên mãn, thể tự như như”. Con từng theo ý này dụng công, một niệm chẳng khởi tức là Phật tánh, chẳng nhờ tu trì, như thế có phải minh tâm kiến tánh chăng?
+
+Sư nói: “Lời của người xưa nói ấy là lời đã kiến tánh, người chưa ngộ chẳng thể dùng suy nghĩ đoán mò. Ông cho một niệm chẳng khởi tức là Phật tánh, nhưng một niệm khởi nghi chỉ là tạm thời, chẳng phải Phật tánh, ông nên khởi một niệm này hướng vào chỗ chẳng khởi niệm nhìn thẳng, đến khi công phu thuần thục, “ồ” lên một tiếng, vô thỉ vô minh phá tan, liền thấy Phật tánh, mới biết tự tâm vốn là Phật, chẳng nhờ tu trì, chẳng thuộc đốn, tiệm, cảnh giới này mới thật là vạn đức viên mãn".
+
+***
+Tăng hỏi: Cách dụng công của con là ban đêm bất đảo đơn, đến bốn giờ sáng thì buồn ngủ, ban ngày dụng công thì theo phương pháp của Cổ Đức nói “Chẳng sợ vọng khởi, chi e giác chậm”, luôn luôn chiếu cố một niệm, một niệm mê rồi liền mau mau đề khởi, dụng công như thế hợp với pháp Thiền Tông chăng?
+
+Sư nói: Vọng niệm khởi là từ kiến, văn, giác, tri, ông muốn giác ngộ cũng phải dùng kiến, văn, giác, tri, cho nên mê với ngộ chẳng ngoài tác dụng kiến, văn, giác, tri, nơi phạm vi kiến, văn, giác, tri chẳng liên quan với Phật tánh. Trong bản thể Phật tánh chẳng có mê, với giác, ông dùng cái niệm “chẳng sợ vọng khởi, chỉ e giác chậm” ấy nhìn ngay chỗ mịt mù đen tối, nhìn đến sơn cùng thủy tận, được thấy bản thể Phật tánh mới biết rõ mê ngộ trọn chẳng dính dánh, khởi niệm diệt niệm đều là tác dụng của Phật tánh. Bất đảo đơn có ảnh hưởng sức khỏe, buồn ngủ thì phải ngủ, có sức khỏe dụng công tốt hơn.
+
+***
+Tăng hỏi: Cách dụng công của con là theo Kinh Lăng Nghiêm nói: “Tri kiến lập tri là căn bản của vô minh, tri kiến vô kiến ấy là Niết Bàn”. Con cho rằng tri kiến lập tri là ấn tượng trong bộ não, đã gieo hạt giống tức là căn bản vô minh, tri kiến vô kiến là nói cái tâm giống như tấm gương trơn, vật gì in vào cũng không không dính, vậy tâm không trụ tức là Niết Bàn.
+
+Sư nói: “Tri kiến tức là căn bản của vô minh" là nói người chưa kiến tánh tất cả đều do kiến, văn, giác, tri làm chủ, tất cả tri kiến lập ra đều là căn bản vô minh. ‘Tri kiến vô kiến ấy tức Niết Bàn" là nói người đã kiến tánh rồi thì Phật tánh làm chủ, tất cả tri kiến đều biến thành Phật tánh, giống như hai câu kinh “Kiến vô sở kiến tức chơn kiến, Tri vô sở tri tức chơn tri” vậy. Cách dụng công của ông nói chẳng trụ chẳng chấp trước, cái tâm muốn chẳng trụ chẳng chấp trước đó tức là trụ, là chấp trước rồi. Sau khi kiến tánh, trụ và chấp trước đều là Phật tánh, cho nên chấp trước và chẳng chấp trước chẳng dính dáng với sự thành Phật, ông nên dùng cái niệm chẳng trụ chẳng chấp trước ấy chuyên tâm nhìn thẳng đi, hễ công phu đến mức, liền thấy Phật tánh, lúc ấy mới thấu rõ tất cả tri kiến đều là Phật tánh.
+
+Cư sĩ hỏi: Con cảm thấy con người ở đời làm việc thiện chớ nên cầu phước báo, con làm việc thiện, chẳng có ngã tướng, nhơn tướng, chúng sanh tướng, như thế phải minh tâm kiến tánh chăng?
+
+Sư nói: Kinh Hoa Nghiêm nói: “Quên mất tâm Bồ Đề tu các pháp thiện ấy là nghiệp ma”. Ông làm việc thiện chẳng cầu phước báo đâu phải minh tâm kiến tánh! Làm việc thiện là bổn phận nên làm của con người, làm thiện thì được phước báo là chẳng lìa nhân quả, trong Phật tánh thì thiện với ác trọn bất khả đắc, phải thấy Phật tánh mới là minh tâm kiến tánh, ông chẳng cầu minh tâm kiến tánh mà chuyên làm việc thiện, đâu thể liễu thoát sanh tử! ông hãy dùng cái niệm làm việc thiện ấy hồi quang phản chiếu, ngay đó nhìn thẳng đi, khi thấy được bản thể Phật tánh mới là liễu thoát sanh tử.
+
+***
+Cư sĩ hỏi: Con dụng công theo Kinh Niết Bàn nói: ‘Các hạnh vô thường, là pháp sanh diệt, sanh diệt diệt rồi, tịch diệt làm vui”. Lúc đang dụng công, cảm thấy vũ trụ vạn vật đều là sanh sanh diệt diệt, nếu đem tư tưởng dứt sạch, chẳng khởi một niệm thì tất cả đều chẳng sanh diệt, tức là tịch diệt làm vui, dụng công như thế hợp với pháp Thiền Tông chăng?
+
+Sư nói: “Các hạnh vô thường, là pháp sanh diệt” là nói người chưa kiến tánh, tất cả đều do kiến, văn, giác, tri làm chủ, Phật tánh bị vô minh che khuất, nên mới có sanh tử luân hồi". Sanh diệt diệt rồi” là nói hầm sâu vô minh đã phá tan thì thấy Phật tánh. “Tịch diệt làm vui” là nói sau khi thấy Phật tánh, tất cả đều biến thành Phật tánh, chẳng sanh chẳng diệt, chẳng động chẳng tịnh. Theo cách dụng công của ông lúc thì sanh diệt, lúc thì tịch diệt, trở đi trở lại xoay chuyển chẳng ngừng, muôn kiếp chẳng thể kiến tánh. Ông chớ nên diệt niệm, vẫn khởi một chánh niệm (nghi tình) ngay đó nhìn thẳng đi, hễ hầm sâu vô minh phá tan, liền thấy tịch diệt của Phật tánh, mới biết Phật tánh vốn chẳng sanh chẳng diệt, như thế mới là phương pháp dụng công của Thiền Tông.
+
+***
+Tăng hỏi: Con dụng công tu hồi quang phản chiếu, từ ý căn khởi niệm phản chiếu niệm, niệm niệm rõ ràng, vậy hợp với pháp tu của Thiền Tông chăng?
+
+Sư nói: Khởi niệm là kiến, văn, giác, tri khởi, hồi qung phản chiếu cũng là tác dụng của kiến, văn, giác, tri, ông dùng ý căn quán xét giác và mê, đều ở trong phạm vi kiến, văn, giác, tri. Phật tánh là như như bất động, giác và mê trọn chẳng dính dáng. Ông nên đem cái niệm hồi quang phản chiếu giác và mê ấy ngay đó nhìn thẳng chỗ đen tối mịt mù, khi hầm sâu vô minh phá tan, liền thấy Phật tánh, mới biết giác và mê trọn chẳng dính dáng.
+
+***
+Tăng hỏi: Con dùng hai câu: Diệu hữu chơn không, chơn không diệu hữu” để dụng công; người Tiểu thừa lọt nơi hữu, Trung thừa lọt nơi không, con cho rằng Phật tánh nói là hữu cũng là không, không cũng là hữu, chẳng thể nói là không, cũng chẳng thể nói là hữu, tức là phi không phi hữu của Trung đạo, như thế hợp với lý của Thiền Tông chăng?
+
+Sư nói: Ông dụng công như thế muôn kiếp chẳng thể kiến tánh. Không với hữu là tác dụng kiến, văn, giác, tri của bộ não, cách ông nói là hai bên đều chẳng cứu cánh, giống như lý “mập mờ nhấp nhoáng, trong đó có tinh” của Lão Tử nói. Kỳ thật Phật tánh vốn là sẵn sàng, diệu hữu chơn không, chơn không diệu hữu đối với Phật tánh trọn chẳng dính dáng. Ông cho “không" và “hữu” tác dụng của kiến, văn, giác, tri là Phật tánh đó là sai, ông nên đem cái niệm hay nhận diệu hữu chơn không ấy ngay đó nhìn thẳng chỗ hầm sâu đen tối, khi hầm sâu vô minh phá tan thì tất cả đều là Phật tánh, còn nói chi “Diệu hữu chơn không” nữa!
+
+***
+Tăng hỏi: Con theo cái lý “Tất cả Pháp chẳng sanh, tất cả pháp chẳng diệt, nếu được hiểu như thế, chư Phật hường hiện tiền “trong Kinh Hoa Nghiêm để dụng công. Con cho rằng vũ trụ vạn hữu đều có sanh có diệt, nếu đem tư tưởng dứt hết thì chẳng sanh chẳng diệt, tức là Phật tánh, dụng công như thế hợp lý Thiền tông chăng?
+
+Sư nói: Lời trong Kinh Hoa Nghiêm là lời của người đã ngộ, nếu ông được kiên tánh thì chư Phật với ta chẳng khác. Người xưa nói: “Chẳng những ta nay tự liễu đạt, hằng sa chư Phật thể cùng đồng”. Ông dụng công như thế này là sai lầm. Ông nói tư tưởng dứt là Phật, tư tưởng khởi là chúng sanh, tức là Phật vẫn có luân hồi, sai lầm biết bao! Nay ông chớ nên dứt niệm, nên khởi một niệm hướng vào nguồn gốc chẳng sanh diệt ngay đó nhìn thẳng đi, hễ hầm sâu vô minh tan rã thì tất cả đều là Phật tánh, tức là chư Phật thường hiện tiền rồi.
+
+Tăng hỏi: Kinh Lăng Nghiêm nói: “Nếu được chuyển vật tức đồng Như Lai’, con cho rằng con người trong vũ trụ thảy đều bị chuyển, cho nên có sanh diệt luân hồi, sanh diệt là xuất phát từ vọng niệm, nếu chuyển được vọng niệm thì chuyển được vạn vật, vậy tức đồng Như Lai. Cách dụng công của con là đem một niệm sơ khởi luôn luôn tỉnh giác không cho nó mê muội, như thế hợp với tu hành của Thiền Tông chăng?
+
+Sư nói: “Nếu được chuyển vật tức đồng Như Lai” là lời của người đã ngộ, hễ ánh sáng của Phật tánh chiếu khắp thì thấy kiến, văn, giác, tri, ngũ uẩn, lục căn, thập nhị xứ, thập bát giới, nhị thập ngũ hữu, ba mươi bảy phẩm trợ đạo, mỗi mỗi khởi tâm động niệm cho đến trần lao phiền não, núi sông đất đai, vũ trụ vạn vật, tất cả đều biến thành Phật tánh, nên Kinh nói: “Ngũ uẩn lục trần đều là chơn tâm diệu minh của Như Lai, núi sông, đất đai đều là chơn tâm diệu minh của Như lai”. Phật tánh mới có thể chuyển vạn vật, hễ được chuyển thì vĩnh viễn viên mãn, cái chuyển vật của ông là chuyển bằng bộ não, chuyển đi chuyển lại khi nào mới hết? Vậy làm sao kiến tánh được! Ông nên dùng cái niệm chuyển vạn vật ấy ngay đó nhìn thẳng đi, hễ hầm sâu vô minh phá tan thì thấy vạn vật với Như Lai chẳng hai chẳng khác”.
+
+***
+Tăng hỏi: “Cái nhân của các khổ, do tham dục là gốc, nếu diệt hết tham dục, liền ra khỏi luân hồi:. Con dụng công theo bốn câu này, nếu vọng tưởng dứt sạch thì chẳng có tham dục, liền được thoát khỏi cái khổ của luân hồi, dụng công như thế hợp với lý Thiền Tông chăng?”.
+
+Sư nói: Bốn câu này là pháp môn dụng công của Tiểu thừa, vì trong tâm người Tiểu thừa Phật tham dục quá nhiều, nên Phật bảo họ trừ tham dục trước, nhưng đó chỉ là Hóa Thành, chẳng phải Bửu Sở, ông chớ nổi niệm muốn dứt sạch vọng tưởng, nên đem cái niệm diệt tham dục ấy ngay đó nhìn thẳng đi, hễ hầm sâu vô minh tan rã, liền thấy ngay bản thể Phật tánh, mới biết Phật tánh vốn trong sạch chẳng có tham dục. Người hành đạo Bồ Tát mong chúng sanh thành Phật, ham muốn chúng sanh lìa biển khổ, ấy là tham dục chánh; ham danh ham lợi là cái tham dục bất chánh, sau khi minh tâm kiến tánh thì tham dục chánh là Phật tánh, tham dục bất chánh cũng là Phật tánh, Tiểu thừa và Đại thừa ở trong Phật pháp xê xích tơ hào thì cách xa ngàn dặm, ông nên theo phương pháp dụng công của Đại thừa mới có thể đến nơi Bửu Sở.
+
+ 
+
+PHỤ LỤC
+
+NGUYỆT KHÊ PHÁP SƯ CAO NGỌA XỨ BI VĂN
+
+
+
+Sư húy Tâm Viên, hiệu Nguyệt Khê, họ Ngô, tổ tiên là người Tiền Đường, tỉnh Triết Giang, lập nghiệp ở Côn Minh, tỉnh Vân Nam, truyền được ba đời đến Sư, cha là Tử Trang, mẹ là Lục Thánh Đức, sanh được năm con, Sư là út. Sư yếu đuối nhưng thích học, sớm đã thông minh đĩnh ngộ, theo học Nho với Uông Duy Dần tiên sinh. Nam 12 tuổi đọc Lan Đình Tập Tự đến câu “Tử sanh diệc đại hĩ, khí bất thống tai”. (Tử sanh là việc lớn, há chẳng đau khổ ư!), bỗng nhiên có giải ngộ; mới hỏi thầy rằng: “Làm thế nào có thể chẳng sanh chẳng tử được?”. Uông tiên sinh bảo: “Nhà Nho nói: “Chưa biết sanh làm sao biết tử, lời này phải hỏi nhà Phật học”.
+
+Bèn đến hỏi nhà Phật học, nhà Phật học bảo: “Nhục thể và linh tánh của kiến, văn, giác, tri đều ở trong lục đạo sanh tử luân hồi, Phật tánh thì như như bất động, bất sanh bất tử. Nếu chưa thấy Phật tánh thì Phật tánh luân hồi theo linh tánh của kiến, văn, giác, tri; nếu thấy Phật tánh tràn đầy hư không thì linh tánh của kiến, văn, giác, tri biến thành Phật tánh”.
+
+Sư hỏi: “Dùng cách nào mói thấy được Phật tánh? Nhà Phật học không đáp được, mới trao cho Sư các Kinh Bốn mươi hai Chương và Kinh Kim Cang. Từ đó nhân dịp theo học trường ở Thượng Hải, Sư kiêm thêm Phật học, cũng chuyên tâm nghiên cứu các sách của Lão Trang, xem hết Lục Kinh của nhà Nho, tham học khắp cách danh sư ở Giang Tô, Triết Giang, lễ bái các Đại Đức, trình câu của nhà Phật học bảo “Dùng cách nào mới có thể minh tâm kiến tánh" ra hỏi, nhưng các đáp án Sư đều chưa thỏa mãn.
+
+Bấy giờ Tôn túc Diệu Trí dạy hãy khán thoại đầu “Niệm Phật là ai?” Và nghiên cứu Đại Trí Độ Luận. Năm 19 tuổi, Sư quyết chí xuất gia xiển dương Chánh pháp, hồi nhỏ cha mẹ đã đính hôn cho Sư, Sư kiên quyết không lấy vợ. Vào năm ấy lễ Tỉnh An Hòa Thượng ở nơi đó xin xuống tóc thọ đại giới. Vừa xuất gia đã tinh tiến dũng mãnh, nơi Phật tiền đốt hai ngón tay út và áp út tay trái, cùng cắt miếng thịt nơi ngực to bằng bàn tay, trên đó đốt bốn mươi tám liễu cúng dường Phật, phát ba đại nguyện:
+
+1.- Chẳng ham ăn ngon, mặc đẹp, siêng tu khổ hạnh, chẳng bao giờ lui sụt.
+
+2.- Tham duyệt khắp tất cả kinh điển, khổ công tham cứu.
+
+3.- Đem hết sở đắc diễn giảng chỉ dạy để quảng lợi quần sanh.
+
+Mỗi ngày trừ việc xem kinh ra Sư còn tụng Phật hiệu năm ngàn tiếng, luôn tụng Hoa Nghiêm, Niết Bàn, Lăng Nghiêm. Lúc rảnh rỗi có khoá lễ bái Kinh Viên Giác, Sư Ông của Sư bảo rằng: “Tu như ngươi thì tại gia cũng được, cần gì phải xuất gia! Chẳng cần hiện Tăng tướng, cần phải chuyên tu pháp môn hướng thượng (Tổ Sư Thiền) mới là việc lớn bổn phận của người xuất gia”, rồi dạy khán thoại đầu “Muôn pháp về một, một về chỗ nào?” và trao cho Truyền Đăng Lục, Ngũ Đăng Hội Nguyên, Chỉ Nguyệt Lục; Sư xem qua có cái biết có cái không. Sư rất thích Lâm Tế Ngữ Lục, nhưng cách dụng công như thế nào vãn còn chưa rõ. Sư về sau theo Ngộ Tham Pháp, Sư học giáo lý của các Tông Thiên Thai, Hiền Thủ, Từ Ân.
+
+Năm 22 tuổi liền ra giảng kinh thuyết pháp, thính giả rất đông. Đáp lời mời của Pháp Hội Lăng Già ở Nam Kinh, Sư thị chúng rằng: “Chúng sanh bản lai là Phật, chỉ vì vọng niệm vô minh nên không liễu thoát sanh tử được, nếu phá được một phần vọng niệm vô minh thì được chứng một phần Pháp thân, vọng niệm vô minh phá hết thì Pháp thân hiển lộ”. Bấy giờ trong Pháp Hội có Tôn túc Khai Minh hỏi rằng: “Nếu vọng niệm vô minh từ ngoài đến, không có dính dáng gì với ông thì cần gì dứt nó? Nếu vọng niệm từ bên trong sanh ra, ví như nguồn suối luôn luôn có nước chảy ra, dứt rồi lại sanh, sanh rồi lại dứt, đến khi nào mới hết! Tu hành như thế thật chẳng có chỗ đúng! Vọng niệm dứt là Phật tánh, vọng niệm sanh khởi là chúng sanh, vậy thành Phật cũng có luân hồi ư?”. Sư không trả lời được, lại hỏi tiếp: “Pháp Sư chưa từng minh tâm kiến tánh, trong Kinh chẳng có những lời này, những lời này là có được từ các chú giải; người kiến tánh chú giải kinh điển thì chẳng sai, người chưa kiến tánh chú giải kinh điển nói Nam ra Bắc, lôi Đông bỏ Tây, thị phi điên đảo, có phải không?”. Sư đáp: “Phải”. Sư đảnh lễ Tôn túc và trình lời nhà Phật học nói về “Dùng cách nào mới có thể minh tâm kiến tánh?”, Tôn túc bảo: “Lời này Pháp Sư nên đến hỏi Tông Sư Thiết Nham ở Ngưu Đầu Sơn là người đã chứng ngộ”.
+
+Ngay đêm ấy Sư đến lễ hỏi Thiết Nham rằng: “Lão Hòa Thượng ở đây làm gì?”. Nham bảo: “Mặc áo ăn cơm, ngủ nghỉ, dạo núi, ngắm sông”. Sư nói: “Đáng tiếc cho sự uổng qua ngày tháng của Ngài!”. Nham nói: “Ta uổng qua thì được, nhưng ngươi không thể học ta uổng qua. Nếu ngươi đến được miếng điền điạ kia thì cũng có thể học ta uổng qua vậy!”. Sư nói: “Thế nào là miếng điền địa kia?”. Nham dựng một ngón tay lên, Sư đáp lại: “Con không biết!”. Sư hỏi: “Hiện nay con đem vọng niệm dứt sạch, chẳng trụ hữu vô, vậy có phải là miếng điền địa kia không?”. Nham bảo: “không phải, đó là cảnh giới vô thỉ vô minh". Sư hỏi: “Lâm Tế Tổ Sư nói đó là hầm sâu đen tối của vô minh thật đáng sợ, có phải vậy không?”. Nham bảo: “Phải”. Sư trình câu nói của nhà Phật học về “Dùng cách nào mới có thể minh tâm kiến tánh được?". Nham bảo: “Ngươi chớ nên dứt vọng niệm, nên dùng nhãn căn nhìn thẳng vào chỗ hầm sâu đen tối chẳng trụ hữu vô ấy, đi, đứng, nằm, ngồi chẳng được gián đoạn, khi nhân duyên đến, “ồ” lên một tiếng, hầm sâu đen tối của vô minh tan rã thì được minh tâm kiến tánh".
+
+Sư nghe lời này như uống cam lồ, từ ấy ngày đêm khổ hạnh, hình dung tiều tụy, ốm như cây củi, một đêm nghe tiếng gió thổi lá cây ngô đồng thì thoát nhiên chứng ngộ, mồ hôi như tắm rằng: “ồ” là vậy là vậy! Chẳng xanh chẳng trắng cũng chẳng tham thiền, cũng chẳng niệm Phật, cũng chẳng sanh tử đại sự, vô thường tấn tốc. Liền thuyết kệ rằng:
+
+Bản lai chẳng Phật chẳng chúng sanh,
+
+Thế giới chưa từng thấy một người,
+
+Thấu liễu cứu cánh là cái này,
+
+Tự tánh vẫn là tự mình sanh.
+
+Nhìn ra ngoài cửa sổ chính là vào canh tư, trăng treo trên nền trời xanh tít không dợn chút mây. Mấy ngày sau Sư đến Thiết Nham nói: “Chẳng cầu pháp môn dụng công, chỉ cầu lão Hòa Thượng ấn chứng”. Thiết Nham đưa cây gậy lên ra thế đánh hỏi Sư rằng: “Tào Khê chưa gặp Hoàng Mai, ý chỉ như thế nào?”. Sư đáp: “Lão Hòa Thượng muốn đánh người". Thiết Nham lại hỏi: “Sau khi gặp ý chỉ như thế nào?”. Sư vẫn đáp rằng: “Lão Hòa Thượng muốn đánh người". Nham gật đầu. Sư đem sở ngộ trình Thiết Nham, Nham bảo: “Ngươi chứng ngộ rồi, nay ta ấn chứng cho, ngươi có thể đem Truyền Đăng Lục để ấn chứng thêm. Đại Sự nguơi đã xong, có nhân duyên thì thuyết pháp độ sanh, chẳng nhân duyên có thể tùy duyên qua ngày”. Sư bèn đem Truyền Đăng Lục, Chỉ Nguyệt Lục, Ngũ Đăng Hội Nguyên và Kinh Hoa Nghiêm để ấn chúung, tất cả thấu rõ như nói chuyện việc nhà vậy, chẳng có việc lạ.
+
+Từ đó về sau Sư giảng kinh thì theo trong Kinh Hoa Nghiêm nói: “Thường giữ Phật tánh, không có biến đổi, chẳng nhiễm chẳng loạn, chẳng ngại chẳng chán, chẳng thọ huân nhiễm, chẳng khởi vọng niệm, vì vọng niệm sanh khởi từ linh tánh của kiến, văn, giác, tri, trừ bỏ vốn bệnh chỉ, tác, nhậm, diệt, chẳng dứt vọng niệm, dùng một niệm để phá tan vô thỉ vô minh “làm chủ yếu”.
+
+Sư giảng kinh thuyết pháp đều từ trong tự tánh nói ra, chẳng xem chú giải của người khác. Về sau thể theo lời mời của các tỉnh Trung Quốc cho đến Hương Cảng, Áo Môn; Sư đăng đàn thuyết pháp liên tiếp mấy chục năm, giảng kinh hơn hai trăm năm mươi hội, cứ một kinh là một hội.
+
+Tánh Sư siêu nhiên ngoại vật, hành cước các nơi như Chung Nam, Thái Bạch, Hương Sơn, Hoa Sơn, Nga Mi, Cửu Hoa, Phổ Đà, Ngũ Đài, Thái Sơn, Tung Sơn, Hoàng Sơn, Võ Đang, Lư Sơn, Mao Sơn, Mạc Can, Lao Sơn, Hằng Sơn, La Phù Sơn v.v... Mỗi khi hành cước nơi rừng sâu núi cao mấy tháng quên về, đến danh sơn nào cũng có thi đối. Sư gỏi đàn thất huyền, hành cước đều mang đàn theo, Sư tiết tháo cao cả, độ lượng rộng lượng, chẳng ứng thú theo thói đời, hình dáng sáng suốt hùng vĩ, đến bậc túc nho thông đạt cũng phục hạnh trang nghiêm đơn giản của Sư, trứ tác thi văn bày tỏ bản sắc siêu việt pháp thế gian.
+
+Sư lúc già đưa một ngón tay vì môn đồ thuyết pháp rằng: “Đến từ cùng khắp hư không đến, Phật Ca Diếp, Phật Thích Ca; đi từ cùng khắp hư không đi, Quan Thế Âm, Phật Di Đà. Chư Phật cổ kim đều ở trên đầu ngón tay của lão Tăng, chẳng đi chẳng đến; lão Tăng cũng ở trên đầu ngón tay, chẳng đi chẳng đến. Các ngươi nếu nhận được thì đó là chỗ an thân lập mạng của các ngươi!”.
+
+Thuyết kệ rằng:
+
+Giảng kinh thuyết pháp mấy mươi năm,
+
+Độ sanh, vô sanh muôn muôn ngàn,
+
+Đợi khi một ngày thế duyên hết,
+
+Đầy khắp hư không đại tự tại.
+
+Sư phó chúc đệ tử rằng: Tứ đại theo nhân duyên sanh, có sanh ắt có diệt; tự tánh vốn vô sanh, vô sanh cũng vô diệt. Nay nói có sanh ắt có diệt là tứ đại phải có chỗ về. Chỗ về chọn trên đỉnh Bảo Mã Sơn, sau làng Đỗ Gia Dinh, ngoài cửa Nam thành? Phố Côn Minh nhìn xuống, ngay hồ Côn Minh làm cao ngọa xứ”.
+
+Suốt đời Sư chưa độ một đệ tử xuất gia, đệ tử tại gia hơn một trăm sáu mươi ngàn người. Sư tùy theo căn cơ của đệ tử mà dạy tu pháp môn khác nhau, trong đó tham thiền ngộ đạo có tám người: Ngũ Đài Tịch Chơn, Minh Tịnh Tôn Túc, Cư sĩ Lý Quảng Quyền ở Bắc Bình, cư sĩ Chu Vận Pháp ở Thượng Hải, còn bốn người đã qua đời từ trước.
+
+Sư có trứ tác: Duy Ma Kinh Giảng Lục, Lăng Già Kinh Giảng Lục, Viên Giác Kinh Giảng Lục, Kim Cang Kinh Giảng Lục, Tâm Kinh Giảng Lục, Phật Giáo nhân sinh quan, Phật Pháp Vấn Đáp Lục, Đại Thừa Bát Tông Tu Pháp, Đại Thừa Tuyệt Đối Luận, Nguyệt Khê Ngũ Lục, Tham Thiền Tu Pháp, Niệm Phật Tu Pháp, Vĩnh Phong Đường Cầm Khóa.
+
+Ngày rằm tháng hai năm Trung Hoa Dân Quốc thứ 60 (1971 CN).
+
+Đệ tử TRÍ VIÊN kính soạn và viết.
+
+ 
+
+TIỂU TRUYỆN CỦA NGUYỆT KHÊ PHÁP SƯ
+
+Tác giả: Mục Sư VƯƠNG CẢNH KHÁNH
+
+
+
+Tôi với Nguyệt Khê Pháp Sư quen biết đã hơn ba mươi năm, cùng ở xứ Sa Điền Hồng Kông, lúc rãnh rỗi thường qua lại thăm nhau, mặc dù tín ngưỡng chẳng đồng, nhưng tâm của chúng tôi hình như có một linh tánh thông nhau, mỗi khi gặp nói chuyện, hai người đều cảm thấy rất khế ghợp. Tôi rất thích Sư tánh tình ngay thẳng, tâm chẳng quanh co, tiếng nói hùng dũng, thành thật thiết tha, chẳng khách sáo, chẳng giả dối.
+
+Nhìn theo hình tướng bề ngoài Sư rất giống một kẻ ăn xin, mặc quần áo cũ và rách, chân chẳng giày vớ, mùa lạnh mùa nóng cũng thường mang một đôi dép cũ, cầm một cây gậy, một túi vải nhỏ, tóc dài xòe vai, còn để bộ râu thưa thớt, hình dáng là một khổ hạnh đầu đà, khi đi xe lửa hoặc xuống bắc qua biển, thường mua vé hạng chót, không khi nào vì mình mà lãng phí đồng xu. Có người nói: “Sư chẳng phải không có tiền, Sư là một triệu phú”, Sư phải triệu phú hay không, ở đây tạm gác qua một bên sau này sẽ bảo cho biết. Mỗi lần tôi gặp Sư trên xe lửa, mặc dù tôi đã mua vé hạng nhì, nhưng vẫn thích cùng ngồi ghế hạng chót với Sư để được nói chuyện với nhau. Bạn bè thường chê cười tôi rằng: “Ông không sợ bị lây con rệp của Sư kia chăng?”. Sở dĩ ông bạn này cười tôi, là vì ông ta chẳng nhận biết cái tâm của Nguyệt Khê Pháp Sư.
+
+Tôi đối với Nguyệt Khê Pháp Sư, chẳng phải nhìn theo hình tướng bề ngoài mà nhìn theo nội tâm của Sư. Nội tâm của Sư rất tốt đẹp, nhân sinh quan và tư tưởng của Sư rất là viên mãn, đủ cho người đời thưỏng thức. Sư mười chín tuổi xuất gia, suốt đời phụng sự Thiền Tông, đối với Phật Pháp có kiến giải mở mang sáng tỏ.
+
+Sư họ Ngô, là người Côn Minh tỉnh Vân Nam, căn cứ lời của Sư nói, lúc mười hai tuổi đọc Lan Đình Tập Tự đến câu “Sanh tử là việc lớn, há chẳng đau khổ thay!”. Từ đó bắt đầu suy nghĩ làm sao giải quyết việc lớn sanh tử. Đến tuổi mười chín theo Tịnh An Hòa Thượng xuống tóc, khi mới xuất gia, nhiệt tình hồ đồ, phát tâm trước tượng Phật đốt ngón út và ngón áp út bên tay trái, còn cắt ở trước ngực một miếng thịt lớn như bàn tay, lại đốt thêm bốn mươi liều ngay chỗ vết thương trên ngực để cúng dường Phật.
+
+Lúc 22 tuổi Sư bắt đầu giảng kinh thuyết pháp, Sư nói: “Chúng sanh bổn lai là Phật, chỉ vì vô minh vọng niệm nên sanh tử chẳng thể liễu thoát. Nếu phá được một phần vô minh vọng niệm thì được chứng đắc một phần Pháp thân, Khi vô minh vọng niệm phá sạch thì Pháp thân hiển lộ”. Lời này hiển nhiên là lối tu dùng công phu tiệm tiến như lời của Thần Tú: “Luôn luôn siêng lau chùi chớ cho dính bụi trần”. Khi ấy có một thính giả là người lão tu hành, nghe xong lại hỏi Sư: “Nếu vô minh vọng niệm từ bên ngoài đến thì chẳng dính dáng với Sư, đâu cần đoạn dứt nó! Nếu vọng niệm từ bên trong ra thì giống như nguồn suối luôn luôn có nước ra, dứt rồi lại ra, ra rồi lại dứt đến khi nào mới hết! Sư nói vọng niệm dứt sạch là Phật tánh, vọng niệm khởi là chúng sanh, khi dứt khi khởi, vậy thì thành Phật cũng có luân hồi, tu hành như thế thật chẳng đúng”.
+
+Ngay lúc đó người Pháp Sư chẳng thể trả lời câu hỏi của người lão tu hành, bèn khiêm tốn xin chỉ dạy. Lão tu hành nói: “Sư nên đi núi Ngưu Thủ tìm Hoà Thượng Thiết Nham”. Đêm đó Sư liền vâng lời tìm đến yết kiến Thiết Nham Hòa Thượng mà hỏi:
+
+- Lão Hòa Thượng ở đây làm gì?
+
+- Mặc áo, ăn cơm, ngủ nghỉ, dạo núi, ngắm sông.
+
+- Vậy há chẳng phải uổng qua ngày giờ chăng?
+
+- Ta thì uổng qua được, nhưng ngươi thì chẳng thể học ta uổng qua. Nếu ngươi đến chỗ “miếng điền địa kia” thì cũng được học ta bỏ uổng qua ngày. 
+
+- Thế nào là chỗ miếng điền địa kia? Nay con đem vọng niệm dứt sạch, chẳng trụ nơi hữu và vô, vậy phải là chỗ “miếng điền địa kia” chăng?
+
+- Không phải, sở thấy của ngươi là cảnh giới vô thỉ vô minh, là chỗ hầm sâu đen tối lắng lặng của vô minh, ngươi chớ nên dứt vọng niệm, nên dùng nhãn căn hướng ngay chỗ hầm sâu đen tối chẳng trụ hữu vô đó nhìn thẳng, đi, đứng, nằm, ngồi chẳng cho gián đoạn, khi nhân duyên đến, hầm sâu đen tối của vô minh hễ phá tan thì được minh tâm kiến tánh.
+
+Từ đó Sư ngày đêm khổ tham, cho đến hình dáng tiều tụy, ốm lòi xương như cây củi, một đêm nghe tiếng gió thổi lá ngô đồng, hoát nhiên đại ngộ, về sau đi hành cước bốn phương, khắp danh sơn thắng cảnh như Chung Nam Sơn, Thái Bạch Sơn, Hoa Sơn, Cửu Hoa Sơn, Phổ Đà Sơn, Ngũ Đài Sơn, Thái Sơn, Tung Sơn, Huỳnh Sơn, Võ Đang Sơn, Lao Sơn, La Phù Sơn v.v... đi khắp các tỉnh Nam Bắc trong Trung Quốc. Khoảng năm 1933 đến Sa Điền, ban sơ ở Tây Lâm, tôi lần đầu tiên gặp Sư vào năm 1934 tại phòng khách núi Đạo Phong, năm 1949 được Phật tử triệu phú Giảng Ngọc Giai là chủ công ty thuốc lá Nam Dương cúng dường Hối Tư Viện cho Sư để sáng lập Phật Học Viện ở trên núi đối diện ga xe lửa Sa Điền. Viện này sau vì một việc nhỏ mà bị giải tán. Nay người du khách đến du lịch chỉ biết ấy là Vạn Phật Tự, chẳng biết nguyên danh là Hối Tự Viện, thật ra Vạn Phật Tự chẳng phải tên thiệt, chỉ vì Sư xây một ngôi điện Vạn Phật, trước cửa điện đề hai chữ lớn là “Vạn Phật", nên du khách theo đó gọi là Vạn Phật Tự mà thôi.
+
+Muốn diễn tả tư tưởng nhân sinh quan của Sư chẳng phải là việc dễ, nghe nói Sư có những tác phẩm như Duy Ma Kinh Giảng Lục, Lăng Già Kinh Giảng Lục, Viên Giác Kinh Giảng Lục, Kim Cang Kinh Giảng Lục, Tâm Kinh Giảng Lục, Phật Giáo Nhân Sinh Quan, Phật Pháp Vấn Đáp Lục, Đại Thừa Bát Tông Tu Pháp, Đại Thừa Tuyệt Đối Luận, Nguyệt Khê Ngữ Lục, Tham Thiền Tu Pháp v.v... Nay trong tay tôi chỉ có hai cuốn Phật giáo nhân sinh quan và Nguyệt Khê Pháp Ngữ Lục. Phật Giáo nhân sinh quan do Diệp Chí Tôn là đệ tử của Ngài biên soạn, chỉ có một trăm trang nói về giáo lý thông thường, chẳng có chỗ đặc biệt. Nguyệt Khê Pháp Sư ngữ lục khoảng bốn trăm năm mươi trang cũng do đệ tử của Ngài biên soạn trong đó đều là lời khai thị nhiều lần của Ngài. Nay trích ra vài đoạn đặc sắc như sau:
+
+- Dụng công tu hành cần nhất là phá tan vô thỉ vô minh. Kinh Hoa Nghiêm nói: “Vô thỉ huyễn vô minh". Kinh Thắng Man nói: “Đoạn dứt vô thỉ vô minh". Tổ Sư Thiền Tông gọi là “Hầm sâu vô minh", đầu sào trăm thước, v.v... (trang 18).
+
+- Sư thượng đường thuyết pháp rằng: “Tuyệt đối chơn như đầy khắp hư không vũ trụ, ấy là chơn không, tuyệt sắc tướng, bổn lai diện mục là diệu minh, như như bất động, chẳng có phương sở, chẳng có tên gọi. Ở đây nhận được thì hoát nhiên giải thoát, liền thấy Phật tánh, tùy duyên tiêu dao, mặc ý qua lại, có Phật pháp gì để học, sanh tử để liễu, thiền đạo để tu, Niết Bàn để chứng? Chẳng có một pháp để thành, chẳng có chúng sanh để độ. Tạm tạng giáo điển đều là giấy trắng, một chữ cũng xài chẳng được, một ngàn bảy trăm công án đều là đàm giải, tất cả đều chẳng dính dáng. Thế nào là Phật? Cây gậy của lão Tăng, Thế nào là Pháp? Đôi giày cỏ của lão Tăng.
+
+Sau đây là mấy đoạn nhật ký của tôi:
+
+Nhật ký ngày 7 tháng 7 năm 1962.
+
+* Tôi thấy chùa Vạn Phật có trồng nhiều cây trúc vàng, trên thân cây có sọc màu xanh, tôi viết thư nhờ người mang đến cho Sư xin tặng cho mấy cây để trồng trên núi Đạo Phong, hôm nay được thư trả lời của Sư: hẹn dẫn thêm hai ba người đi đào cây, nên tôi cùng với Tăng Quang, Ngô Hạo, Đặng Quế Lâm mang theo cây cuốc, dây thừng và đòn gánh đến chùa núi đào trúc. Lúc đó vào mùa nắng, Sư không mặc áo, chạy đi chạy lại đang đôn đốc mấy người thợ xây cất Đại Bi Điện. Điện này luôn cả trang điểm và dựng tượng Phật tốn khoảng năm mươi ngàn đồng. Sư dẫn chúng tôi đến chỗ cây trúc nói: “Cây trúc có rễ thì trồng đứng, không có rễ thì phải trồng nằm, mỗi ngày tưới nước, vào mùa mưa trồng rất tốt”. Lại nói: “Trúc này vốn sản xuất từ Tứ Xuyên. Khi Trương Chi Động làm Tổng đốc hai tỉnh Quảng Đông, Quảng Tây, sai người từ Tứ Xuyên dời đến Quảng Đông”.
+
+Ông Đặng hỏi: “Pháp Sư năm nay bao nhiêu tuổi?”.
+
+Sư nói: “Tám mươi bốn mà tóc tôi chưa trắng, chỉ có mấy sợi râu râu đã trắng, vì Sư ở trần nên thấy trước ngực Sư có một vết sẹo lớn và bên tay trái thiếu hai ngón.
+
+Sư nói tiếp: ‘Phật Giáo có người phê bình núi Đạo Phong, tôi thì cho rằng núi Đạo Phong hành đạo Bồ Tát, khuyên người hành việc lành, giúp người thành gia lập nghiệp, làm một công dân tốt trên xã hội, đều là làm những việc hữu ích”.
+
+Các người đã đào trúc xong, tôi từ giã với Sư rồi Sư tiếp tục đi xem mấy người thợ xây điện, bước chân nhanh nhẹn giống như người thanh niên.
+
+Nhật ký ngày 28-11-1962.
+
+Buổi sáng Sư đến thăm tôi, tôi dẫn Sư đi dạo khắp nơi trên núi Đạo Phong, thấy Sư tinh thần đầy đủ, tiếng nói hùng dũng; chúng tôi đến trước Tòa Thánh. Sư nói: “Viện này nhỏ quá, có hữu (nhà ăn và nhà khách) mà không có tả (vì phía bên trái là núi chẳng thể xây nhà) nên chẳng thể tụ chúng đông”.
+
+Sư đưa cho tôi xem một lá thư bằng tiếng Anh của Sở nhà đất Cửu Long gởi, trong thơ nói về việc xây Điện Đại Bi chưa được Chánh phủ đồng ý phải ngừng lại, việc này khiến Sư rất bận tâm.
+
+Nhật ký ngày 29-10-1963
+Hôm nay hẹn với ông Từ Đạo Nghị đến chùa Vạn Phật thăm Sư và trả lại cho Sư bản thảo bài “Nghiên Cứu Đại Thừa Phật Pháp Chi Yếu Điểm”, bài này là Sư nhờ tôi trao cho Lương Đạo Úy biên chép lại.
+
+Sư nói: “Vương Mục Sư, ông là một người tốt”. Tôi nói: “Tôi cũng khâm phục kiến giải Phật học của Sư khác với Phật Giáo đồ thông thường”, “Một số Mục sư thường khinh rẻ tu sĩ Phật Giáo, ông thì chẳng phải vậy”.
+
+“Chúng ta cũng là người tôn giáo, đều là đạo hữu nên làm bạn bè”.
+
+Tôi hỏi: “Trước kia Sư đốt ngón, đốt thịt trước ngực, hôm nay thấy thế nào?”.
+
+Sư cười to nói: “Trước kia là ngu si”.
+
+- Hôm nay tôi hỏi Sư một vấn đề quan trọng - Đại thừa Phật pháp của Sư nói, cần nhất là phải minh tâm kiến tánh, muốn minh tâm kiến tánh trước tiên phải phá tan hầm sâu vô minh, theo kinh nghiệm của Sư hầm sâu vô minh làm sao phá?
+
+- Nhiếp lục căn nhìn thẳng vào chỗ đen tối mịt mù, bất cứ ngày đêm, đi, đứng, nằm, ngồi, một khi hoát nhiên khai ngộ, phá tan hầm sâu đen tối liền thấy Phật tánh.
+
+- Khai ngộ như thế thật là khó.
+
+- Khai ngộ là việc lớn sanh tử, dĩ nhiên phải khó.
+
+- Tôi nói cho Sư biết, tin đức Chúa Giêsu thì được cứu, chẳng phải khó như thế. Con người chỉ cần thật tình nhận tội sám hối để cho bửu huyết của Giêsu rửa sạch tâm họ thì Giêsu làm sinh mạng trong tâm họ, việc này người ngu dại và con nít đều dễ hiểu.
+
+Pháp Sư tỏ vẻ hài hước giả vờ ngó quanh hai bên lướt qua chuyện khác rằng: Núi Đạo Phong hiện nay có bao nhiêu người?
+
+- Hiện nay có lãnh tụ Tin Lành miền Viễn Đông và Á Châu, đại diện trong mười bốn nước hơn bảy mươi người hội nghị trên núi bàn về vấn đề phước lợi xã hội.
+
+Sư nói: “Ấy là một việc rất tốt”.
+
+Tôi nói: “Hiện nay Phật Giáo cũng có làm việc phước lợi xã hội".
+
+Sư nói: “Ít lắm”.
+
+Tôi hỏi: “Việc xây dựng điện Quan Âm tại sao ngừng lại”.
+
+- Vì Chính Phủ không chấp thuận.
+
+Nhật ký ngày 23-4-1965.
+
+Sáng nay tôi đi Cửu Long, gần đến ga xe lửa Sa Điền gặp Sư hai tay chống ở chỗ hành lang, Sư nói mắc bịnh, nhờ tôi kêu giùm xe taxi đi khám Bác sĩ, tôi kêu xe rồi dìu Sư lên xe, cùng đi còn có ba bà già, tôi thấy ba bà này chẳng thể chăm sóc Sư nên tôi cũng lên xe đi theo. Tôi nghĩ ở Cửu Long có nhiều bác sĩ và bệnh viện, khỏi cần qua bắc, đường xa quá, nhưng Sư kiên trì đi xem bác sĩ quen thuộc là Tiêu Gia Hỷ. Tôi nghĩ cũng có lý, xe đến bắc, ông tài xế không chịu qua bắc, tôi dìu Sư xuống xe, đi được mấy bước Sư nằm xuống giữa đường, tôi dùng hết sức lực mới đỡ được Sư đến lề đường, nghỉ một hồi, từ từ dìu Sư đến bắc qua biển, rồi kêu taxi đưa Sư đến phòng mạch bác sĩ, mới từ giã đi làm việc riêng của mình.
+
+Đâu ngờ từ giã lần này tức là vĩnh biệt. Ba ngày sau là ngày 26 tháng 4, tôi bỗng xem báo thấy đăng tin “Trụ trì chùa Vạn Phật ở Sa Điền là Nguyệt Khê Lão Pháp Sư đã tịch lúc 21 giờ 00 ngày 23-4-1965 Âm lịch, trụ thế 87 năm ...”
+
+Sau khi Sư tịch, các đệ tử đem nhục thân của Sư thép vàng, thờ trong điện Phật A Di Đà, nhục thân này hơi ốm, không mập mạp hồng hào bằng khi còn tại thế.
